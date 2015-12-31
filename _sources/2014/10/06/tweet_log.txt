@@ -1,0 +1,44 @@
+ツイートまとめ(2014-09-29から2014-10-05)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+(機械的に追加中)
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">【文化放送：（新）緑川光・今井麻美・内田彩のチェンクロラジオ】視聴中<br />http://t.co/OD8ueKLp0O #radiko #joqr</p>
+    <p class="twinker_footer">at 2014-10-05 12:32 / <a href="https://twitter.com/attakei/statuses/518740598103085056" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">@whitehonamin 日曜は用事あり。月曜なら可能ー</p>
+    <p class="twinker_footer">at 2014-10-04 04:21 / <a href="https://twitter.com/attakei/statuses/518254674168643584" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">「は？どういう意味？」は「What do you mean?」と発音が似ているのでそのままの意味で通じる</p>
+    <p class="twinker_footer">at 2014-09-30 13:03 / <a href="https://twitter.com/yaplus/statuses/516936357139054592" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">迂闊にも会社に家の鍵を置いて帰ってしまい、しょんぼりしながら徒歩で帰宅中。<br />この時期の歩きルートはギンナン臭がキツイのだよ…</p>
+    <p class="twinker_footer">at 2014-09-29 14:23 / <a href="https://twitter.com/attakei/statuses/516594152419504128" target="_blank">go to tweet</a></p>
+    </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::

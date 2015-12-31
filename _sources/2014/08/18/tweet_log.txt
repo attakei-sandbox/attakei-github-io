@@ -1,0 +1,63 @@
+ツイートまとめ(2014-08-11から2014-08-17)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+twinkererの目処がついたので、改めてツイートのログをエントリーにし直す。
+ローカルでビルドしてみたら、リスト化した際にエントリーが長すぎたので、通常表示を2個までにする。
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">「都内に30歳以上の魔法使いや妖精がいる」「時に雨雲も呼ぶ」との噂を聞きつけ、彼らが集うという魔王の城にやってきました  #C86 http://t.co/Y7XqJa2ywC</p>
+    <p class="twinker_footer">at 2014-08-15 02:22 / <a href="https://twitter.com/tospo_news/statuses/500105225655418880" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">出社はしているものの、疲労度ラインが第二しきい値を超えた感がある。<br />体調は昨日と左程変わらないのに、ダルさだけは昨日より数段上</p>
+    <p class="twinker_footer">at 2014-08-15 04:11 / <a href="https://twitter.com/attakei/statuses/500132754701684736" target="_blank">go to tweet</a></p>
+    </div>
+
+..  more::
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">とある鍵屋さんが、独立したての新米の頃、鍵を無くした顧客のドアを汗水たらして時間をかけて開けたら一万円の料金でも喜ばれ感謝もされたとのこと。それが今や数分でドアの鍵を開けると「たった数分の仕事で１万？」と文句を言われる。<br /><br />示唆に富むというか、なんかIT業界でも同じような気が・・</p>
+    <p class="twinker_footer">at 2014-08-12 12:23 / <a href="https://twitter.com/itokenken11/statuses/499169354101956608" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">#年齢確認行動大喜利　<br />「この本下さい」<br />「年齢を確認します。はーしーれー！」<br />「「「「「「「「「光速の、帝国歌劇団！」」」」」」」」<br />「はい、ここにいる奴全員年齢の確認できたから500円な」</p>
+    <p class="twinker_footer">at 2014-08-09 15:06 / <a href="https://twitter.com/kagaykimihiko/statuses/498123120171966464" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">intellij idea のTerminal pluginをちょこちょこ使っているけど、起動するときProject内の先頭の名前のModuleのパスからスタートしてることに気づいた。<br />個人的には、Projectのルートから開始して欲しいけど、設定で出来るのかわからない……</p>
+    <p class="twinker_footer">at 2014-08-14 03:32 / <a href="https://twitter.com/attakei/statuses/499760513387986947" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">.@suda_hiroshi さんの「@vvakame氏によるGitHubで簡単！コントリビューション！」をお気に入りにしました。 http://t.co/KsctSwc1jp</p>
+    <p class="twinker_footer">at 2014-08-11 04:33 / <a href="https://twitter.com/attakei/statuses/498688648556994560" target="_blank">go to tweet</a></p>
+    </div>
+
+
+.. author:: default
+.. categories:: 自動投稿
+.. tags:: twitter
+.. comments::

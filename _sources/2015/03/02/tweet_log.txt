@@ -1,0 +1,165 @@
+ツイートまとめ(2015-02-23から2015-03-01)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">始まりました。音も自分は特に気になったりはしないです #rebuildfm</p>
+   <p class="twinker_footer">at 2015-02-28 23:59 / <a href="https://twitter.com/attakei/statuses/571822025276145664" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">意識してたからなのか、きれいに15分ぐらい前に目が覚めた #rebuildfm</p>
+   <p class="twinker_footer">at 2015-02-28 23:58 / <a href="https://twitter.com/attakei/statuses/571821704701353984" target="_blank">go to tweet</a></p>
+   </div>
+
+.. more::
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">鈴木このみ「ANIMAX MUSIX 初大阪公演ありがとー！＆２つの嬉しいお知らせ!!!」http://t.co/HdZbjJDTQ7  5/6ワンマンに続きお知らせ！奥井雅美さんバースデーライブにゲスト出演決定‼︎2015年3月13日(金) TSUTAYA O-EAST</p>
+   <p class="twinker_footer">at 2015-02-28 16:19 / <a href="https://twitter.com/11pikiyasan/statuses/571706186174623744" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">MBA来るかな？Late2010では最近さすがに厳しいので / Appleが3月9日に発表会！Apple WatchとMacBook Retina Air登場？ - 週アスPLUS http://t.co/PcB3VqnL88</p>
+   <p class="twinker_footer">at 2015-02-27 08:07 / <a href="https://twitter.com/attakei/statuses/571220001459347457" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">妹が『母親と田村ゆかりさんはほぼ同い年だから母親を推しているような物だ』と言い出し、母親に田村ゆかりさんの曲を歌わせていた。母親が裏声で「だ〜ありん、まわる愛の時間〜デュヒヒ…」って歌った後に、妹が「世界一かわいいよ！」って叫んでて、まさに"""生き地獄"""だった。</p>
+   <p class="twinker_footer">at 2015-02-26 12:32 / <a href="https://twitter.com/okomesiroi/statuses/570924358203371520" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">誰でも一度は聞かされたことのある「努力しても成功するとは限らない、だが成功した人はすべて努力している！」という意識高いセリフ、さて、この「努力」を「パチンコ」に変えてみましょう。はい一気にクズになりましたね。言ってる内容よりも論理構造を見ましょうね</p>
+   <p class="twinker_footer">at 2015-02-26 05:06 / <a href="https://twitter.com/MAMAAAAU/statuses/570812067294228481" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">プルル　プルル　ガチャッ<br /><br />犯人「よく聞け。たった今attakeiを人質にとった。嘘ではない。返してほしければ『スイカバー5箱』を用意しろ。それほどの価値がこいつにある。」<br />母親「分割払いでお願いします」 <br />http://t.co/nKYYDk1DJz</p>
+   <p class="twinker_footer">at 2015-02-26 11:40 / <a href="https://twitter.com/attakei/statuses/570911305323782144" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">Python で開発されて Java とかにも移植された Tim Sort にバグが見つかった。<br />修正は次にリリースされる Python になるので、4096TB以上のメモリを載せたマシンを使ってる人は開発版を使う事。</p>
+   <p class="twinker_footer">at 2015-02-26 04:12 / <a href="https://twitter.com/methane/statuses/570798437584613377" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">.@kotatsu_mi さんの「#25歳までに経験しておきたいUNIX管理作業での失敗」をお気に入りにしました。 http://t.co/Ff7aBf0Fnl</p>
+   <p class="twinker_footer">at 2015-02-26 04:39 / <a href="https://twitter.com/attakei/statuses/570805233426702337" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">Ansible + Mackerel APIによる1000台規模のサーバオペレーション - ゆううきブログ http://t.co/GQWMSsbGD8</p>
+   <p class="twinker_footer">at 2015-02-26 01:35 / <a href="https://twitter.com/voluntas/statuses/570759054349303808" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">それでは聴いて下さい。<br />「明日、母がカツ丼」 http://t.co/Jc25fKxHxn</p>
+   <p class="twinker_footer">at 2015-02-26 03:44 / <a href="https://twitter.com/wwwwarawwww/statuses/570791468547346432" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">最後、チャラソンになってる... / <br />チェインクロニクル #11『緑川光・今井麻美・内田彩のもっと！チェンクロできるかな？』 2015年2月25日: http://t.co/UodAi4iOjm @YouTubeさんから</p>
+   <p class="twinker_footer">at 2015-02-25 15:15 / <a href="https://twitter.com/attakei/statuses/570602916609794048" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">そういえば、ドラえもんののび太、「怠けるためには最大の効率化を惜しまない」し、「ドラえもんの道具の悪用方法を直ぐに思い浮かべる」し、この二つの指向性って、ハッカーの気質に近いものを感じるから、もしかしたらのび太に必要なのは、あやとりではなくパソコンの可能性がある</p>
+   <p class="twinker_footer">at 2015-02-25 05:27 / <a href="https://twitter.com/esehara/statuses/570454947839352832" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">user$ sudo su<br />（ここでslが走る）<br />user$</p>
+   <p class="twinker_footer">at 2015-02-25 05:06 / <a href="https://twitter.com/penguin2716/statuses/570449714379825152" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">rootのログインシェルをslにしたい</p>
+   <p class="twinker_footer">at 2015-02-25 05:06 / <a href="https://twitter.com/penguin2716/statuses/570449619626237952" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">なんでカタカナで処理してんの? 医療機関のシステムが圧倒的に悪いだろとしか思えない RT @skdwm: DQNネーム（キラキラネーム）つけるやつはまずこれの人の記事見てよく考えよう http://t.co/IUeY0kBMej</p>
+   <p class="twinker_footer">at 2015-02-25 03:35 / <a href="https://twitter.com/masarakki/statuses/570426829271486464" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">Web企業のインフラエンジニア、そろそろインフラにもなってない基盤運用しかしてないのに、インフラエンジニア名乗るのやめたほうがいいと思うけど、適切な語句を思いついていない。</p>
+   <p class="twinker_footer">at 2015-02-23 01:12 / <a href="https://twitter.com/harukasan/statuses/569665974393184256" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ブーケプルズなんてのもあるんだ #muuun #agqr</p>
+   <p class="twinker_footer">at 2015-02-23 13:29 / <a href="https://twitter.com/attakei/statuses/569851527524802560" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">家でむ〜〜〜ん視聴できてる #muuun #agqr</p>
+   <p class="twinker_footer">at 2015-02-23 13:01 / <a href="https://twitter.com/attakei/statuses/569844384125972481" target="_blank">go to tweet</a></p>
+   </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::

@@ -1,0 +1,11 @@
+tinkererを使ったブログなどに切替中
+===================================
+
+bloggerのブログをだいぶ放置気味だったのと、
+個人的にReStructuredTextに慣れたいのがあったのでちょっと引っ越し調整中。
+
+
+.. author:: default
+.. categories:: site
+.. tags:: python
+.. comments:: 

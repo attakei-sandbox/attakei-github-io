@@ -1,0 +1,32 @@
+技術メモ類
+==========
+
+公開しているもの
+----------------
+
+.. toctree::
+   :maxdepth: 1
+
+   releases/deck2pdf
+   releases/Twinkerer
+   releases/omniauth-backlog
+
+
+今、追っかけているもの
+-----------------------
+
+※基本的に、業務or趣味or兼を考慮せずに記載しています。
+
+* クイズイベントのまとめフィード
+* PyPyを触る。時間があればプチ言語作ってみる。
+* kivyでのアプリ作成
+* electron
+* Amazon Lambda
+
+ちょっと下火
+-------------
+
+* OpenVPNをもうちょっと知る。自宅とVPSをつないで何かとか
+* クイズ脳（仮）
+* backloglibに絡む機会を
+* zabbixによる各種監視体制の構築。思い切って、自宅の常時稼働マシンも報告してみたい

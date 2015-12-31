@@ -1,0 +1,69 @@
+ツイートまとめ(2015-03-02から2015-03-08)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">探索用メモ：boot2dockerで起動したcoreos上のdocker相手にansibleでimage作成とコンテナ起動を行う方法</p>
+   <p class="twinker_footer">at 2015-03-08 05:50 / <a href="https://twitter.com/attakei/statuses/574447101884526592" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">「ゲラゲラポーで一発逆転 トラックに轢かれダサいと言われたわたしが地縛霊になるまで」 #猫が読んでそうなハウツー本</p>
+   <p class="twinker_footer">at 2015-03-02 03:07 / <a href="https://twitter.com/sayakaeru/statuses/572231775142846464" target="_blank">go to tweet</a></p>
+   </div>
+
+.. more::
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">井口家の日常です。 #agqr #muuun http://t.co/O7z917PpQl</p>
+   <p class="twinker_footer">at 2015-03-02 13:35 / <a href="https://twitter.com/sinno_marimo/statuses/572389712465281024" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">読まれてしまったｗ #agqr #muuun</p>
+   <p class="twinker_footer">at 2015-03-02 13:33 / <a href="https://twitter.com/sinno_marimo/statuses/572389307333283840" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">Q:キャラソン歌う時、どこから声を出している？ A:のどだよ。 #agqr  #muuun</p>
+   <p class="twinker_footer">at 2015-03-02 13:27 / <a href="https://twitter.com/haruonsphereR3/statuses/572387773799219200" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">東京に無いのに東京を名乗る国際的に有名な施設があります。2つも。#住んでる都道府県を名前を出さずに言う</p>
+   <p class="twinker_footer">at 2015-03-02 12:21 / <a href="https://twitter.com/LunarModule7/statuses/572371114963292160" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">今週末のアニソンCLUBに落選した腹いせ混じりに、行こうかと思ってたけど先行スルーしてた来週末のライブチケット購入した。</p>
+   <p class="twinker_footer">at 2015-03-02 12:25 / <a href="https://twitter.com/attakei/statuses/572372042302935040" target="_blank">go to tweet</a></p>
+   </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::

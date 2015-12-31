@@ -1,0 +1,381 @@
+ツイートまとめ(2015-09-14から2015-09-20)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">実質去年のTGSきっかけで始めたチェンクロ、気づけば1年間ずっとログインし続けたらしい。 http://t.co/hDs2RNtSgP</p>
+   <p class="twinker_footer">at 2015-09-20 05:50 / <a href="https://twitter.com/attakei/statuses/645475213040320513" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">次回すしルートで「Python✖️寿司」もしくは「野球✖️寿司」でお声が掛かるよう頑張りたいと思います(意訳・俺も寿司食べたい)</p>
+   <p class="twinker_footer">at 2015-09-18 15:02 / <a href="https://twitter.com/shinyorke/statuses/644889169056022528" target="_blank">go to tweet</a></p>
+   </div>
+
+.. more::
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">iPhone4sのほうがバッテリーが空になってたので充電してたら、気づいたらiOS9になってるー！？？</p>
+   <p class="twinker_footer">at 2015-09-17 12:27 / <a href="https://twitter.com/attakei/statuses/644487819407134720" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">htmlスライドをスライドとしてpdfを楽にすることを考えているけど、やっぱりphantomjsあたりが一番シンプルでいいのだろうか</p>
+   <p class="twinker_footer">at 2015-09-17 10:17 / <a href="https://twitter.com/attakei/statuses/644455215555604480" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">仮結論:自分の体はFPx系のゲームについていけない</p>
+   <p class="twinker_footer">at 2015-09-17 09:10 / <a href="https://twitter.com/attakei/statuses/644438294663688192" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">今日の感想。ゲームビジネスは儲かるんだね、やっぱり。悪い意味じゃなくて、ビジネスとして一定の価値基準は超えて、市場があってお客さんに向けての商売ができるのは重要だよ。</p>
+   <p class="twinker_footer">at 2015-09-17 08:20 / <a href="https://twitter.com/asahina_mukade/statuses/644425654302195712" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">一人だけ正直者がいます<br /><br />仕様書_最新.xls「僕が最新」<br />仕様書_new.xls「仕様書.xlsは３番目に新しいね」<br />仕様書.xls「僕は仕様書_new.xlsの次に新しいよ」<br />仕様書_0818.xls「仕様書_最新.xlsは嘘ついてる」<br />ソース「仕様書全部古いよ」</p>
+   <p class="twinker_footer">at 2014-08-18 06:31 / <a href="https://twitter.com/wonderful_panda/statuses/501255133573836800" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">フードコートで昼食中</p>
+   <p class="twinker_footer">at 2015-09-17 04:34 / <a href="https://twitter.com/attakei/statuses/644368684581036032" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ビジネスデーってこんなに混むの？</p>
+   <p class="twinker_footer">at 2015-09-17 04:23 / <a href="https://twitter.com/attakei/statuses/644365935516758016" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">海浜幕張なう！いやーもう雨のなかけっこうな人が…！これでまだビジネスデーの午前中なんだよねw #tgs2015</p>
+   <p class="twinker_footer">at 2015-09-17 02:52 / <a href="https://twitter.com/yoshidahisanori/statuses/644343244650885120" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ようやく幕張着いた。</p>
+   <p class="twinker_footer">at 2015-09-17 02:55 / <a href="https://twitter.com/attakei/statuses/644343768481681408" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">やばい：【要望】Excelの『置換』機能の名称に関して｜マイクロソフト コミュニティ http://t.co/OQzoWXwsWb<br /><br />「『ここでちかんする』とか『ちかんを実行する』等、痴漢と勘違いされてしまう言葉だ」<br />　　↓<br />「あなたの会社では、成功した、とかも禁句なのですか？」</p>
+   <p class="twinker_footer">at 2015-09-17 00:30 / <a href="https://twitter.com/kokubucamera/statuses/644307324715204608" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">【拡散希望！】国民の目が安保採決に向いてる隙に、政府は「派遣法改正」の超スピードパブコメ募集強行（たった３日という暴挙）経済徴兵制につながる社会保障関連法には１人でも多く声を届ける事が重要、パブコメ大量にくれば無視できなくなります→http://t.co/S7lxrW8ncV</p>
+   <p class="twinker_footer">at 2015-09-16 05:19 / <a href="https://twitter.com/TsutsumiMika/statuses/644017653422559232" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">友「残業手当って略したら残テだよね」<br />俺「エヴァかよ」<br />友「♪残業だ　手当がネーゼ」<br />俺「悲惨だから替え歌やめろ」<br />友「♪窓辺から　やがて飛び立つ」<br />俺「悲惨だからそこは変えてくれ」</p>
+   <p class="twinker_footer">at 2015-09-15 10:35 / <a href="https://twitter.com/Apina_0726/statuses/643734981001371648" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">Python3.5.0で動くサービスをローンチしたぞ（趣味プロジェクトで）</p>
+   <p class="twinker_footer">at 2015-09-15 15:56 / <a href="https://twitter.com/shinyorke/statuses/643815756220641285" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">勉強会とかに参加しだしたのだけれど、エンジニアとしての公私があやふやになっていく感覚がある。</p>
+   <p class="twinker_footer">at 2015-09-15 16:02 / <a href="https://twitter.com/attakei/statuses/643817198402838528" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">学歴とか職歴で人を判断してはいけない、という当たり前の事実を、「関東学院大学工学部建築学科卒→建築関係の職→ブルボン労務課→高島屋新宿店おもちゃ売り場→三井住友銀行貸金庫担当員→声優」（wiki情報）を見ながら改めて実感している。これが噂の「地獄」か……。</p>
+   <p class="twinker_footer">at 2015-09-15 11:55 / <a href="https://twitter.com/diedie_16/statuses/643754984614395904" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">何時間いてもタダで日本一の蔵書数のマンガ喫茶に来たぞ http://t.co/L9plk0oZOQ</p>
+   <p class="twinker_footer">at 2015-09-15 05:06 / <a href="https://twitter.com/ATP__/statuses/643652111335485440" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">秦さん、マサキ・アンドー https://t.co/Wr3cvIzdEx</p>
+   <p class="twinker_footer">at 2015-09-15 03:51 / <a href="https://twitter.com/moririnmonson/statuses/643633242927534081" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">結局のところroleのファイル構造に対するansibleの思想をちゃんとドキュメントあたりを咀嚼してからかな</p>
+   <p class="twinker_footer">at 2015-09-14 13:19 / <a href="https://twitter.com/attakei/statuses/643413698321760258" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">「main.ymlだらけでつらいなら、main.ymlでなくともロールが動く解釈してもらうのもアリかな？」なんて改めて思ってしまった #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 12:41 / <a href="https://twitter.com/attakei/statuses/643404266124759041" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">ansibleを愛する余り、ansibleで何でもやってしまおうとする… 気を付けておこう… #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 11:31 / <a href="https://twitter.com/grimrose/statuses/643386501963735040" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">「あんしぇぼー」 #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 11:44 / <a href="https://twitter.com/attakei/statuses/643389952093515776" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">やっぱり出たPyPy #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 11:11 / <a href="https://twitter.com/attakei/statuses/643381643709915136" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ansibleとCoreOSをraw,scriptでやるのはさすがにキツイ #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 11:11 / <a href="https://twitter.com/attakei/statuses/643381490525585409" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">Deplow メモメモ #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 11:07 / <a href="https://twitter.com/attakei/statuses/643380606634754048" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ansibleでkubernates... 興味深い #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 11:06 / <a href="https://twitter.com/attakei/statuses/643380175716134912" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">やっぱりインフラよりのツールはpython3対応が遅い印象があるかな... #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 10:49 / <a href="https://twitter.com/attakei/statuses/643375913032380416" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">consul,serfあたりから inventory作れるってことかな #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 10:43 / <a href="https://twitter.com/attakei/statuses/643374427284086784" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">タスク実行戦略が増える。freeだと全ホストを待たずにガンガン進むらしいけど、先行ホストが途中で止まったら、後発ホストはどこまで進むんだろうか #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 10:38 / <a href="https://twitter.com/attakei/statuses/643373252576976897" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">whenたくさん書いてた。blockうれしい #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 10:35 / <a href="https://twitter.com/orita/statuses/643372441117462528" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ansible2.0: block機能でtask分割、例外処理を可能に #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 10:36 / <a href="https://twitter.com/attakei/statuses/643372678091513856" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">2.0＞taskを分割するblock機能、whenをひとまとめにできる。例外処理もカバーする #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 10:35 / <a href="https://twitter.com/attakei/statuses/643372532314296320" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">「Ansible2.0は内部構造色々変わるけど 従来のplaybookと100%互換性がある」予定 #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 10:33 / <a href="https://twitter.com/attakei/statuses/643372045267550208" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ansible2.0 の話始まった #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 10:32 / <a href="https://twitter.com/attakei/statuses/643371783073202176" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ec2モジュールで夜間停止するとかは面白いかも。 #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 10:26 / <a href="https://twitter.com/attakei/statuses/643370309534531584" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">秘密鍵をGitにコミットとは香ばしい。<br />#ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 10:22 / <a href="https://twitter.com/YOUG_XX/statuses/643369216670846976" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">playbookのテスト方法、超参考になりそう #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 10:17 / <a href="https://twitter.com/attakei/statuses/643368074394083332" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">ディレクトリの分け方とかroleの分け方とかは参考になる。けれども、組織構造や変更が想定される箇所などでも最適なやり方は分かれるので、あくまで参考に、でしょうか。 #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 10:14 / <a href="https://twitter.com/r_rudi/statuses/643367317590536192" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">サーバのロール名統一。NASサーバー、シェアサーバー、ファイルサーバー、とかあるあるかなぁ #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 10:15 / <a href="https://twitter.com/attakei/statuses/643367576257564672" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">環境依存系や構成がシンプルなものをAnsibleへ #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 10:12 / <a href="https://twitter.com/attakei/statuses/643366661488250880" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ansibleはwindowsでも使える。これは重要な感じもする #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 10:08 / <a href="https://twitter.com/attakei/statuses/643365682567114752" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">出席してる #ansiblejp</p>
+   <p class="twinker_footer">at 2015-09-14 10:06 / <a href="https://twitter.com/attakei/statuses/643365216164675584" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">Yeah, so Python 3.5.0 is really out! https://t.co/OvHQb2PDPx Thanks all Python core contributors!</p>
+   <p class="twinker_footer">at 2015-09-14 03:09 / <a href="https://twitter.com/gvanrossum/statuses/643260321545633793" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">会社から撤退。もう夜は半袖だとしんどいな</p>
+   <p class="twinker_footer">at 2015-09-14 09:21 / <a href="https://twitter.com/attakei/statuses/643353777068765184" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">気づけばアニソン聴きながら仕事するようになってしまった･･･</p>
+   <p class="twinker_footer">at 2015-09-14 07:23 / <a href="https://twitter.com/naoya_ito/statuses/643324161020948480" target="_blank">go to tweet</a></p>
+   </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::

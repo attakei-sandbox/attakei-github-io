@@ -1,0 +1,397 @@
+ツイートまとめ(2014-11-10から2014-11-16)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">名言。 QT @karaage0703: 名言過ぎる「OpenCVが使えれば世の中の大抵の問題は解決できる」&gt; サイゼリヤの間違い探しが難しすぎたので大人の力で解決した http://t.co/PmEY60snNP</p>
+    <p class="twinker_footer">at 2014-11-16 10:38 / <a href="https://twitter.com/kakocom/statuses/533932003788218369" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">自転車いいよ、自転車。国道の歩道が狭いから中の路地を通ったら、すぐ近所なのに知らない店がいろいろあった。知らない路地もあった。楽しい。前に乗ってた自転車と違って驚くほど軽いのもいい。ひょいと持ち上げられそうな軽さで出し入れも苦じゃなくて走り出すとすいすい加速する。</p>
+    <p class="twinker_footer">at 2014-11-16 11:03 / <a href="https://twitter.com/linoleums/statuses/533938327741689856" target="_blank">go to tweet</a></p>
+    </div>
+
+.. more::
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">多分何年かぶりに二郎を食ったのだけれど（歌舞伎町店）、自分の記憶に残っている二郎と違いすぎて混乱しながら食べてた。</p>
+    <p class="twinker_footer">at 2014-11-16 11:14 / <a href="https://twitter.com/attakei/statuses/533941249548779520" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">流れていた情報とおりAndroid5.0ではcocos2dxのBGMが再生されないねー。</p>
+    <p class="twinker_footer">at 2014-11-16 04:32 / <a href="https://twitter.com/ArtigianoArt/statuses/533839927109103616" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">池袋にてみのりんライブの事前物販、買う予定だったものは一通り購入出来た。<br />このまま別件の新宿行くつもりだったんだけど、物量が多いので大人しく一旦帰宅するわ</p>
+    <p class="twinker_footer">at 2014-11-16 05:33 / <a href="https://twitter.com/attakei/statuses/533855233685061632" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">『ここにプログラマーは居るか』<br /><br />ABC「居ません」<br /><br />『そうか、お前ら全員今日から熟練プログラマーだ、連れて行け』<br /><br />ABC「うわあぁぁ」<br /><br />#プログラマー狩り</p>
+    <p class="twinker_footer">at 2014-11-15 06:31 / <a href="https://twitter.com/ryosms/statuses/533507685975482369" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">Advent Calendar に酒飲んでる勢いで参加表明してきた！頑張ろう</p>
+    <p class="twinker_footer">at 2014-11-14 13:25 / <a href="https://twitter.com/attakei/statuses/533249295571763201" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">これは感涙！！ひつじ年の2015年と2003年の年賀ハガキには12年越しの感動ドラマが隠されていた！ http://t.co/OuGPwm3Far #年賀状 http://t.co/oo98mfchO2</p>
+    <p class="twinker_footer">at 2014-11-13 15:30 / <a href="https://twitter.com/japaaan_com/statuses/532918351303950337" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">この「チョットデキル」は文字通りの意味ではなく、その言語の奥深さを理解し、己の理解の浅さに悟りを得た高僧クラスの方を召し抱えたいという高いレベルの人材募集である。<br />https://t.co/mBPZauLyBX</p>
+    <p class="twinker_footer">at 2014-11-14 06:18 / <a href="https://twitter.com/zetamatta/statuses/533141898060255234" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">オオカミも大ハシャギ！<br />木に積もった雪が落ちて大興奮！ http://t.co/un2fUS7Z2V</p>
+    <p class="twinker_footer">at 2014-11-14 05:53 / <a href="https://twitter.com/marudou_fan/statuses/533135654855512065" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">専門分野の学生さんがお怒り。→『今「黄色い粉」でツイッタ検索すると放射脳のみなさんが騒いでますけど、それはスギ花粉です。スギは夏～秋に花粉作って春まで貯めておくんですけど、勘違いして今の季節に放出する早漏がいるんです。放射性物質でもなんでもねぇから。私の鼻水止まんねぇから畜生。』</p>
+    <p class="twinker_footer">at 2014-11-14 03:18 / <a href="https://twitter.com/any_k/statuses/533096525493465088" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">klabがglee ww</p>
+    <p class="twinker_footer">at 2014-11-14 01:14 / <a href="https://twitter.com/zonoise/statuses/533065387399598081" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">まずい<br />2週間前に投げてたプルリクにフォーク元外っぽい人からコメントがきてた。<br />自分の英語力が残念なのもあって、Google翻訳駆使してもいまいち意味が読み取れない。</p>
+    <p class="twinker_footer">at 2014-11-13 16:50 / <a href="https://twitter.com/attakei/statuses/532938524077461504" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">「損保ジャパン日本興亜ひまわり生命保険株式会社（22文字）」も入力できる保険料控除申告書はこちら→『 まだ手書きで消耗してるの？年末調整用書類はフォーム付PDFで。』 http://t.co/qQE63E23jQ http://t.co/MAC09SWzHQ</p>
+    <p class="twinker_footer">at 2014-11-13 10:02 / <a href="https://twitter.com/katocpta/statuses/532835765177163776" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">Advent Calendar、もたもたしてたら最序盤に書くか最終盤に書くかの2択を迫られてしまってる。うわーどうすっかな……</p>
+    <p class="twinker_footer">at 2014-11-13 08:11 / <a href="https://twitter.com/attakei/statuses/532807953116839936" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">Fabric For IntelliJ/AndroidStudio でサインアウトする(mac) on @Qiita http://t.co/vQw9saxPUc</p>
+    <p class="twinker_footer">at 2014-11-13 06:13 / <a href="https://twitter.com/attakei/statuses/532778147687587841" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">オチすごい  Reading : 少年グループ 決闘容疑で送検 - NHK 首都圏 NEWS WEB  http://t.co/J4su0PXk16</p>
+    <p class="twinker_footer">at 2014-11-12 05:55 / <a href="https://twitter.com/ui_nyan/statuses/532411220125417472" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">日本にケンカ売っていくスタイル？ http://t.co/KWj74UJFLY</p>
+    <p class="twinker_footer">at 2014-11-12 07:47 / <a href="https://twitter.com/bleis/statuses/532439521493667841" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">グッズ購入時に発行するレシートにみのりんからの直筆メッセージがランダムで印刷されるスペシャル企画を実施します！どんなメッセージが出てくるかお楽しみに！ http://t.co/T5HdqXi6XQ #minorin</p>
+    <p class="twinker_footer">at 2014-11-12 07:16 / <a href="https://twitter.com/minorin_staff/statuses/532431739210063872" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">娘がした「バカは風邪ひかないの理屈説明」は我が家の定説となっている。<br /><br />「風邪ひいてることに、気が付かないし、引いたことがあっても忘れちゃんだよ、バカだから。そしたら『自分は風邪ひいたことが無い』ことになるでしょ？」<br /><br />「自覚の無さ」について、応用範囲が広い定説である。</p>
+    <p class="twinker_footer">at 2014-11-12 02:46 / <a href="https://twitter.com/nankuru28/statuses/532363755095474176" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">求:IntelliJ IDEA (or Android Studio)にインストールしたFabric Pluginにて、サインイン済みのユーザをサインアウトさせる方法</p>
+    <p class="twinker_footer">at 2014-11-12 05:50 / <a href="https://twitter.com/attakei/statuses/532410009578373120" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">マジだった！Rつかってジバニャン描けた！驚愕している<br />http://t.co/goblxPULxP<br /><br />RT @Akiyah: ジバニャン方程式をついに発見した<br />https://t.co/uxy4PM3A1r http://t.co/7qPTdzlZQ2</p>
+    <p class="twinker_footer">at 2014-11-12 04:06 / <a href="https://twitter.com/yanoshin/statuses/532383980293603328" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">「決闘」容疑で少年グループ書類送検 ( #NHK ) #googlenewsjp http://t.co/YedsgETkki</p>
+    <p class="twinker_footer">at 2014-11-12 05:40 / <a href="https://twitter.com/googlenewsjp/statuses/532407499807145984" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">minor version を 10 まで上げてしまったの、なんか負けた感がある ( #rebuildfm 的な意味で)</p>
+    <p class="twinker_footer">at 2014-11-12 05:27 / <a href="https://twitter.com/t_wada/statuses/532404361092030464" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">担々麺は汁なしの方が美味しい気がする。(なか卯で昼食を食べながら)</p>
+    <p class="twinker_footer">at 2014-11-12 05:23 / <a href="https://twitter.com/attakei/statuses/532403258225340416" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">ナルトの作者が新聞で取材うけてた<br />最後の締めがよかった http://t.co/D0FpxvJ7qw</p>
+    <p class="twinker_footer">at 2014-11-10 23:34 / <a href="https://twitter.com/mamoruorbit/statuses/531953191705776128" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">「推して参る」とか響きが好きでたまに使うけど、見参と推参と参上の意味の違いを調べたら<br /><br />見参→身分の高い人が下の者に会ってくれること<br />推参→人を訪問することを謙遜していう語<br />参上→他人の所へ行くことをへりくだっていう語<br /><br />らしくて「俺、参上！」のアイツが意外にも腰低いことを知る。</p>
+    <p class="twinker_footer">at 2014-02-07 09:35 / <a href="https://twitter.com/shuuichiroo/statuses/431722951176491008" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">【チェンクロ】11/13（木） 15:00より リングガチャ更新。新SSR “魔法兵団隊長”エフィメラ（CV:井口裕香）登場！ http://t.co/Dn5CKq7U46 #チェンクロ #チェインクロニクル</p>
+    <p class="twinker_footer">at 2014-11-12 04:25 / <a href="https://twitter.com/PirikaChro/statuses/532388767642828800" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">kivy+python-for-android with CrashlyticsKit どうにか組み込みできた。自分のFrabricダッシュボードにiOS/Androidの両方でkivyのアイコンが出てきてちょっとホッとしてる</p>
+    <p class="twinker_footer">at 2014-11-12 04:40 / <a href="https://twitter.com/attakei/statuses/532392369761812480" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">今年、一番苦労しました。 http://t.co/Dg5jDzMmMd</p>
+    <p class="twinker_footer">at 2014-11-11 09:30 / <a href="https://twitter.com/kurosawahisashi/statuses/532103150090452992" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">1週間かかって「CrashlyticsKit はantでのビルドと相性が悪そうだ」ということは分かった。</p>
+    <p class="twinker_footer">at 2014-11-11 16:33 / <a href="https://twitter.com/attakei/statuses/532209628214353920" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">ストレスフリーなんて無理なので「ストレスは感じるもの，折れる前に休むもの」というのを心掛けるのが健全かと思います．</p>
+    <p class="twinker_footer">at 2014-11-11 09:22 / <a href="https://twitter.com/tmaehara/statuses/532101110748553216" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">狐娘ポッキーゲーム http://t.co/LwboNp3x5m</p>
+    <p class="twinker_footer">at 2014-11-11 04:39 / <a href="https://twitter.com/Barikios/statuses/532029813578428417" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">発注者「誰かiPhoneアプリ作ってくれませんか？簡単なアプリです！！」<br />エンジニア「簡単かどうかを決めるのはお前じゃない。」</p>
+    <p class="twinker_footer">at 2014-11-10 18:08 / <a href="https://twitter.com/sugi511/statuses/531871130336776193" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">撤退する</p>
+    <p class="twinker_footer">at 2014-11-10 10:57 / <a href="https://twitter.com/attakei/statuses/531762579300155392" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">イルミネーションきれい！オッシャ、彼女と行くか！<br /><br />彼女<br />＿人人人人人人人人人人人＿<br />＞　NullPointerException　＜<br />￣Y^Y^Y^Y^Y^Y^YY^Y^Y￣</p>
+    <p class="twinker_footer">at 2014-11-10 10:53 / <a href="https://twitter.com/chomado/statuses/531761576206807040" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">左肩と二の腕がなんか動かしづらい。腕を回すとバキバキなってる</p>
+    <p class="twinker_footer">at 2014-11-10 10:55 / <a href="https://twitter.com/attakei/statuses/531762029972189184" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">"お分かりいただけただろうか・・・" http://t.co/wz6wIH2LT7</p>
+    <p class="twinker_footer">at 2014-11-10 08:19 / <a href="https://twitter.com/kami_joe999/statuses/531722878513713152" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">…ますか、聞こえ…ますか。いま、あなたの…心に直接語りかけて…います…。帳簿を…つけるのです…領収書を…支払調書を…引っ張り出して…整理するのです…。年末調整も…確定申告も…もう…あっという間に…やってきます…。</p>
+    <p class="twinker_footer">at 2014-11-10 05:35 / <a href="https://twitter.com/fluor_doublet/statuses/531681545015156736" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">大真面目にこの文を書く日が来るとは思いませんでした（ ´･∀･`） http://t.co/l1gcdSQfyv</p>
+    <p class="twinker_footer">at 2014-11-10 03:13 / <a href="https://twitter.com/kurasesu/statuses/531645764112355328" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">数年ぶりに来た友達とのメール<br /><br />友「久しぶり、10年前の約束覚えてる？」<br /><br />俺「ごめん覚えてない」<br /><br />友「シカマルがNARUTO終わるまでに死ぬかどうか飯賭けてただろ！！」<br /><br />俺「あ"ぁ"ーーー！思い出した！くそ！今度奢るわ💢」<br /><br />友「いや奢るのは俺だ...」<br /><br />律儀だなこいつ</p>
+    <p class="twinker_footer">at 2014-11-08 13:01 / <a href="https://twitter.com/Utori4545/statuses/531069048298029058" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">必殺技のセリフ(2秒くらい)を募集中！<br />★ファルベ(cv.内田彩)<br />おっとり魔法使い。３兄弟の姉。<br />★​リヒト(cv.緑川光)<br />ドS僧侶で武器が剣。攻撃系の必殺技を使う！３兄弟の真ん中。<br />​★ハンフ(cv.今井麻美)<br />男装の美少女の戦士。３兄弟の妹。<br />#agqr #joqr</p>
+    <p class="twinker_footer">at 2014-11-09 13:17 / <a href="https://twitter.com/chain1134/statuses/531435481058119681" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">昨日湧いた単語をメモ「溝ノ口例会族」</p>
+    <p class="twinker_footer">at 2014-11-09 16:35 / <a href="https://twitter.com/attakei/statuses/531485359671353345" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">左のシルエットから平然と右のキャラクターが出てくるのがゆでたまごクォリティ。<br />#キン肉マン http://t.co/mMLtD1MSVc</p>
+    <p class="twinker_footer">at 2014-11-09 15:16 / <a href="https://twitter.com/setupper_rxsun/statuses/531465454556958722" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">そして帰りに立ち寄って堪能した和歌山“とれとれ市場”で、同行スタッフみんなも一緒に乾杯ショット( ´ ▽ ` )ﾉ<br /><br />お疲れまでしたぁぁ(◍•ᴗ•◍)<br /><br />和歌山、まるごと美味しゅうございました‼️ http://t.co/mIw4IbcQoO</p>
+    <p class="twinker_footer">at 2014-11-09 14:26 / <a href="https://twitter.com/yonekurachihiro/statuses/531452651884380160" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">「圧迫面接を否定する人がいるが、企業は臨機応変さとストレス耐性を見ているんだよね」とツイートした人、圧迫面接に勝るとも劣らないツッコミや罵倒のreplyが大量に来ていて、自らの身をもって臨機応変さとストレス耐性を見せる羽目になってしまっていて最高</p>
+    <p class="twinker_footer">at 2014-11-09 01:42 / <a href="https://twitter.com/merli/statuses/531260408028332032" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">多分、何かしらの時間を作問に寄せてみようか考えてみる</p>
+    <p class="twinker_footer">at 2014-11-09 15:32 / <a href="https://twitter.com/attakei/statuses/531469310498447361" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">Android+Crashlryticsのトライは朝晩10分ぐらいまでにしよう。</p>
+    <p class="twinker_footer">at 2014-11-09 15:29 / <a href="https://twitter.com/attakei/statuses/531468599358021633" target="_blank">go to tweet</a></p>
+    </div>
+
+
+.. author:: default
+.. categories:: twitter
+.. tags:: 開発
+.. comments::

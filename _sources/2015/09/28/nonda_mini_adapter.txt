@@ -1,0 +1,44 @@
+nonda mini adapter だけが来た
+=============================
+
+.. include:: /_include/raw_html.rst
+
+Kickstarter に出ていて国内でもニュースになってたサードパーティ製のMacBook向けハブの `Hub+ USB-C Hub for the New MacBook 12" <http://www.nonda.co/products/usb-c-hub-for-apple-new-macbook-12-plus>`_  に出資してだいぶ前に資金集めに成功していました。
+が、このたびおまけのmini adapterだけが届きました。
+
+.. figure:: ../../../_static/photos/201509/adapter_only.jpg
+   :scale: 50%
+
+
+……本体は？
+
+.. more::
+
+
+先に結論を書くと、カラーリングだけでなく作りもしっかりしたはしていたので、正規品のUSB-A=Cアダプタを持たずに済みそうなのはよさげ。
+これならば、Hub+にも期待は持てるんじゃないかという印象。ただし本体の方に関して情報更新が少ないのが気がかり。
+
+（以下、写真）
+
+.. figure:: ../../../_static/photos/201509/adapter_with_macbook.jpg
+
+   MacBookに挿してみたところ。本体と色差分があるにはあるけど、そこまで気にならないレベル。
+   光るポイントがある模様。
+   
+   当然だが、USB-Cのために裏返しにも挿せる。この場合はランプは裏側に行くので全く目立たない。
+
+.. figure:: ../../../_static/photos/201509/adapter_with_macbook_2.jpg
+
+   ちょっとだけ遠目から撮影してみた。案外出っ張る。
+
+.. figure:: ../../../_static/photos/201509/adapter_with_cable.jpg
+
+   iPhoneのケーブルとついないでみたところ。iPhoneへの給電は問題なく出来た。
+   
+   …ちょっと収まりが悪いかな？
+
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::

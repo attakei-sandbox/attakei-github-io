@@ -1,0 +1,231 @@
+ツイートまとめ(2014-12-22から2014-12-28)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+value-domainが一際トラブルとして大きな話だった気がする。よりによって年末にこんなトラブルが起きなくても良かったのに。
+
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">【悲報】また自転車のスポークが一本外れた</p>
+   <p class="twinker_footer">at 2014-12-28 14:37 / <a href="https://twitter.com/attakei/statuses/549212476793831427" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">「早く起きて学校に行きなさいよ」<br />「いやだいやだ。先生も生徒もみんな僕の事をきらいだもん。なんで行かないと行けないの？」<br />「だって、あなたは４６歳で校長先生だから。」</p>
+   <p class="twinker_footer">at 2014-12-28 12:43 / <a href="https://twitter.com/dave_spector/statuses/549183799154982912" target="_blank">go to tweet</a></p>
+   </div>
+
+.. more::
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">握手会終わったので、今年のアニソン系イベントは全終了しました</p>
+   <p class="twinker_footer">at 2014-12-28 11:53 / <a href="https://twitter.com/attakei/statuses/549171370157154304" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ファンクラブイベントの握手会の順番がひたすら後ろのため、スタッフが全力で撤去作業をしてるのをぼーっと見てる。<br /><br />ステージは通常時よりさらに高くしてたのか……</p>
+   <p class="twinker_footer">at 2014-12-28 11:25 / <a href="https://twitter.com/attakei/statuses/549164308459163648" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">年末年始になにかつくろうと思ってる人、大晦日にやりませんか？<br />各自で自宅などで勝手にやる感じ(ボッチソン)で、進捗があったら #大晦日ハッカソン とつけてツイートするだけです！ / <br />大晦日ハッカソン2014 #atnd https://t.co/SGaG7ZttXE</p>
+   <p class="twinker_footer">at 2014-12-28 06:21 / <a href="https://twitter.com/yumu19/statuses/549087722053181440" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">CPANとかgemとかpypiとかって、どれくらいの有益度のものをどれぐらいの完成度で初回リリースすればいいのかよくわかんない</p>
+   <p class="twinker_footer">at 2014-12-28 11:18 / <a href="https://twitter.com/attakei/statuses/549162585896288256" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">今年まとめた記事をまとめました。年末年始に暇な時間ができたらぜひ読んでみてください / まとめのまとめ2014 - Togetterまとめ - http://t.co/syhT99s4xE</p>
+   <p class="twinker_footer">at 2014-12-28 10:45 / <a href="https://twitter.com/c_oi/statuses/549154275863973888" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">私が普段RTする際はそのツイートがオリジナルかどうかの簡単な調査をしているのですが、そうしてRTしてきたツイートをまとめたのが一連のまとめです。まとめ内ではツイート主のプロフィールもあわせて載せています。好きなツイートを見つけたらこの機会にぜひフォローの幅を広げてみてください。</p>
+   <p class="twinker_footer">at 2014-12-28 10:43 / <a href="https://twitter.com/c_oi/statuses/549153673603870722" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">属人性事案だ ”コアスタッフのプログラマが抜けて施策入れられなくなった” / “突如発表された『拡散性ミリオンアーサー』 サービス終了の真相を訊く [ファミ通app]” http://t.co/VDRVkAvQGu</p>
+   <p class="twinker_footer">at 2014-12-26 09:05 / <a href="https://twitter.com/VoQn/statuses/548404250481393665" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">【ニュース】2015年1月7日発売のゆいかおりニューシングル「NEO SIGNALIFE」より、MV“short B ver.”を公開！ http://t.co/q0rAV659w8 http://t.co/k0fMANotUX</p>
+   <p class="twinker_footer">at 2014-12-26 07:15 / <a href="https://twitter.com/animate_tv/statuses/548376427972657154" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">「VAIO開発のスマートフォン」と「VAIOブランドのスマートフォン」では、まるで違うからな。正直何も期待しないが吉かと思う＞VAIOブランドのスマートフォン</p>
+   <p class="twinker_footer">at 2014-12-25 02:17 / <a href="https://twitter.com/akoustam/statuses/547939033155129344" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">朝、駅にて自販機でコーヒーを買ったと思ったら手には抹茶ラテが握られていた。<br />脳がブラックコーヒーでスタンバイしていたのに妙に甘い味がきたので混乱気味</p>
+   <p class="twinker_footer">at 2014-12-25 01:45 / <a href="https://twitter.com/attakei/statuses/547931048047558656" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">元記事はチャットで「お疲れ様です」だけ送信すると相手を待たせて失礼だから用件まで入力しようという作法の話をしてたと思うけど、手段のためなら目的を選ばないかのような久々にすごいものを見た。<br />http://t.co/30U1mrCmFa</p>
+   <p class="twinker_footer">at 2014-12-24 10:37 / <a href="https://twitter.com/ktcy/statuses/547702548258250753" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">golang . jp がふっっるい情報出してくるの害悪じゃないか感高い…。html.NewTokenizerはどこいっちゃったんだよ</p>
+   <p class="twinker_footer">at 2014-12-24 07:04 / <a href="https://twitter.com/vvakame/statuses/547649108182171648" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ずっとSBT03R使っていたため浦島状態だったらしい。片耳ステレオ再生してくれるヘッドセット結構あるのね</p>
+   <p class="twinker_footer">at 2014-12-23 16:37 / <a href="https://twitter.com/attakei/statuses/547430706754764800" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">とりあえず、同条件に近いヘッドセットを探す旅にでようか。SBT03RBKはもう見つからないっぽいし。</p>
+   <p class="twinker_footer">at 2014-12-23 15:37 / <a href="https://twitter.com/attakei/statuses/547415724298223617" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">愛用の2代目の SBT03RBK がいよいよお亡くなりになったっぽい。ほとんど存在しない、「片耳のままでステレオ再生」してくれるヘッドセットだったのですこぶる重宝していたのになぁ</p>
+   <p class="twinker_footer">at 2014-12-23 15:30 / <a href="https://twitter.com/attakei/statuses/547413824635031553" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">字が消えて意味深に。 http://t.co/D5CpEAL3JD</p>
+   <p class="twinker_footer">at 2014-12-17 02:47 / <a href="https://twitter.com/AItoiI/statuses/545047715369852928" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">valudomain他の作業してたら、とりあえず復旧してたっぽい。 <br />もうしばらくは警戒しながらかなぁ<br />#valuedomainがんばれ</p>
+   <p class="twinker_footer">at 2014-12-22 07:06 / <a href="https://twitter.com/attakei/statuses/546924674685227008" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">value-domain、復活したぽい？ // <br />http://t.co/x6bqTlfCy0 ←「value-domainってどうよ」普段過疎スレなのにここ１時間で５０も消費。 / @VALUEDOMAIN　← そしてまったく使われていない公式ツイッターアカウント。</p>
+   <p class="twinker_footer">at 2014-12-22 06:12 / <a href="https://twitter.com/noranuk0/statuses/546911151125045248" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">@char_takayama ありがとうございます。<br />これって、http://t.co/2RCxEtywSx のwebページ自体に行けるIPアドレスでしょうか？</p>
+   <p class="twinker_footer">at 2014-12-22 06:15 / <a href="https://twitter.com/attakei/statuses/546911777439875072" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">value-domainの障害状況を追いたいけど、http://t.co/LN7PGDDUod のDNS自体がns?.value-domain.com なのでサイドにもいけない。<br />この中に、http://t.co/LN7PGDDUod のIPアドレスをご存じの方はいませんかー？</p>
+   <p class="twinker_footer">at 2014-12-22 06:11 / <a href="https://twitter.com/attakei/statuses/546910885231349760" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">「バリュードメインのサイトには障害情報出てないのかな、っと」「http://t.co/Dga3LqzxXMもつながらないのでは」「つながらないですね」「ですよね」「「HAHAHA」」</p>
+   <p class="twinker_footer">at 2014-12-22 06:02 / <a href="https://twitter.com/Nkzn/statuses/546908509434957828" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">VALUE DOMAINサーバで大規模なDNS障害😭😭<br /><br />でもこれはチャンス👊😀😀😀<br /><br />IPアドレスを暗記すればDNSキャッシュポイゾニングも発生しない😣😣😣<br /><br />障害からの""圧倒的セキュリティ””✋😤😤😤 <br /><br />IPを手打ちさせるVALUE DOMAINに圧倒的「感謝」🙏🙏😄😄</p>
+   <p class="twinker_footer">at 2014-12-22 06:02 / <a href="https://twitter.com/vicowara/statuses/546908601537662976" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">2014年12月22日14:29現在、VALUE DOMAINのDNSサーバーが止まっている模様です。VALUE DOMAINを利用したウェブサイトを運営の方はご注意ください。 https://t.co/2Mv1rGZI43 ※現在VALUE DOMAINにアクセスできません</p>
+   <p class="twinker_footer">at 2014-12-22 05:31 / <a href="https://twitter.com/cv_k/statuses/546900733526675456" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">#valuedomainがんばれ がトレンド入りするころに障害復旧しているはず。してほしい。</p>
+   <p class="twinker_footer">at 2014-12-22 05:41 / <a href="https://twitter.com/yusuke/statuses/546903266601095168" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">中々こういう基礎知識を教わる機会ってないのよね...。<br />ダメな科学を見分ける大まかな指針です。 http://t.co/Y1DlbGeNBy</p>
+   <p class="twinker_footer">at 2014-12-21 03:53 / <a href="https://twitter.com/chemica_tan/statuses/546513776141279232" target="_blank">go to tweet</a></p>
+   </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: 茅原実里, value-domain
+.. comments::

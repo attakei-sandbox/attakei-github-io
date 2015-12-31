@@ -1,0 +1,67 @@
+ツイートまとめ(2015-10-19から2015-10-25)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">知り合いに、物事の背景をこちらが分からないのを前提にきちんと説明した上で話しをしてくれる田中さん(仮)と、こちらの前提お構いなしに話す鈴木さん(仮)という二人がいて、今後は二人をステートレス田中とステートフル鈴木と呼ぶことにしました。</p>
+   <p class="twinker_footer">at 2015-10-23 00:40 / <a href="https://twitter.com/naoya_ito/statuses/657355792765468672" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">Kivy 勉強会#1 https://t.co/JSwW62wN8W<br /><br />あー行ってみたけいど、これ日程的に無理くさいし発見した時には定員オーバーしてた。<br />次の機会があったら参加したいと思います</p>
+   <p class="twinker_footer">at 2015-10-21 08:56 / <a href="https://twitter.com/attakei/statuses/656755949126860800" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">本日ZAQニューシングル「カタラレズトモ」が発売となりました！！<br />約10ヶ月ぶりのシングルはカップリングも聞き応えたっぷりな一枚となっております！！<br />ぜひみなさん、お見逃しなく！！！！<br />https://t.co/yWH7vmyu1g</p>
+   <p class="twinker_footer">at 2015-10-21 06:07 / <a href="https://twitter.com/ZAQinfo/statuses/656713360382124033" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">( ˘ω˘) https://t.co/q5pejmBmzw https://t.co/BZR2ARhlHy</p>
+   <p class="twinker_footer">at 2015-10-20 09:48 / <a href="https://twitter.com/watson1978/statuses/656406733137440768" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">watson さんが HBFav 2.9.0 のリリースについてもっとほめてほしいそうなので、HBFav ユーザーのみなさんは watson さんに向かって敬礼</p>
+   <p class="twinker_footer">at 2015-10-20 09:50 / <a href="https://twitter.com/naoya_ito/statuses/656407067750563840" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">「自分と同じことができる人」以上に「自分より管理者向けの人」が近くに欲しい</p>
+   <p class="twinker_footer">at 2015-10-21 01:06 / <a href="https://twitter.com/attakei/statuses/656637703723859968" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">We are trusted! https://t.co/8hSWk3Y6Hi</p>
+   <p class="twinker_footer">at 2015-10-20 03:12 / <a href="https://twitter.com/letsencrypt/statuses/656307019897421824" target="_blank">go to tweet</a></p>
+   </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::

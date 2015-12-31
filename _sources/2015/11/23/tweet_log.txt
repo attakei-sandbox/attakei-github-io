@@ -1,0 +1,27 @@
+ツイートまとめ(2015-11-16から2015-11-22)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">終演後、ロンオブに遭遇</p>
+   <p class="twinker_footer">at 2015-11-21 11:55 / <a href="https://twitter.com/attakei/statuses/668034921001299968" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">太平洋戦争後期が舞台のグルメ漫画はウケないかな。<br /><br />「ハイキュー！」ってタイトルで</p>
+   <p class="twinker_footer">at 2015-11-19 18:54 / <a href="https://twitter.com/zarabu01/statuses/667415576571084800" target="_blank">go to tweet</a></p>
+   </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::

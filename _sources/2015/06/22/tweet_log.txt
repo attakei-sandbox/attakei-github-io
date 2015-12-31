@@ -1,0 +1,111 @@
+ツイートまとめ(2015-06-15から2015-06-21)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+
+キンスパに非常に湧いていた週
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">キンスパ二日間ありがとうございましたっ！もう言葉がう浮かばない。<br />コーラス時代〜デビューしてからの何十年間のいろいろなことが走馬灯のように浮かびました。がんばる！明日からもっとがんばるよ❤️<br />で、めぐちゃん…アナタは本当に最高です♬ http://t.co/U80V5E7RSM</p>
+   <p class="twinker_footer">at 2015-06-21 13:07 / <a href="https://twitter.com/LoveLoveDragon/statuses/612607689030369280" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">店員さん、そんなに詳しいわけでなさそうだったけど、会話に出てきた「水樹奈々」とSSA帰りという情報とTシャツで、キンスパを調べてタイトル再現してくれるとは</p>
+   <p class="twinker_footer">at 2015-06-20 16:59 / <a href="https://twitter.com/attakei/statuses/612303681912860672" target="_blank">go to tweet</a></p>
+   </div>
+
+.. more::
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">キンスパの帰りに寄った塚田農場にて、ゼリーとともに嬉しいサービスをしてくれたので写真をば http://t.co/gaASFum6Fq</p>
+   <p class="twinker_footer">at 2015-06-20 16:56 / <a href="https://twitter.com/attakei/statuses/612303094144053248" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">こっくりさんを途中で止めてはいけません http://t.co/hu2RGDEzFw</p>
+   <p class="twinker_footer">at 2015-06-18 15:59 / <a href="https://twitter.com/Barikios/statuses/611563924115226624" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">私信:新都心駅に着くのは1537予定</p>
+   <p class="twinker_footer">at 2015-06-20 06:18 / <a href="https://twitter.com/attakei/statuses/612142454318436352" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">キンスパ</p>
+   <p class="twinker_footer">at 2015-06-20 05:55 / <a href="https://twitter.com/attakei/statuses/612136629621387264" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">キンスパのためにSSA...の前に神宮球場へ</p>
+   <p class="twinker_footer">at 2015-06-20 01:41 / <a href="https://twitter.com/attakei/statuses/612072763369615360" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">フォロワーは自分に賛同する人々ではないんやで。檻の中の珍獣を鑑賞する人たちなんだ。</p>
+   <p class="twinker_footer">at 2015-06-15 07:23 / <a href="https://twitter.com/syakkindama/statuses/610346864592883712" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">あと、今日は昼から頭が痛かった</p>
+   <p class="twinker_footer">at 2015-06-15 12:37 / <a href="https://twitter.com/attakei/statuses/610425890732908544" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">今日から半袖にしてみたけど、予想通り帰りの電車の中が寒い。<br />毎年毎年面倒なことこの上ない</p>
+   <p class="twinker_footer">at 2015-06-15 12:37 / <a href="https://twitter.com/attakei/statuses/610425773376167936" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">難易度たっかいな</p>
+   <p class="twinker_footer">at 2015-06-15 06:59 / <a href="https://twitter.com/attakei/statuses/610340863785369600" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">獲得："すごい！" (6 そうです！) - 栃木と群馬の区別、ちゃんとつきますか？ http://t.co/sPSpkvpahl @play_buzzさんから</p>
+   <p class="twinker_footer">at 2015-06-15 06:58 / <a href="https://twitter.com/attakei/statuses/610340672051109888" target="_blank">go to tweet</a></p>
+   </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::

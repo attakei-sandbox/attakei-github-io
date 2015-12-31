@@ -1,0 +1,341 @@
+ツイートまとめ(2015-02-16から2015-02-22)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">今夜はついにリヒトCV.緑川光さんの「Back in Black」を初オンエア！かっこいい楽曲なので、どうぞお聴き逃しなく！<br />#agqr #joqr #obc1314 ＃チェンクロラジオ</p>
+   <p class="twinker_footer">at 2015-02-22 09:38 / <a href="https://twitter.com/chain1134/statuses/569431056379551745" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">今年のデブサミの思い出はシャッター音と忘れ物。もちろん発表以外に挙げるとしたらって事だよ？！  #devsumi</p>
+   <p class="twinker_footer">at 2015-02-20 10:47 / <a href="https://twitter.com/alligator_tama/statuses/568723533943037952" target="_blank">go to tweet</a></p>
+   </div>
+
+.. more::
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">おかげさまでスタンディングオベーション！ #devsumi #devsumiA http://t.co/FBEtcCleOj</p>
+   <p class="twinker_footer">at 2015-02-20 10:23 / <a href="https://twitter.com/nawoto/statuses/568717532539932672" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">#devsumiE これか / “AutoScale×ゲーム ~運用効率化への取り組み~” http://t.co/CFhqIsbn4O</p>
+   <p class="twinker_footer">at 2015-02-20 06:23 / <a href="https://twitter.com/erukiti_/statuses/568657216737124353" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">昨日のデブサミコミュニティLTのハイライトは、日本Grails/Groovyユーザーグループが「Javaはクソ」と言ったら、Java女子部が「野放しにしておけねぇ…」とつぶやいたこと。#devsumi</p>
+   <p class="twinker_footer">at 2015-02-20 02:19 / <a href="https://twitter.com/nnasaki/statuses/568595884033773568" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">プラットフォームとして単体アプリの影響を全体に影響させない #devsumiC</p>
+   <p class="twinker_footer">at 2015-02-20 02:30 / <a href="https://twitter.com/attakei/statuses/568598477304958976" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">なにそれ怖い &gt; デバイス登録APIのコールバックで、デバイス登録を再度実行 #devsumiC</p>
+   <p class="twinker_footer">at 2015-02-20 02:29 / <a href="https://twitter.com/attakei/statuses/568598260341989376" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">41件/sec -&gt; 14000件/sec まさに圧倒的改善だなぁ #devsumiC</p>
+   <p class="twinker_footer">at 2015-02-20 02:24 / <a href="https://twitter.com/attakei/statuses/568596904516452352" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">デブサミ1日目が終わったので帰宅中。アサイチから聴きたいのがあるので、開場時間には現地に着いてる心積もりで。本も物色したい<br /><br />#devsumi</p>
+   <p class="twinker_footer">at 2015-02-19 10:08 / <a href="https://twitter.com/attakei/statuses/568351369352097793" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">ツイートで回ってきたこの解説画像、簡単にまとまってて分かりやすいと思います。<br />参考画像ディレクトリに保存。 http://t.co/XWUKfUPCnq</p>
+   <p class="twinker_footer">at 2015-02-16 15:15 / <a href="https://twitter.com/piyopiyokotori_/statuses/567341476464427008" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">メモ「OWASP TOP 10」 #devsumiE</p>
+   <p class="twinker_footer">at 2015-02-19 09:37 / <a href="https://twitter.com/attakei/statuses/568343611684687872" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">"Javaはクソ"<br />そこでIntelliJ IDEAとJRebelですよお兄さん #devsumiE #突然のCM</p>
+   <p class="twinker_footer">at 2015-02-19 09:35 / <a href="https://twitter.com/samuraism/statuses/568343091448426496" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">時計が進まず、時間制限が実質ないLT。LTとは一体 #devsumiE</p>
+   <p class="twinker_footer">at 2015-02-19 09:35 / <a href="https://twitter.com/attakei/statuses/568343074197229568" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">日本Grails/Groovyユーザーグループ「今日覚えていってもらいたいのは一つだけ。Javaはクソ」　ちなみにJava女子会の前である。 #devsumiE</p>
+   <p class="twinker_footer">at 2015-02-19 09:28 / <a href="https://twitter.com/tyobi_dev/statuses/568341340192272384" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">オープニングからJava女子部に全力で殴りにかかったJGGUG #devsumiE</p>
+   <p class="twinker_footer">at 2015-02-19 09:28 / <a href="https://twitter.com/attakei/statuses/568341236106420225" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">Appiumは知らなかった。メモメモ #devsumiE</p>
+   <p class="twinker_footer">at 2015-02-19 09:23 / <a href="https://twitter.com/attakei/statuses/568340120585129984" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">突発で3分半から5分になっても、平然ときっちり喋ってる。スゴイ  #devsumiE</p>
+   <p class="twinker_footer">at 2015-02-19 09:15 / <a href="https://twitter.com/attakei/statuses/568338191842803712" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">デブサミのLT、時間が余ったので制限時間が3分半から5分に伸びた。ここまでゆるいLTはデブサミ史上初では #devsumiE</p>
+   <p class="twinker_footer">at 2015-02-19 09:01 / <a href="https://twitter.com/fukaz55/statuses/568334471650349057" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">「全ての単語は少なくても3割は知っている」民明書房刊 <br />的な #devsumiE</p>
+   <p class="twinker_footer">at 2015-02-19 09:01 / <a href="https://twitter.com/attakei/statuses/568334615586275328" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">LT見学していると、「綺麗に規定時間にまとめきれるなぁ」といつも感心する  #devsumiE</p>
+   <p class="twinker_footer">at 2015-02-19 08:36 / <a href="https://twitter.com/attakei/statuses/568328328190361600" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">「ゲームのコア部分を確立させるまでは、少人数オーナーシップのほうがいいんじゃないか」仮説<br />#devsumiB</p>
+   <p class="twinker_footer">at 2015-02-19 07:58 / <a href="https://twitter.com/attakei/statuses/568318599632326656" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">作りたいのは価値。<br />作りやすいのは機能。<br />人は作りやすい方向に流れる。<br />#devsumiB</p>
+   <p class="twinker_footer">at 2015-02-19 07:48 / <a href="https://twitter.com/NewOgt/statuses/568316236276174848" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">新しいスライドが出ると笑えるくらいシャッター音の嵐になるw<br />あれかな、社内に展開しようにも外部のネットワークに一切アクセスできないし、下手したら印刷された資料しか持ち込めないような会社なのか。きっとそうだ。納得した。  #devsumiB</p>
+   <p class="twinker_footer">at 2015-02-19 06:47 / <a href="https://twitter.com/alligator_tama/statuses/568300774712717313" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">.@devsumi19-A「ニコニコ生放送の配信基盤改善」の講演資料を公開しました！<br />http://t.co/8r49t5eLDX<br />#devsumi</p>
+   <p class="twinker_footer">at 2015-02-19 06:50 / <a href="https://twitter.com/gnyo/statuses/568301575317225473" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">19-E「paizaのオンラインジャッジを支えるDockerとその周辺」の講演資料を公開しました！ http://t.co/IVWnuzQV5U #devsumi #devsumiE</p>
+   <p class="twinker_footer">at 2015-02-19 06:30 / <a href="https://twitter.com/yoshiokatsuneo/statuses/568296469372862464" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">POH!、中国語版が（勝手に）作られているのか<br />#devsumiE</p>
+   <p class="twinker_footer">at 2015-02-19 04:44 / <a href="https://twitter.com/attakei/statuses/568269948193255424" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">公平性に気を使っていった結果としてのCPUの仕組みの話 #devsumiE</p>
+   <p class="twinker_footer">at 2015-02-19 04:35 / <a href="https://twitter.com/attakei/statuses/568267609625513985" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">Dockerの話を聴きに #devsumiE</p>
+   <p class="twinker_footer">at 2015-02-19 04:08 / <a href="https://twitter.com/attakei/statuses/568260774797422593" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">そう思って聞いてます^^ RT @erukiti_: このセッション、SHA-1の証明書使い続けてる組織で、アップグレードの説得材料に使うために公聴するようなセッションなのかなー<br />#devsumiE</p>
+   <p class="twinker_footer">at 2015-02-19 03:26 / <a href="https://twitter.com/ryoichi_obara/statuses/568250320783949824" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">このセッション、SHA-1の証明書使い続けてる組織で、アップグレードの説得材料に使うために公聴するようなセッションなのかなー<br />#devsumiE</p>
+   <p class="twinker_footer">at 2015-02-19 03:25 / <a href="https://twitter.com/erukiti_/statuses/568249954382135296" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">SHA-2対応、中間証明書を忘れないように #devsumiE</p>
+   <p class="twinker_footer">at 2015-02-19 03:33 / <a href="https://twitter.com/attakei/statuses/568251910454714368" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">個人で作成した方のSSL証明書を改めて確認したら、予想通りSHA-1だった。<br />今日のセッション見ながら、タイミングを作って切り替えよう<br />#devsumiE</p>
+   <p class="twinker_footer">at 2015-02-19 03:19 / <a href="https://twitter.com/attakei/statuses/568248529241702400" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">最近社内がSSLと戦ってることが多いので、聴いてみる。 #devsumiE</p>
+   <p class="twinker_footer">at 2015-02-19 03:11 / <a href="https://twitter.com/attakei/statuses/568246542139838464" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">物理サーバーの時間課金は魅力かも？ #devsumiE</p>
+   <p class="twinker_footer">at 2015-02-19 02:51 / <a href="https://twitter.com/attakei/statuses/568241328187944960" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">SoftLayer触る機会はあってもいいかな、IDCFあたりとAPIの使用感比較とかしてみたいかも？ #devsumiE</p>
+   <p class="twinker_footer">at 2015-02-19 02:50 / <a href="https://twitter.com/attakei/statuses/568241227545649152" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">全体的にAPIの説明の少なさとかが難点なのかな #devsumiE</p>
+   <p class="twinker_footer">at 2015-02-19 02:48 / <a href="https://twitter.com/attakei/statuses/568240745305542656" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">彡   ⌒  ミ<br />(´・ω・`)また髪の話してる #agqr #ojikan</p>
+   <p class="twinker_footer">at 2015-02-18 14:24 / <a href="https://twitter.com/Dairiten1012/statuses/568053529291550720" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">.@marlboro1day20 さんの「#イマドキエジプト神　が今メッチャクチャ熱い！神々がかわいい！かっこいい！」をお気に入りにしました。 http://t.co/wyogbAENXq</p>
+   <p class="twinker_footer">at 2015-02-18 06:38 / <a href="https://twitter.com/attakei/statuses/567936257600282624" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">えっイラストマフィンだった。絶対餃子だと思ってた #agqr #muuun</p>
+   <p class="twinker_footer">at 2015-02-16 13:12 / <a href="https://twitter.com/attakei/statuses/567310595922227202" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">Kivy-iosでPyCrypto使えるのかをふわっと確認してみる</p>
+   <p class="twinker_footer">at 2015-02-16 13:09 / <a href="https://twitter.com/attakei/statuses/567309876859125761" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">帰りがけに、見ながら電車 #agqr #muuun</p>
+   <p class="twinker_footer">at 2015-02-16 13:06 / <a href="https://twitter.com/attakei/statuses/567309082550231041" target="_blank">go to tweet</a></p>
+   </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::

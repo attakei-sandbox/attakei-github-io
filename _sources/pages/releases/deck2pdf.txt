@@ -1,0 +1,27 @@
+========
+deck2pdf
+========
+
+current version 0.2.0
+
+
+ソース類
+========
+
+* https://pypi.python.org/pypi/deck2pdf/
+* https://github.com/attakei/deck2pdf
+
+
+概要
+====
+
+HTMLスライドをきれいにPDF化するコンバーター
+
+
+
+予定
+====
+
+
+* スライドのテキスト自体もPDFに埋め込んで、SlideShareなどのテキストエリアに反映できる形式に
+* 対応スライドの拡張

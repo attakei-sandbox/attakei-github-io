@@ -1,0 +1,22 @@
+redmine + gitlab + jenkins = 重い
+===================================
+
+.. include:: /_include/raw_html.rst
+
+ほとんどタイトルで言いたいことをいい尽くした。
+
+MSDNについてくるクレジットを利用して、redmine, gitlab, jenkinsをWindowsAzureの1台のVMにのせているのだが、
+クレジット上限を考慮してA1にしていると、やっぱりメモリが不足気味な模様。
+
+で、調べると最近のクラウドサーバの類でよくあるイメージでAzureのVMにもスワップが初期で割り当てられていない。
+
+普通の手段でスワップ出すのもありなのだが調べた際に便利だったページが有ったので、URLだけ貼り付けておく。
+
+http://blogs.technet.com/b/ksasaki/archive/2013/06/21/linux.aspx
+
+感謝感謝
+
+.. author:: default
+.. categories:: 開発環境
+.. tags:: ruby, gitlab, jenkins
+.. comments::

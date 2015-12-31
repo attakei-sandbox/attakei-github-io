@@ -1,0 +1,20 @@
+ツイートまとめ(2014-09-22から2014-09-28)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+(機械的に追加中)
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">1990年代アニメ絵まとめてみた！ら共通点が林原めぐみさんが全部でとるという( ´ ▽ ` )ﾉ(爆れつハンター、ロストユニバース、スレイヤーズ、セイバーマリオネット) http://t.co/MtiKGYGMtK</p>
+    <p class="twinker_footer">at 2014-09-22 07:47 / <a href="https://twitter.com/ujimaisoushi/statuses/513957758752669697" target="_blank">go to tweet</a></p>
+    </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::

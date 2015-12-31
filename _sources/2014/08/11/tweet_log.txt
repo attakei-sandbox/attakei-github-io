@@ -1,0 +1,95 @@
+ツイートまとめ(2014-08-04から2014-08-10)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+さすがに大きめのイベントに参加したりすると、若干頻度が上がる感じ。
+というか、2日分のツイートまとめにしかなっていないじゃないか。
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">あれ、usbケーブルどこかに落としたかも？</p>
+    <p class="twinker_footer">at 2014-08-05 12:34 / <a href="https://twitter.com/attakei/statuses/496635268254801920" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">本屋で立ち読みしてたら、客が店員に告白するっていう凄く珍しい場面に遭遇したんだけど「良かったら僕と付き合ってください！」『いきなりはちょっと…』「やっぱりダメか…まぁそれに男が男に惚れるとかきもいですよねｗ」『え、私女』「えっ」っていう超展開迎えちゃったので、本屋内騒然としてる。</p>
+    <p class="twinker_footer">at 2014-08-01 09:00 / <a href="https://twitter.com/konekoneclub/statuses/495131954639929344" target="_blank">go to tweet</a></p>
+    </div>
+
+..  more::
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">ジャンルによります、というのが感想。RPGのコア化の流れの中では、RPGについてはスタミナ制無い方が自然な設計でしょうね。ソーシャルネットワークに依存し、アーケードゲームに近いノリのパズルやアクションは、スタミナ制の親和性は高い。</p>
+    <p class="twinker_footer">at 2014-08-04 06:22 / <a href="https://twitter.com/obakemogura/statuses/496179361746145280" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">やっぱりこれだけアプリが反乱している昨今、回復待ち時間発生型のアプリはシステムなりキャラ（版権）なりに余程引きが無い限り、待ってる間に他のサービスに興味移られてしまいますね。プラットフォーマーであれば、別のアプリにも回遊してもらえればいいんでしょうけども。</p>
+    <p class="twinker_footer">at 2014-08-03 08:47 / <a href="https://twitter.com/yrik/statuses/495853412596994048" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">今目の前のSEが「物理休暇と論理休暇があってね…」と話していて戦慄している。</p>
+    <p class="twinker_footer">at 2012-04-27 07:17 / <a href="https://twitter.com/drivers_hi/statuses/195773651419807744" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">富士山五合目にて、サマドリフラッグを撮る。<br /><br />今年も目的は達成 http://t.co/vYgtTImB5J</p>
+    <p class="twinker_footer">at 2014-08-04 04:06 / <a href="https://twitter.com/attakei/statuses/496145084144828416" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">今年も富士山五合目まで来てみた。。。が、山怖いね<br />河口湖はすでに30℃を越える快晴だったってのに http://t.co/XfHZCwZHx3</p>
+    <p class="twinker_footer">at 2014-08-04 02:55 / <a href="https://twitter.com/attakei/statuses/496127324400517120" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">個人的サマドリ3日目というていの河口湖付近散歩<br />日差しが強くてめっちゃ暑い</p>
+    <p class="twinker_footer">at 2014-08-04 01:18 / <a href="https://twitter.com/attakei/statuses/496102832970297344" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">サマドリ2を楽しんだ皆様。<br />あまりの楽しさに武道館の入金が今日の19時までということをお忘れなく！！<br />#minorin</p>
+    <p class="twinker_footer">at 2014-08-04 01:11 / <a href="https://twitter.com/Takanashi8111/statuses/496100980555915264" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">サマドリ2最高に面白かった瞬間がこちら。<br />リハーサルに全力を出してるみんなをカメラで撮影してた売店のおっちゃんを撮った時！www http://t.co/JX4uc8hVGQ</p>
+    <p class="twinker_footer">at 2014-08-04 00:34 / <a href="https://twitter.com/Takanashi8111/statuses/496091725337604096" target="_blank">go to tweet</a></p>
+    </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::

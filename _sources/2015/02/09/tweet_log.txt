@@ -1,0 +1,157 @@
+ツイートまとめ(2015-02-02から2015-02-08)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">あ、コムチャ(というか、中番組のチェンクロ)の予約忘れてた</p>
+   <p class="twinker_footer">at 2015-02-07 14:00 / <a href="https://twitter.com/attakei/statuses/564061019920949248" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">タートルズ見終わった。<br /><br />わかりやすいけど別に飽きたりはしない。<br />らしいオチのつき方もあわせて、なかなか楽しかったです。</p>
+   <p class="twinker_footer">at 2015-02-07 13:58 / <a href="https://twitter.com/attakei/statuses/564060524221300736" target="_blank">go to tweet</a></p>
+   </div>
+
+.. more::
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">亀見に来てる。</p>
+   <p class="twinker_footer">at 2015-02-07 12:02 / <a href="https://twitter.com/attakei/statuses/564031455748435968" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">こんな早くから雨降る予報だったっけ？</p>
+   <p class="twinker_footer">at 2015-02-07 11:55 / <a href="https://twitter.com/attakei/statuses/564029695151591424" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">例えばグラディウスがアイマスだとする<br />このよく似てはいるけど実は全然違うR-TYPEがラブライブだ<br />ダライアスくらい違えば流石にわかるか、これがアイカツ<br />そしてこの沙羅曼蛇がシンデレラガールズでライフフォースがミリオンライブだ<br />これ以上わかりやすい説明はないな？</p>
+   <p class="twinker_footer">at 2014-08-04 00:49 / <a href="https://twitter.com/makichankichi/statuses/496095472977604608" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">障害や不具合の調査してる時、割と「後でちょっとぐらいなら怒られてもいい」レベルで手段を選ばないようにしてんだけど、周りがあまりそういうことをしなくて戸惑う時がある。</p>
+   <p class="twinker_footer">at 2015-02-06 13:01 / <a href="https://twitter.com/attakei/statuses/563683986929881089" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">「現代のフレームワークは複雑だから、初学者はなるべく生の PHP を使ってやってみよう」って，学習時点なら間違ってないアドバイスだと思う．それをアプリケーションに使うのが良くない．</p>
+   <p class="twinker_footer">at 2015-02-06 08:51 / <a href="https://twitter.com/tmaehara/statuses/563621092607012864" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">可愛い顔して何言ってんだw http://t.co/E1sU9xr1iw</p>
+   <p class="twinker_footer">at 2015-02-06 00:09 / <a href="https://twitter.com/uy_3676/statuses/563489618541039616" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">おお、懐かしいの来たな。しばらく追っかけてみよう<br /><br />『ラングリッサー』シリーズ最新作が発売決定、15年の時を経て伝説が蘇る - ファミ通.com http://t.co/9QN2lpklYn @famitsuさんから</p>
+   <p class="twinker_footer">at 2015-02-06 01:04 / <a href="https://twitter.com/attakei/statuses/563503506904997888" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">家についた。<br />日付が変わる前にいるというのは、平和ですね</p>
+   <p class="twinker_footer">at 2015-02-05 14:35 / <a href="https://twitter.com/attakei/statuses/563345238337400832" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">日本のメディア様<br />日本のニュースでは「イスラム国」と言われるようになった事はムスリムの者にとってとてもつらいことです。その言葉を「ISIL」に切り替える事できないんでしょうか@fujitv @asahi @masanorinaito <br />@FIFI_Egypt @nhk_news</p>
+   <p class="twinker_footer">at 2015-02-04 01:45 / <a href="https://twitter.com/trt_murathan/statuses/562789097421688834" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">またかよ。事務何やってんだ<br /><br />首都大学東京の学内NAS、迷惑メール大量送信の踏み台にされる | スラッシュドット・ジャパン セキュリティ http://t.co/IgLpqCk4U6</p>
+   <p class="twinker_footer">at 2015-02-03 11:04 / <a href="https://twitter.com/attakei/statuses/562567243083419649" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">お、繋がるようになった。 #valuedomainがんばった @VALUEDOMAIN</p>
+   <p class="twinker_footer">at 2015-02-03 06:52 / <a href="https://twitter.com/yusuke/statuses/562503821645971456" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">Valuedomainのns1-5が死んどるのかな。別のDNSサーバのは引ける。</p>
+   <p class="twinker_footer">at 2015-02-03 05:21 / <a href="https://twitter.com/nezumiyaki/statuses/562480866572509187" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">晩飯食いながら #agqr #muuun</p>
+   <p class="twinker_footer">at 2015-02-02 13:00 / <a href="https://twitter.com/attakei/statuses/562234090355556352" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">GitHub:Enterpriseのメリット<br />・GitHubが落ちていても仕事出来る<br /><br />GitHub:Enterpriseのデメリット<br />・GitHubが落ちていても仕事出来る</p>
+   <p class="twinker_footer">at 2015-02-02 04:54 / <a href="https://twitter.com/yasei_no_otoko/statuses/562111767745003520" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">なんかとんでもないの来てた<br /><br />豪華22アーティスト集結！キングレコード主催、大型アニソンフェス ”KING SUPER LIVE 2015” 開催決定！ http://t.co/K2dgVwaWgG #キンスパ</p>
+   <p class="twinker_footer">at 2015-02-01 16:18 / <a href="https://twitter.com/attakei/statuses/561921651026051072" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">キングレコード主催アニソンフェス『KING SUPER LIVE 2015』6/20・21開催決定！所属アーティスト22組が集結 http://t.co/4eiL2w2oE3 チケット先行 http://t.co/kJ95lxwPAK http://t.co/bdTh65pxEL</p>
+   <p class="twinker_footer">at 2015-02-01 15:28 / <a href="https://twitter.com/Anime_Voice/statuses/561909007124676608" target="_blank">go to tweet</a></p>
+   </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::

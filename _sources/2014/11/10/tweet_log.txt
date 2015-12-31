@@ -1,0 +1,521 @@
+ツイートまとめ(2014-11-03から2014-11-09)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+
+いろいろやっているものの、あまり実を結んでいない感じの週。
+気を抜かずに、試行錯誤を繰り返していかないと吐き捨てる感じになりそうなので頑張り中
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">いじめっ子「昔はやんちゃしてたけど今は真面目に頑張ってます！」<br /><br />大人「素晴らしい！お前はいいやつだな！」<br /><br />いじめられっ子「いじめが原因で学校に行かなくなり部屋に引きこもってしまったやんちゃの被害者です。」<br /><br />大人「気持ち悪い。働け。お前みたいなのを社会のクズって言うんだ」</p>
+    <p class="twinker_footer">at 2014-11-09 02:48 / <a href="https://twitter.com/2___h/statuses/531277002234277888" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">自環境でAndroid向けのCrashlyticsKitを含めてビルドしようとすると、com.crashlytics.android.Crashlytics側のjarファイルはantがちゃんと生成する、io.fabric.sdk.android.Fabric側を生成しない。困った</p>
+    <p class="twinker_footer">at 2014-11-09 11:29 / <a href="https://twitter.com/attakei/statuses/531408253729914880" target="_blank">go to tweet</a></p>
+    </div>
+
+
+.. more::
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">イノシシは美味い。というか、美味いからもっと食いたくて改良して家畜化したのが豚だし。</p>
+    <p class="twinker_footer">at 2014-11-09 10:57 / <a href="https://twitter.com/sigsawa/statuses/531400208140083201" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">「この症状、TOKIO も未経験！」<br /><br />＞ まじで！？ ＜<br /><br />#鉄腕dash</p>
+    <p class="twinker_footer">at 2014-11-09 10:42 / <a href="https://twitter.com/zetamatta/statuses/531396287183073281" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">自転車のチューブ交換、ところどころ教わりながら30分ちょっとで交換してもらった。おおまかに工程は覚えているし、穴が開いた方のチューブは穴を塞いでもらってスペア扱いにしてもらったけれど、完全自力対応できる気はしない。</p>
+    <p class="twinker_footer">at 2014-11-09 06:22 / <a href="https://twitter.com/attakei/statuses/531330886336532480" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">遅めの昼飯も食べたので、自転車のチューブ交換を習いに行ってくる</p>
+    <p class="twinker_footer">at 2014-11-09 05:04 / <a href="https://twitter.com/attakei/statuses/531311263813758977" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">唐揚げだと思った人は、疲れが溜まってるんじゃないかな。 http://t.co/wAxHeiy5Sz</p>
+    <p class="twinker_footer">at 2014-11-08 14:23 / <a href="https://twitter.com/dogdogs_album/statuses/531089516547678211" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">椎名へきる、電撃結婚 | #椎名へきる | BARKS音楽ニュース http://t.co/Yqh2iEB8JF #BARKS http://t.co/QPN1DZxMGw</p>
+    <p class="twinker_footer">at 2014-11-08 15:01 / <a href="https://twitter.com/barks_news/statuses/531099076578664449" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">感想を聞いてみたい:<br />世界のキッチンからソルティライチのホットを見かけた。冷たいやつを飲んだ記憶からすると、これって夏場に冷え切ったやつを飲む感じだと思うんだけど</p>
+    <p class="twinker_footer">at 2014-11-08 14:58 / <a href="https://twitter.com/attakei/statuses/531098338197004289" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">最近のハイライト。  PM「あの人が書くC++のコードはVectorとか謎の技術を使うので受け入れられない」。STL禁止か。これはとんでもないプロジェクトに入ったなと思った。</p>
+    <p class="twinker_footer">at 2014-11-08 03:20 / <a href="https://twitter.com/tatesuke/statuses/530922732817350657" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">さっきのやり取り　ロシア人「日中って話し合ったけど合意しなかったってこと？」　私「しなかったみたいですね」　ロシア人「じゃあ何で話し合ったの？」　私「いままで話し合ってなかったからです」　ロシア人「合意できそうにないのに話し合う必要あるの」　私「合意できないことに合意するんすよ」</p>
+    <p class="twinker_footer">at 2014-11-08 03:18 / <a href="https://twitter.com/kirik/statuses/530922283129634817" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">あー今って新宿&lt;=&gt;南大沢間400円になったのか<br /><br />(駅にはつきました)</p>
+    <p class="twinker_footer">at 2014-11-08 04:07 / <a href="https://twitter.com/attakei/statuses/530934715856207872" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">多分13:10前ぐらいにはつきます</p>
+    <p class="twinker_footer">at 2014-11-08 03:52 / <a href="https://twitter.com/attakei/statuses/530930927120424960" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">【１Ｆ】電撃文庫最新刊本日発売です。今月は、川上稔『境界線上のホライゾンシリーズ』のサイドストーリー『ガールズトーク狼と魂』が出ておりますが、こちらなんと、ホライゾンシリーズなのに分厚くないのです…！！まさかの２センチもありません。この衝撃の事実を店頭にてご確認ください。</p>
+    <p class="twinker_footer">at 2014-11-08 02:26 / <a href="https://twitter.com/shosengnd/statuses/530909268199759872" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">12:29新宿発の特急橋本行きに乗るんだけど、大学には何時に着くの？</p>
+    <p class="twinker_footer">at 2014-11-08 03:27 / <a href="https://twitter.com/attakei/statuses/530924643151269889" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">境界線上のホライゾンがこんなに薄いはずがない。 http://t.co/xDEVa3pqOG</p>
+    <p class="twinker_footer">at 2014-11-08 00:43 / <a href="https://twitter.com/uranichi/statuses/530883225908826112" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">kivyベースのiOSアプリにCrashlyticsKitを組み込むまで [Python] on @Qiita http://t.co/uukMWJDnpc</p>
+    <p class="twinker_footer">at 2014-11-07 15:38 / <a href="https://twitter.com/attakei/statuses/530746221950799873" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">では、kivy+p4aにてCrashlyticsKitを安定組み込みにトライする時間だ</p>
+    <p class="twinker_footer">at 2014-11-07 13:20 / <a href="https://twitter.com/attakei/statuses/530711305326698497" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">本日も終了</p>
+    <p class="twinker_footer">at 2014-11-07 13:14 / <a href="https://twitter.com/attakei/statuses/530709901811924992" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">【速報】ミクシィ『モンスターストライク』で新プロジェクト「モンストスタジアム（仮称）」が始動!!　対戦プレイに特化したスマホ向けアプリ | Social Game Info http://t.co/mtJ0Xzua7Y</p>
+    <p class="twinker_footer">at 2014-11-07 11:43 / <a href="https://twitter.com/obakemogura/statuses/530686894791618560" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">「iPhone6はデカすぎるからダメ」<br />デカい事の素晴らしさが分からぬ愚かな人類！<br />バイオゴリラは野生の掟を曲げる者を許さない！<br />「ジャングル チイサイヤツ デカイヤツニ クワレル！」<br />巨大な口が人間を、iPhone5sを一飲みに！<br />サイも、ゾウも、ゴリラも、デカいから強いのだ！</p>
+    <p class="twinker_footer">at 2014-11-07 07:22 / <a href="https://twitter.com/Bio_Gorilla_bot/statuses/530621382309052416" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">生きろ！マンボウ！が韓国でスパークしてて、無料総合２位まできました。次は台湾でスパークするといいなー！ http://t.co/ttTfNGDCAa</p>
+    <p class="twinker_footer">at 2014-11-07 05:42 / <a href="https://twitter.com/kouya1024/statuses/530596035114983424" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">途中で自転車屋によったらまだ開いておらず、やや失意をはらんだまま今仕事中</p>
+    <p class="twinker_footer">at 2014-11-07 02:37 / <a href="https://twitter.com/attakei/statuses/530549539716214784" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">「何で怒ってるのか分かる？」って聞いてくる上司は、「分かる」と答えれば「じゃあ何故怒らせた」となるし、「分からん」と答えれば「それすら分からんのか」となるので、正解は「そんな気持ちにさせてごめん」と抱きしめそのままフロントスープレックスで投げる。</p>
+    <p class="twinker_footer">at 2014-11-06 00:25 / <a href="https://twitter.com/yukaran_nosuke/statuses/530153985487798273" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">【茅原実里】10周年記念番組～彼女が見つけたサンクチュアリィ～: http://t.co/RuWzaPICOq @YouTubeさんから</p>
+    <p class="twinker_footer">at 2014-11-06 16:27 / <a href="https://twitter.com/attakei/statuses/530396117892993025" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">着いた。<br />疲れたよ、パトラッシュ……</p>
+    <p class="twinker_footer">at 2014-11-06 15:01 / <a href="https://twitter.com/attakei/statuses/530374473418301441" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">自転車の後輪に空気が入ってない……<br />さては、穴でも空いたか！？</p>
+    <p class="twinker_footer">at 2014-11-06 14:21 / <a href="https://twitter.com/attakei/statuses/530364408380555264" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">さて帰宅</p>
+    <p class="twinker_footer">at 2014-11-06 12:58 / <a href="https://twitter.com/attakei/statuses/530343525939159040" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">ええっ、ロストヒーローズ２の限定版に、ヒーロー戦記が収録されるの！？　ギリアム・イェーガーのデビュー作で、マサキやシュウも登場したあのヒーロー戦記が＼(^O^)／</p>
+    <p class="twinker_footer">at 2014-11-06 09:38 / <a href="https://twitter.com/yuichiro_takeda/statuses/530293177245130752" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">米「日本め！護衛艦なんぞ集結させて何をおっぱじめるつもりだ！？」<br />露「サンゴを守るためじゃね？」<br />英「中国に対して本気を出したな！」<br />中「クソ！鬼畜日本！！もうお終いアル！」<br /><br />日本「カレー美味いな」 http://t.co/Use2lyUf8G</p>
+    <p class="twinker_footer">at 2014-11-05 11:17 / <a href="https://twitter.com/amanosagume/statuses/529955682917683200" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">チャットワーク Webアプリのテーマが新しくなりました！ブラウザをリロードいただければ新しいデザインのチャットワークをご確認いただけます。皆様からの感想もお待ちしておりますので、ご意見・ご要望にて投稿ください。<br />http://t.co/o3ztakf0Wo</p>
+    <p class="twinker_footer">at 2014-11-06 09:12 / <a href="https://twitter.com/chatwork_ja/statuses/530286578090770432" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">@takano32 あ、間違ってました。指摘ありがとうございます</p>
+    <p class="twinker_footer">at 2014-11-06 09:31 / <a href="https://twitter.com/attakei/statuses/530291415851343872" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">探：kivy/buildozer で生成されるandroid/iosのプロジェクトの生成先をspecファイルの隣みたいに、深くない場所にする方法。<br />プレーンな方法でandroidもiosも割りとあっさりビルドできていいのだけど、Objcファイルの追加とかがちょっと面倒</p>
+    <p class="twinker_footer">at 2014-11-06 07:01 / <a href="https://twitter.com/attakei/statuses/530253669967859712" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">[ピリカ] スカルアッシュ！<br />[フィーナ] 義勇軍の錫杖！<br />[アンジェリカ] アサシンブレード…せっかくあげたのに…<br />[ピリカ、フィーナ] がくぶる…<br />#好きな武器を言ってTLを武器屋にする<br />#チェンクロ</p>
+    <p class="twinker_footer">at 2014-11-06 01:27 / <a href="https://twitter.com/pirikafina/statuses/530169501547896833" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">明日、個別にforkした環境に一旦変えてみよう</p>
+    <p class="twinker_footer">at 2014-11-05 16:18 / <a href="https://twitter.com/attakei/statuses/530031532769951745" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">IntelliJ IDEA 14リリース #jbugj | サムライズム - http://t.co/xzbTL4Wxwh</p>
+    <p class="twinker_footer">at 2014-11-05 14:32 / <a href="https://twitter.com/samuraism/statuses/530004856015048704" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">#FateStayNight Unlimited Blade Works http://t.co/GuIpYRl39K http://t.co/Y3mYXc3cFi</p>
+    <p class="twinker_footer">at 2014-11-05 14:54 / <a href="https://twitter.com/KR0NPR1NZ/statuses/530010270370762752" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">そういえば、メンテしてもらった自分のクロスバイクはブレる感じは消えたけど、今度は引っかかるような音がするようになったな。それこそキコ、キコ、キコと #agqr</p>
+    <p class="twinker_footer">at 2014-11-05 14:02 / <a href="https://twitter.com/attakei/statuses/529997103901061123" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">今日はゆっくりとちょろいを聞いてるよ。#ojikan #agqr</p>
+    <p class="twinker_footer">at 2014-11-05 14:01 / <a href="https://twitter.com/attakei/statuses/529996812745068545" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">ムスタファのゴールド稼ぎ指南イベントがスタート！ざくざくゴールドを稼ごう！ http://t.co/xDbO7VEMwo #チェンクロ #チェインクロニクル</p>
+    <p class="twinker_footer">at 2014-11-05 07:14 / <a href="https://twitter.com/PirikaChro/statuses/529894504443023360" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">繰り返すと、<br />http://t.co/Xo2laAYBrN<br />この件はスクエニのゲームをプレイする改造ツールが直リンで音楽を鳴らしてるのが問題で、スクエニ自信には対処のしようがない、と。ツールに外部音楽埋め込んでるわけでもないとすると、個別ユーザーの問題になるのか…（絶望</p>
+    <p class="twinker_footer">at 2014-11-05 08:35 / <a href="https://twitter.com/torgtaitai/statuses/529914929738825728" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">ixaのツールスレで詳細確認。moko（ixa外部ツール）の音声パスにURL指定で件のサイトに直接指定する設定がテンプレ化したのが真相か。スクエニと素材サイトはとんだとばっちりだ。</p>
+    <p class="twinker_footer">at 2014-11-05 08:06 / <a href="https://twitter.com/mc_perry/statuses/529907584916914176" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">Jetbrains からIntelliJ IDEA 14のリリース連絡がきた</p>
+    <p class="twinker_footer">at 2014-11-05 12:49 / <a href="https://twitter.com/attakei/statuses/529978929759535105" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">これって素材側の対応って面倒そうだなぁ。うちのとこも同じようなことになってないか気にした方がいいのかな。（若干方向性は違うものの）</p>
+    <p class="twinker_footer">at 2014-11-05 12:43 / <a href="https://twitter.com/attakei/statuses/529977422611873794" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">戦国IXAの件、発端ツイートの会話とか2chを見てみる限り、ユーザの非公式ツールが原因なのか。ただ、リファラはIXAのまんまなのね</p>
+    <p class="twinker_footer">at 2014-11-05 12:33 / <a href="https://twitter.com/attakei/statuses/529974744796254208" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">@hmix_net ・対象の音楽ファイル　・この数字の単位（1日あたり？）・アクセス元IP　とかどうなってますでしょうか。このゲームＢＧＭとか音鳴る要素皆無です。昔から非公式の外部便利ツールが使われてて、それで初めて音が鳴るはず。一部の人が音を直リンクで差し替えてるのかも。</p>
+    <p class="twinker_footer">at 2014-11-05 07:11 / <a href="https://twitter.com/zezaixa/statuses/529893725191688192" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">お問い合わせ先が見つかりませんでしたのでこちらより失礼します。御社ゲーム内より当サイトの音楽ファイルが月間100ギガ規模で呼び出されています。対処をお願い出来ませんでしょうか。何卒よろしくお願いいたします。 #sengokuixa http://t.co/43Mg2LyyYT</p>
+    <p class="twinker_footer">at 2014-11-05 05:52 / <a href="https://twitter.com/hmix_net/statuses/529873960507146241" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">【悲報】スクエニがまた法を破る [転載禁止]©http://t.co/gZXHi3ACRa [732248703]<br />http://t.co/4A2I0picAp<br />やってることのレベルが低すぎんぞクズエニ</p>
+    <p class="twinker_footer">at 2014-11-05 10:16 / <a href="https://twitter.com/Sesamee47/statuses/529940342510866432" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">アノテーションした http://t.co/YK2t85Q5C4</p>
+    <p class="twinker_footer">at 2014-11-04 14:15 / <a href="https://twitter.com/fumieval/statuses/529638122502373377" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">うあ、会社にWiMAX端末を置きっぱなしにしてしまった。<br />今日の帰りと、明日の出社移動中はiPhoneテザリングで行くしか無いのか。（何もしない選択肢はナシで）</p>
+    <p class="twinker_footer">at 2014-11-05 12:17 / <a href="https://twitter.com/attakei/statuses/529970823063281666" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">グッモーニン、エブリワン！ヌーラボのFacebookページは https://t.co/RyUGbSd3KE です。<br /><br />LIKEください<br /> 　　∧_∧<br />　（ ´・ω・)<br />　//＼￣￣旦 ＼<br />／/ ※ ＼＿＿＿＿＼<br />＼＼ 　※ 　※ 　※ ヽ<br />　 ＼ヽ-＿_＿--＿__ヽ</p>
+    <p class="twinker_footer">at 2014-10-30 02:34 / <a href="https://twitter.com/nulabjp/statuses/527649780101427200" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">皆様お待たせしました！13巻初回限定特装版につく〝2015年日めくりカレンダー〟のサンプル公開です☆予約してない方で気になった方は、発売日に店頭にてお見かけした際はぜひ☆（担 http://t.co/SocbNpd2lM</p>
+    <p class="twinker_footer">at 2014-11-05 10:09 / <a href="https://twitter.com/Wagnaria/statuses/529938603325915136" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">https://t.co/M95AlImRKZ<br /><br />とりあえず、後で細かい検証する向けにGistに貼っとく</p>
+    <p class="twinker_footer">at 2014-11-05 07:35 / <a href="https://twitter.com/attakei/statuses/529899673231044608" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">kivy+iOSビルドにCrashlyticsKitの組み込みがどうにか出来たぽい</p>
+    <p class="twinker_footer">at 2014-11-05 07:06 / <a href="https://twitter.com/attakei/statuses/529892442594881537" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">@chomado 低負担：導入は簡単で、管理やモジュール更新等の負担も軽く、管理コストを抑えられます<br />コレ案外大事</p>
+    <p class="twinker_footer">at 2014-11-04 14:52 / <a href="https://twitter.com/fripper1214/statuses/529647341104795648" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">最新のモテるプログラムの条件と言われている「4低」<br />低姿勢＝特別な環境を欲したりはしません<br />低依存＝他のモジュールへの依存は少ないです<br />低リスク=なにか失敗しても他には影響を及ぼしません<br />低燃費＝処理は軽い&amp;メモリをあまり食いません<br /><br />#無理やり</p>
+    <p class="twinker_footer">at 2014-11-04 14:47 / <a href="https://twitter.com/chomado/statuses/529646218909999104" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">Crashlytics、おそらく組み込み簡単そうだしレポート機能も使い勝手が良さそうだけど、本来の目的のつもりだったKivyとの組み込み相性が悪くてどうしたもんかと考えこんでる。<br />社内のアプリに組み込んで検証する方向でも問題ないことはないけど、検証しづらいのが…</p>
+    <p class="twinker_footer">at 2014-11-04 15:26 / <a href="https://twitter.com/attakei/statuses/529655894527578112" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">【お詫び】ララビットマーケットにて本日予約開始予定の『ＧＥ２ＲＢ 極東支部支給ヘッドセット付き特装版』ですが、同梱製品仕様調整のため、誠に申し訳ありませんが予約開始時期を延期させていただきます。≫http://t.co/vaEauW4Q0T　#godeater #GE2RB</p>
+    <p class="twinker_footer">at 2014-10-31 03:35 / <a href="https://twitter.com/project_ge/statuses/528027536043671552" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">母「そんな暗号みたいなの書いてないで勉強したら」<br />私「ウィッス」<br /><br />もはや言い返す気力もないぞ٩( 'ω' )و http://t.co/dP6DShyL6U</p>
+    <p class="twinker_footer">at 2014-11-01 16:05 / <a href="https://twitter.com/1019Chih23/statuses/528578488568012800" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">Inbox by Gmailの招待来た。今インストールして今日からトライ</p>
+    <p class="twinker_footer">at 2014-11-03 22:50 / <a href="https://twitter.com/attakei/statuses/529405328983470080" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">あ、NHKラジオを聞くのを今の今まで完全に忘れてたorz</p>
+    <p class="twinker_footer">at 2014-11-03 15:15 / <a href="https://twitter.com/attakei/statuses/529290849855631361" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">やっとtinkerの記事書く→commit&amp;push→自分でビルドしてデプロイという意味不明な最後の工程をカットできる</p>
+    <p class="twinker_footer">at 2014-11-03 14:22 / <a href="https://twitter.com/attakei/statuses/529277535075332097" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">自分の環境内に構築していたgitlabからredisへ接続する設定が完全にスッポ抜けていたことが判明。これじゃあ、いくらpushしてもjenkinsに何も反映しないわけだ</p>
+    <p class="twinker_footer">at 2014-11-03 14:20 / <a href="https://twitter.com/attakei/statuses/529276825336176640" target="_blank">go to tweet</a></p>
+    </div>
+
+
+.. author:: default
+.. categories:: twitter
+.. tags:: crashlytics
+.. comments::

@@ -1,0 +1,53 @@
+ツイートまとめ(2015-04-13から2015-04-19)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">node.js/io.js に手を出してみることにした</p>
+   <p class="twinker_footer">at 2015-04-16 03:06 / <a href="https://twitter.com/attakei/statuses/588538939104854017" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">勉強用に作っていたページを、少しだけ別ルートの勉強用に再度作成し直す。というのをループ気味になっているので、一旦形にしないとダメだ</p>
+   <p class="twinker_footer">at 2015-04-14 15:20 / <a href="https://twitter.com/attakei/statuses/587998782429605889" target="_blank">go to tweet</a></p>
+   </div>
+
+.. more::
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">@d_d_taneko あ、ホントだ。今確認できたthx</p>
+   <p class="twinker_footer">at 2015-04-14 14:14 / <a href="https://twitter.com/attakei/statuses/587982335439540224" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">次回の溝の口例会の候補日が、サンホラの追加公演と完全にかぶってた。<br />例会は土曜の可能性のほうが高いんだっけ？</p>
+   <p class="twinker_footer">at 2015-04-14 14:09 / <a href="https://twitter.com/attakei/statuses/587981044617347072" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ファイルサイズが変だと思ったら、プチミレディオの録音が先頭少し切れてたorz</p>
+   <p class="twinker_footer">at 2015-04-13 02:40 / <a href="https://twitter.com/attakei/statuses/587445188043399168" target="_blank">go to tweet</a></p>
+   </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::

@@ -1,0 +1,253 @@
+ツイートまとめ(2015-07-27から2015-08-02)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">Champagne bottle fail. http://t.co/kqzFEbNVZM</p>
+   <p class="twinker_footer">at 2015-08-01 15:27 / <a href="https://twitter.com/_youhadonejob/statuses/627501004943179777" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">「正解:+n, 誤答:-m」みたいなのは、多分「CountingRule」とかにしておけばまぁ妥当なんだろうか</p>
+   <p class="twinker_footer">at 2015-08-02 14:09 / <a href="https://twitter.com/attakei/statuses/627843629101379584" target="_blank">go to tweet</a></p>
+   </div>
+
+.. more::
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">昨日行われましたクイズ大会「天６」で使用した拙作BGMを、以下の場所で公開いたしました。<br />https://t.co/yrl5Ew5sbq …<br />ダウンロード可能で、営利を目的としないクイズイベントであれば自由に使用できます。<br />私への許可は必要ありませんが、一報頂けると私が喜びますw</p>
+   <p class="twinker_footer">at 2015-08-02 12:39 / <a href="https://twitter.com/ike0904/statuses/627821095761018880" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">もうちょっとイベントのお話を聞きたい！ということで、急遽来週も小山剛志さんにゲストに来ていただくことになりました！  #petitmiradio</p>
+   <p class="twinker_footer">at 2015-08-02 14:03 / <a href="https://twitter.com/petitmilady/statuses/627842056598061056" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">恋 #こいを一発変換して恋なら思春期　じゃない人は何だろう。カープ女子?</p>
+   <p class="twinker_footer">at 2015-08-02 13:59 / <a href="https://twitter.com/yasuhikosasaki/statuses/627841086031921152" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">「n◯m✕」をうまいこと表現する英熟語がほしい</p>
+   <p class="twinker_footer">at 2015-08-02 14:01 / <a href="https://twitter.com/attakei/statuses/627841658420228096" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">Lush march!!の大先生のホウキ芸がパワーアップしてた<br />エアギターやるのはもちろん、サリーちゃんばりに跨って飛び回るマネしたりレレレのおじさんばりに掃き掃除芸やるししまいにはフラッグの代わりにホウキ振るしw<br /><br />...ホウキ担当の方でしたっけw<br />#minorin #サマドリ</p>
+   <p class="twinker_footer">at 2015-08-02 11:38 / <a href="https://twitter.com/hiro_furihiro/statuses/627805789755846656" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">(こんなサマ鳥はいやだ<br />「中に人がいる」<br /><br />みのりん「中に人は...居ませんよ？...」<br />(イメージ↓)<br /><br />#minorin #サマドリ http://t.co/I11kLWWSU2</p>
+   <p class="twinker_footer">at 2015-08-02 11:40 / <a href="https://twitter.com/hiro_furihiro/statuses/627806262932058114" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">今年の夏の思い出<br />サンバでヘドバン<br />#茅原実里　#サマドリ</p>
+   <p class="twinker_footer">at 2015-08-02 11:46 / <a href="https://twitter.com/edoq2222/statuses/627807769156956161" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">8回も挑戦して最後のポスターをもぎ取った勇者にはただただ賞賛のみ #サマドリ</p>
+   <p class="twinker_footer">at 2015-08-02 11:50 / <a href="https://twitter.com/attakei/statuses/627808783763439616" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">サマドリ2日目も終了ー！恒例の終演後の抽選付き物販で見事に余計な散財をしてしまったよ</p>
+   <p class="twinker_footer">at 2015-08-02 11:47 / <a href="https://twitter.com/attakei/statuses/627808022555967488" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">サマキャン→サマドリ、回を重ねるごとにノウハウが蓄積され、運営がスムーズになってきていて非常に好印象。終演後バス乗り場まで急いだら、バスが何台も待機してて感動してしまった。観光バス車両から路線バス車両へのシフトも素晴らしい。 #minorin #サマドリ</p>
+   <p class="twinker_footer">at 2015-08-01 13:16 / <a href="https://twitter.com/knight24_k/statuses/627467929316016128" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">今年もサマドリin富士山五合目 #サマドリ http://t.co/CclDSs8BhV</p>
+   <p class="twinker_footer">at 2015-08-02 02:55 / <a href="https://twitter.com/attakei/statuses/627673959069147136" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">山は涼しくていいですね at 五合目</p>
+   <p class="twinker_footer">at 2015-08-02 02:40 / <a href="https://twitter.com/attakei/statuses/627670202176667649" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">今回のステラシアター行きのシャトルバスは、いつもの駅横側ではなくて、7番停留所から出ます to #サマドリ 参加勢</p>
+   <p class="twinker_footer">at 2015-08-02 01:42 / <a href="https://twitter.com/attakei/statuses/627655794427883520" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ステラシアター行きと五合目行きは停留所が同じなので、朝から物販戦争に挑む人たちとすれ違い続けてる。頑張れー</p>
+   <p class="twinker_footer">at 2015-08-02 01:33 / <a href="https://twitter.com/attakei/statuses/627653341884059648" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">2日目の朝だけど最悪Tシャツはなくてもなんとかなりそうと判断して、これから富士五合目まで行って涼んで来ます</p>
+   <p class="twinker_footer">at 2015-08-02 01:29 / <a href="https://twitter.com/attakei/statuses/627652348899393536" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">みのりん「ガンちゃんのきゅうり」<br /><br />...(意味深)<br /><br />#minorin #サマドリ</p>
+   <p class="twinker_footer">at 2015-08-01 11:30 / <a href="https://twitter.com/hiro_furihiro/statuses/627441206046273538" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">今まで以上に花火がよく見えたので、これで今年の花火欲求はあらかた解消されました #サマドリ</p>
+   <p class="twinker_footer">at 2015-08-01 11:35 / <a href="https://twitter.com/attakei/statuses/627442406133223424" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">#サマドリ 1日目の個人的ハイライト(曲の感想ではない)<br />・大先生、エアギターの後に旗を見失いそうになる<br />・サマドリ、自分のコーナーでまさかの負傷欠場<br />・「会いたかった空」で歌詞が飛ぶが、「もう大丈夫だから」でリカバリする好プレー</p>
+   <p class="twinker_footer">at 2015-08-01 11:21 / <a href="https://twitter.com/attakei/statuses/627438891100938240" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">1日目終了ー。お疲れ様でしたー #サマドリ</p>
+   <p class="twinker_footer">at 2015-08-01 11:17 / <a href="https://twitter.com/attakei/statuses/627437972334448640" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">席が異様にいいんですけど #サマドリ</p>
+   <p class="twinker_footer">at 2015-08-01 07:11 / <a href="https://twitter.com/attakei/statuses/627375978663292929" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">公開リハでSUMMER DREAMきた！！ #サマドリ</p>
+   <p class="twinker_footer">at 2015-08-01 05:18 / <a href="https://twitter.com/attakei/statuses/627347644025802752" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">恒例の公開リハに沸き立つシアター外 #サマドリ</p>
+   <p class="twinker_footer">at 2015-08-01 05:15 / <a href="https://twitter.com/attakei/statuses/627347002586755072" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">#サマドリ ステラシアター行きのシャトルバスの発車場所が去年までと違うので注意しましょう。駅ロータリーの外でした</p>
+   <p class="twinker_footer">at 2015-08-01 04:55 / <a href="https://twitter.com/attakei/statuses/627341819836297216" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">河口湖駅ついた</p>
+   <p class="twinker_footer">at 2015-08-01 03:45 / <a href="https://twitter.com/attakei/statuses/627324179357036544" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ドラクエを起点にUE4の話ししてる #rebuildfm</p>
+   <p class="twinker_footer">at 2015-08-01 03:14 / <a href="https://twitter.com/attakei/statuses/627316403993886721" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">電車乗れたので、あとは河口湖まで待つだけー</p>
+   <p class="twinker_footer">at 2015-08-01 01:54 / <a href="https://twitter.com/attakei/statuses/627296341417459712" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">新宿ついた。<br />早く乗りたいんだが、どこもかしこも遅延してるな</p>
+   <p class="twinker_footer">at 2015-08-01 01:49 / <a href="https://twitter.com/attakei/statuses/627294942956793857" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">そういえば、河口湖周辺ってTOKYO-FMの電波入る or radikoで聞けるんだろうか？SANCTUARYをサマドリ後の夜もやるだろうけども</p>
+   <p class="twinker_footer">at 2015-07-27 04:17 / <a href="https://twitter.com/attakei/statuses/625520404229033985" target="_blank">go to tweet</a></p>
+   </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::

@@ -1,0 +1,83 @@
+タイムライン振り返り:2014/05/05-2014/05/11
+================================================
+
+.. include:: /_include/raw_html.rst
+
+自分のタイムラインメモ。きっと自動化出来るはず。
+
+.. more::
+
+.. compound::
+   :class: tweete
+
+   あれ、日本語入力出来るようになった。ふっと確認しに回ってすぐに何とかなってたから、どう変な取り扱いしちゃったのかすらわからないぞ…どうしよう自分
+
+   .. container:: datetime
+
+      Thu May 08 02:12:14 +0000 2014
+
+
+.. compound::
+   :class: tweete
+
+   あれ、日本語入力を受け付けない？
+
+   .. container:: datetime
+
+      Thu May 08 02:06:50 +0000 2014
+
+
+.. compound::
+   :class: tweete
+
+   出社のために移動しつつ、atom(エディタ)を試す準備してる
+
+   .. container:: datetime
+
+      Thu May 08 02:02:57 +0000 2014
+
+
+.. compound::
+   :class: tweete
+
+   オープンのクイズイベントでここまでの正解を重ねられたのも多分久方ぶりなので、これからも青系の人としてしばらく生きて行こうとおも
+
+   .. container:: datetime
+
+      Tue May 06 11:32:07 +0000 2014
+
+
+.. compound::
+   :class: tweete
+
+   【個人的吉報】2DKまさかの3位
+
+   .. container:: datetime
+
+      Tue May 06 11:27:37 +0000 2014
+
+
+.. compound::
+   :class: tweete
+
+   【MAGカップ2杯目】予選1回戦裏の敗復で5点とって2回線に復活。 |br| →その後の正解：火垂るの墓、忍者トットリ。で1問相当足らずに本線敗退。 |br|  |br| 明日頑張りまーす
+
+   .. container:: datetime
+
+      Mon May 05 10:21:05 +0000 2014
+
+
+.. compound::
+   :class: tweete
+
+   【MAGカップ2杯目】正解：純白サンクチュアリィ、メタルキング |br|  |br| 純白はちゃんと「羽の色／」で責任押し。メタキンはスルーしかけをかろうじて拾った感じ。
+
+   .. container:: datetime
+
+      Mon May 05 08:03:44 +0000 2014
+
+
+.. author:: default
+.. categories:: daily
+.. tags:: 自動投稿もどき, twitter
+.. comments::

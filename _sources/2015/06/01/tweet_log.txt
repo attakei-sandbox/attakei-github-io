@@ -1,0 +1,78 @@
+ツイートまとめ(2015-05-25から2015-05-31)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+Pyramidと軽く格闘しているログ
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">多摩、村山(=ﾟωﾟ)ﾉ http://t.co/6MsxqzVYnp</p>
+   <p class="twinker_footer">at 2015-05-27 12:20 / <a href="https://twitter.com/shikei/statuses/603536199421071360" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">バイト終わりの帰り道。テンションあがって誰もいない事を確認して「ドキドキで壊れそう1000％LOVE!!」と歌ってHEY!!と言おうとしたら後ろから自転車で走りながら男性が「HEY!!」と言った後に振り返り私を指差しながら「Are you ready？」 #実際にあった会話</p>
+   <p class="twinker_footer">at 2012-08-21 04:42 / <a href="https://twitter.com/ayae0305/statuses/237771559345991681" target="_blank">go to tweet</a></p>
+   </div>
+
+.. more::
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ansibleのvarsとpyramidのiniでデータベース名とかが二重記述になっちゃっているので、なんとかしたい。</p>
+   <p class="twinker_footer">at 2015-05-26 11:26 / <a href="https://twitter.com/attakei/statuses/603160296526651392" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">今日は普通に作業しつつ、予定しているkibanaセットアップが終わり、手元のお茶が無くなった時点で買える（宣言的に）</p>
+   <p class="twinker_footer">at 2015-05-26 09:03 / <a href="https://twitter.com/attakei/statuses/603124363546755072" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">トゥクトゥク旅のスタッフさんと談笑。番組の感想を向こうが引くくらい熱弁。トムさんのかっこよさ、ザブングル加藤くんの真面目さ、田代さやかの明るさとおっぱい、田代さやかのおっぱい。第三弾を熱望。おっぱい。</p>
+   <p class="twinker_footer">at 2015-05-26 09:01 / <a href="https://twitter.com/HikaruIjuin/statuses/603123779716263937" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">Java 20周年を記念して5/31までIntelliJ IDEAパーソナルライセンスの新規ご注文がディスカウント(￥19,008/$158)となります！ご注文はこちらから→ https://t.co/jVWf5RKHQx #jbugj #Java20</p>
+   <p class="twinker_footer">at 2015-05-25 15:38 / <a href="https://twitter.com/samuraism/statuses/602861289883316225" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">真っ先に「家のiMac大丈夫か？」と思ったぐらいには心に余裕があります。</p>
+   <p class="twinker_footer">at 2015-05-25 05:34 / <a href="https://twitter.com/attakei/statuses/602709274884644864" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">【解禁】メロキュア、アニサマに出演します！ミトさん、西脇辰弥さんと共に、スペシャルなステージ！8/28お時間あえば是非！<br />Animelo Summer Live 2015 -THE GATE-<br />2015/8/28<br />さいたまスーパーアリーナ<br />14時開場 16時開演<br />#anisama</p>
+   <p class="twinker_footer">at 2015-05-25 04:00 / <a href="https://twitter.com/mgrck/statuses/602685569697648640" target="_blank">go to tweet</a></p>
+   </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: python
+.. comments::

@@ -1,0 +1,158 @@
+ツイートまとめ(2014-08-25から2014-08-31)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+アニサマの感想などは、別エントリーにて
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">【ニュース】Animelo Summer Live 2014 -ONENESS-　3日目セットリスト公開！ http://t.co/fuQkwB4yxb http://t.co/MFThG0M5Tt</p>
+    <p class="twinker_footer">at 2014-08-31 12:30 / <a href="https://twitter.com/animate_tv/statuses/506056316893147136" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">「愛は地球を救う」っていうふわっとした文言より、「TOKIOが日常を復興する」っていう具体性ある惹句のほうが受けた感ある</p>
+    <p class="twinker_footer">at 2014-08-31 12:23 / <a href="https://twitter.com/DomSofan/statuses/506054561421721600" target="_blank">go to tweet</a></p>
+    </div>
+
+..  more::
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">全店舗まわったー http://t.co/lHff7K7TC7</p>
+    <p class="twinker_footer">at 2014-08-30 06:27 / <a href="https://twitter.com/attakei/statuses/505602687849607168" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">黒カレーがおいしい</p>
+    <p class="twinker_footer">at 2014-08-30 06:23 / <a href="https://twitter.com/attakei/statuses/505601616729210880" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">ブレードは持っているけどUOは現地購入したくなるのが、自分にとってのアニサマ</p>
+    <p class="twinker_footer">at 2014-08-29 06:18 / <a href="https://twitter.com/attakei/statuses/505237935877144576" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">UOの販売場所したせいで、オフィシャル物販の列に並び直しちう。<br /><br />列が倍ぐらいに延びとる！</p>
+    <p class="twinker_footer">at 2014-08-29 06:09 / <a href="https://twitter.com/attakei/statuses/505235790729715712" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">アニサマ2014　1日目、開場しました！ #anisama http://t.co/IGiwGYdhS7</p>
+    <p class="twinker_footer">at 2014-08-29 05:24 / <a href="https://twitter.com/anisama/statuses/505224329018101760" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">空腹だけど先にオフィシャル物販に並んでる</p>
+    <p class="twinker_footer">at 2014-08-29 05:26 / <a href="https://twitter.com/attakei/statuses/505225063075811328" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">裸に剝いて来たUOが一本電車内で暴発してアニメロサマーライブ2014in埼京線開演した。</p>
+    <p class="twinker_footer">at 2014-08-29 05:06 / <a href="https://twitter.com/yukutare/statuses/505219871513120768" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">アニサマのブレードって、色切り替え双方向なんかな？妹に面倒なオーダーたのまれた</p>
+    <p class="twinker_footer">at 2014-08-29 05:05 / <a href="https://twitter.com/attakei/statuses/505219573759475712" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">本日１９時〜タワーレコード渋谷店にてJAM Project　イベント開催！おいでいただける皆様には入り口にてお願いのチラシを配布させていただいてます。皆様、ご協力お願いします！！ #jamproject</p>
+    <p class="twinker_footer">at 2014-08-28 09:39 / <a href="https://twitter.com/jammattu/statuses/504926221654716419" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">ここ最近、昼飯を食べたあと2時間ぐらいすると、脳が疲労信号を全力で出してくる。だいたい30分弱ぐらい仮眠するというか意識を切ってる感じで回復させてる</p>
+    <p class="twinker_footer">at 2014-08-28 06:22 / <a href="https://twitter.com/attakei/statuses/504876587104604160" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">知ってる、これアカンやつや http://t.co/KtQQ5IMRW8</p>
+    <p class="twinker_footer">at 2014-08-27 21:48 / <a href="https://twitter.com/kazuakix/statuses/504747280893632512" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">「私メリーさん。今阪急梅田にいるの」<br />「私メリーさん。泉の広場に向かってるの」<br />「私メリーさん。今阪急三番街付近にいるの」<br />「私メリーさん。今御堂筋改札前にいるの」<br />「私メリーさん。今ホワイティ地下にいるの」<br />「私メリーさん。今ヨドバシ前に出たの」<br /><br />「（確実に迷ってるな…）」</p>
+    <p class="twinker_footer">at 2014-08-26 22:20 / <a href="https://twitter.com/moriagaru_bot/statuses/504393096017088513" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">「知ってもらうことがすべて」 #研究者の魅力 http://t.co/Tqqkl7YIX4</p>
+    <p class="twinker_footer">at 2014-08-25 10:09 / <a href="https://twitter.com/yumu19/statuses/503846669469765632" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">雨の降る気配がない！<br />朝中途半端な小雨だったから自転車乗るのをスルーするとすぐこれだorz</p>
+    <p class="twinker_footer">at 2014-08-25 09:34 / <a href="https://twitter.com/attakei/statuses/503837858336342016" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">ReTweet:</p>
+    <p class="twinker_body">「母親から、祖母や父親の愚痴を聞かされ続けた子供は心理的な症状が出ることが知られています」愚痴を聞くということは家族の葛藤の調整役になることであって「消化できない話や納得できない話をじっときかされると聞いた人が苦しむのです」とかうなづきまくった。</p>
+    <p class="twinker_footer">at 2014-08-24 03:44 / <a href="https://twitter.com/mtzw1004/statuses/503387392942673920" target="_blank">go to tweet</a></p>
+    </div>
+
+..  raw:: html
+
+    <div class="twinker">
+    <p class="twinker_header">Tweet:</p>
+    <p class="twinker_body">JavaScriptは本当にLLなのか？ by @kawada_hiroshi #javascript http://t.co/acXsbVh5r0 @SlideShareさんから</p>
+    <p class="twinker_footer">at 2014-08-25 03:08 / <a href="https://twitter.com/attakei/statuses/503740785561305088" target="_blank">go to tweet</a></p>
+    </div>
+
+
+.. author:: default
+.. categories:: tweetまとめ
+.. tags:: twitter
+.. comments::

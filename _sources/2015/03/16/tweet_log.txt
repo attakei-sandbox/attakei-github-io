@@ -1,0 +1,181 @@
+ツイートまとめ(2015-03-09から2015-03-15)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">遅めの朝飯食べながら聞いている #rebuildfm</p>
+   <p class="twinker_footer">at 2015-03-15 01:11 / <a href="https://twitter.com/attakei/statuses/576913487831560192" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ライブ終わった<br /><br />ヤバイ、来年もこの系統のセット傾向かもしれないなら先行抽選絶対申し込む</p>
+   <p class="twinker_footer">at 2015-03-13 12:58 / <a href="https://twitter.com/attakei/statuses/576366785861193728" target="_blank">go to tweet</a></p>
+   </div>
+
+.. more::
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">会場内<br /><br />こういう全体的な狭さは久しぶり？<br />後ろ気味でも近く感じていいね</p>
+   <p class="twinker_footer">at 2015-03-13 09:56 / <a href="https://twitter.com/attakei/statuses/576320969247100928" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">O-east 着いた。<br />すぐ近くに影山シスターズのお二人がいた気が</p>
+   <p class="twinker_footer">at 2015-03-13 09:45 / <a href="https://twitter.com/attakei/statuses/576318260372701184" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">DC出力→USB type-c みたいなのはあるのだろうか。出るのだろうか</p>
+   <p class="twinker_footer">at 2015-03-12 16:23 / <a href="https://twitter.com/attakei/statuses/576055949397360640" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">新MacBookを買う可能性を考慮して周辺機器のおさらいをしているのだけれど、HyperJuiceを使えないかが実質唯一のネックなんじゃないだろうか。（ほかはアダプタ挿せばどうにかなるだろうし）</p>
+   <p class="twinker_footer">at 2015-03-12 16:23 / <a href="https://twitter.com/attakei/statuses/576055840689373185" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">『矢矧・紗友里のちょっとお時間よろしいですか』、開始。 #agqr #ojikan</p>
+   <p class="twinker_footer">at 2015-03-11 14:15 / <a href="https://twitter.com/sigure31/statuses/575661394592329728" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ノイズが酷かった… #agqr #ojikan</p>
+   <p class="twinker_footer">at 2015-03-11 14:13 / <a href="https://twitter.com/attakei/statuses/575660698845384704" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">（※お使いのPCは正常です） #agqr #ojikan</p>
+   <p class="twinker_footer">at 2015-03-11 14:11 / <a href="https://twitter.com/beta_tw2/statuses/575660328404434944" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">家のiMac、どこでもMyMacの設定忘れたくさいぞ…</p>
+   <p class="twinker_footer">at 2015-03-10 03:35 / <a href="https://twitter.com/attakei/statuses/575137853438623744" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">newMacbook と Air は完全にかち合ってる印象だけども #rebuild</p>
+   <p class="twinker_footer">at 2015-03-10 02:42 / <a href="https://twitter.com/attakei/statuses/575124427249053696" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">new Macbook、キーボード配置だけはちゃんとしててよかった。 #rebuildfm</p>
+   <p class="twinker_footer">at 2015-03-10 02:13 / <a href="https://twitter.com/attakei/statuses/575117222651166722" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">伊東へ移動中のため、トンネルとの戦いになりつつ聞いてる。聞こえてます #rebuildfm</p>
+   <p class="twinker_footer">at 2015-03-10 02:04 / <a href="https://twitter.com/attakei/statuses/575115049645162496" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">電車で移動しつつ待機 #rebuildfm</p>
+   <p class="twinker_footer">at 2015-03-10 01:58 / <a href="https://twitter.com/attakei/statuses/575113589935095808" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">もう毎週、EDは好きだったアニメ曲ばっかにすればいいじゃないwww #muuun #agqr</p>
+   <p class="twinker_footer">at 2015-03-09 13:57 / <a href="https://twitter.com/attakei/statuses/574931910717128704" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ずっと00年代前半のアニメの話ばっかりwww #muuun</p>
+   <p class="twinker_footer">at 2015-03-09 13:19 / <a href="https://twitter.com/attakei/statuses/574922426338836480" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">む～～～ん待機中 #muuun</p>
+   <p class="twinker_footer">at 2015-03-09 13:00 / <a href="https://twitter.com/attakei/statuses/574917565287288833" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">エロ漫画作家ってこういうこと常にやりたいとか思ってるんでしょ！怖い！気持ち悪い！<br />って言う人は多分<br />井上雄彦はバスケの達人で宮本武蔵の子孫だと思ってるし<br />しげの秀一は夜な夜な峠でドリフト決めてると思ってるし<br />荒木飛呂彦は不老不死の吸血鬼だと思ってるんだろうな<br /><br />最後はあってるか…</p>
+   <p class="twinker_footer">at 2015-03-08 08:41 / <a href="https://twitter.com/sinsometameta/statuses/574490010533023744" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">【立ち入り禁止】だとロープをくぐって入る人がいるけど【帰れません】って言われると誰も入っていないようです。<br />実際、この谷に入り込むと滑ってはコースに戻れません。  <br />#志賀高原 #横手山スキー場 http://t.co/cTusLqdzaB</p>
+   <p class="twinker_footer">at 2015-03-07 21:40 / <a href="https://twitter.com/8hatchi/statuses/574323734401716224" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">例の高音質SDカードのレビューがネタ披露会場になってる<br />http://t.co/Cp7JItcTSC http://t.co/dNAxP3uqTN</p>
+   <p class="twinker_footer">at 2015-03-07 07:09 / <a href="https://twitter.com/s_7922/statuses/574104678188740610" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">出社しながらチェンクロラジオ聞いてる。<br />「曲のイントロ内に電車情報しゃべりきるキャスターすげぇ」というずれたところで感心している最中</p>
+   <p class="twinker_footer">at 2015-03-09 01:32 / <a href="https://twitter.com/attakei/statuses/574744465308446720" target="_blank">go to tweet</a></p>
+   </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::

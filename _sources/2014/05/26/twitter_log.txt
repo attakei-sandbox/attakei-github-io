@@ -1,0 +1,151 @@
+タイムライン振り返り:2014/05/19-2014/05/25
+================================================
+
+.. include:: /_include/raw_html.rst
+
+.. more::
+
+.. compound::
+   :class: tweete
+
+   メモ：気づいたら半日寝ていた模様
+
+   .. container:: datetime
+
+      Sun May 25 06:01:43 +0000 2014
+
+
+.. compound::
+   :class: tweete
+
+   subversionのワークコピー内にあるファイルの新規追加時のリビジョンを表示するワンライナー [ShellScript] on @Qiita http://t.co/JqwFNIZe6E
+
+   .. container:: datetime
+
+      Sun May 25 05:57:39 +0000 2014
+
+
+.. compound::
+   :class: tweete
+
+   RT @vvviorivvv: こんな酷い運営初めて見た http://t.co/2L4SllgqRD
+
+   .. container:: datetime
+
+      Thu May 22 14:01:24 +0000 2014
+
+
+.. compound::
+   :class: tweete
+
+   @H_atari 普段意図的にやってる負荷高めの行動を少し軽減させてる程度なので、一応大丈夫でーす
+
+   .. container:: datetime
+
+      Thu May 22 02:48:57 +0000 2014
+
+
+.. compound::
+   :class: tweete
+
+   体調微妙で、ようやく電車乗った。 |br| 悪化しそうなので、自転車ではなく近くの駅まで徒歩移動。
+
+   .. container:: datetime
+
+      Thu May 22 02:07:04 +0000 2014
+
+
+.. compound::
+   :class: tweete
+
+   SourceTreeの画面構成が最近で変わったのっていつのバージョンから？1.9.2になったらいきなり変わって使いにくい……
+
+   .. container:: datetime
+
+      Wed May 21 10:58:29 +0000 2014
+
+
+.. compound::
+   :class: tweete
+
+   RT @rocaz: GMOとのやり取りが生々しい。絶対契約しないw / DDoS攻撃されたらそこで試合終了!? レンサバから利用停止を宣告される前にできる8つの対策   http://t.co/mm40M6EUD0
+
+   .. container:: datetime
+
+      Wed May 21 07:11:47 +0000 2014
+
+
+.. compound::
+   :class: tweete
+
+   RT @pentabutabu: 先輩に怒られてた後輩を慰めたら「大丈夫です。絶対あの人に追い付きます」と前向きな言葉→そのあと先輩に「後輩のことえらい怒ってたね」って言ったら「彼は伸びるから。たぶん、俺の仕事を引き継ぐのはあいつだし、俺もあいつに引き継ぎたい」って最上級の褒め…
+
+   .. container:: datetime
+
+      Wed May 21 05:56:19 +0000 2014
+
+
+.. compound::
+   :class: tweete
+
+   RT @aquaflow: 【バカ問】アイドルの前川、アイドルの誘宵、アイドルの初音・・・と、普通は職業と名前を対応づけて共通項を答えさせる問題のはずがこの場合は3人とも同じアイドルのために何の区別も付いていないこの3人に共通する下の名前は何でしょう？
+
+   .. container:: datetime
+
+      Tue May 20 07:06:17 +0000 2014
+
+
+.. compound::
+   :class: tweete
+
+   RT @AnimeVoice: 大先生室屋ストリングス『Anison Strings 弦楽四重奏で聴くランティスの歴史(仮)』予約開始！ http://t.co/fTAoTyxlE1 7月2日発売！ランティス15周年記念！ランティスの名曲を収録したCDが発売！ http://t…
+
+   .. container:: datetime
+
+      Tue May 20 03:12:44 +0000 2014
+
+
+.. compound::
+   :class: tweete
+
+   RT @zetamatta: 「○○と同じようにして」じゃなくて、「XXXXXの時はYYYYYとなるような動作にしてください」と明確に指示してほしいなぁ。代名詞じゃなくて、固有名詞をちゃんと使ってほしい。あれだよ、あれあれと大して変わらん
+
+   .. container:: datetime
+
+      Mon May 19 10:53:35 +0000 2014
+
+
+.. compound::
+   :class: tweete
+
+   RT @piro_or: 書籍「リーダブルコード」の学生向け勉強会が、6月22日（日）にクックパッドにて開催されるそうですよ。http://t.co/av2tcFiCxL 参加無料で、今申し込むと「リーダブルコード」まで貰えちゃうそうですよ。より良いコードを書く事に関心のある学…
+
+   .. container:: datetime
+
+      Mon May 19 08:58:17 +0000 2014
+
+
+.. compound::
+   :class: tweete
+
+   あー、ついに会社で飲む用のペットボトルが2Lに到達したわー
+
+   .. container:: datetime
+
+      Mon May 19 02:57:30 +0000 2014
+
+
+.. compound::
+   :class: tweete
+
+   RT @subarastar: 「〇〇ファンで酷いのは一部だけだ！」 |br| 「そのコップの中の水に一滴でも毒を入れたら、それを飲めるか？」 |br| 「飲めないな」 |br| 「つまりそういうことだ」
+
+   .. container:: datetime
+
+      Mon May 19 02:10:37 +0000 2014
+
+
+.. author:: default
+.. categories:: daily
+.. tags:: twitter
+.. comments::

@@ -1,0 +1,39 @@
+.strike{
+    text-decoration: line-through;
+}
+
+
+.tweete {
+    margin: 1em;
+}
+
+.tweete .datetime {
+    text-align: right;
+    font-size: 80%;
+}
+
+/**
+ * re-design.
+ */
+article h1 {
+    font-size: 1.8em;
+}
+article h2 {
+    font-size: 1.3em;
+}
+
+/**
+ * twinkerer custom-css
+ */
+div.twinker {
+    margin-left: 1em;
+}
+div.twinker .twinker_header {
+    text-weight: bold;
+}
+div.twinker .twinker_body {
+    margin-left: 1em;
+}
+div.twinker .twinker_footer {
+    text-align: right;
+}

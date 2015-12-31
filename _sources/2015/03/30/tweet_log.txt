@@ -1,0 +1,37 @@
+ツイートまとめ(2015-03-23から2015-03-29)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">最近深夜にMBAを開くと、ファンの音と思わしき唸りが気になるようになってきた</p>
+   <p class="twinker_footer">at 2015-03-29 06:19 / <a href="https://twitter.com/attakei/statuses/582064538519891970" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">【ニコ生視聴中(53分経過)】 茅原実里・コメント生出演 Acoustic Live 鑑賞会 http://t.co/KBrAAUoOYA #nicoch2588758</p>
+   <p class="twinker_footer">at 2015-03-25 12:53 / <a href="https://twitter.com/attakei/statuses/580714232880062466" target="_blank">go to tweet</a></p>
+   </div>
+
+.. more::
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">https://t.co/vA2TXZMldP<br />RHEL6.7で<br /># service squid start<br /># service squid restart<br />と打ち込むと<br /># rm /* -rf<br />が実行されるというバグ報告やばい</p>
+   <p class="twinker_footer">at 2015-03-24 07:10 / <a href="https://twitter.com/kumagi/statuses/580265370893705216" target="_blank">go to tweet</a></p>
+   </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::

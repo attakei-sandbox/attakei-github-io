@@ -1,0 +1,101 @@
+ツイートまとめ(2015-05-11から2015-05-17)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">あとは見学モード</p>
+   <p class="twinker_footer">at 2015-05-17 09:06 / <a href="https://twitter.com/attakei/statuses/599863600723972096" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">GTO-SF 希望を持って挑んではみたものの、実質地蔵でfinish。お疲れ様でした。</p>
+   <p class="twinker_footer">at 2015-05-17 09:06 / <a href="https://twitter.com/attakei/statuses/599863546432880640" target="_blank">go to tweet</a></p>
+   </div>
+
+.. more::
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">祝】GTO 自己最高記録更新(コース別3抜け)</p>
+   <p class="twinker_footer">at 2015-05-17 05:10 / <a href="https://twitter.com/attakei/statuses/599804247878856704" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">富岡ついた</p>
+   <p class="twinker_footer">at 2015-05-16 06:32 / <a href="https://twitter.com/attakei/statuses/599462472400044032" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">青系であることだけは記憶がある</p>
+   <p class="twinker_footer">at 2015-05-16 05:38 / <a href="https://twitter.com/attakei/statuses/599448754052202496" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">新幹線の中でNMBの設定中なんだけど、会社で設定したiTerm2のカラーテーマが何だったか忘れたorz</p>
+   <p class="twinker_footer">at 2015-05-16 05:36 / <a href="https://twitter.com/attakei/statuses/599448245568278528" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">富岡に寄り道したいだけのために、想定外のタイミングで北陸新幹線に乗る</p>
+   <p class="twinker_footer">at 2015-05-16 05:19 / <a href="https://twitter.com/attakei/statuses/599443958935191552" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">天気予報で雨降るだろうことは知ってたけど、朝から降るのか…<br />富岡まで足を伸ばすつもりでいたけどどうしようか</p>
+   <p class="twinker_footer">at 2015-05-16 00:03 / <a href="https://twitter.com/attakei/statuses/599364501591363585" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">OpenLDAP+SSL　がざっくり出来た。が、合間合間だったからか1週間かかった。<br />いや、自分がヘボいだけだな</p>
+   <p class="twinker_footer">at 2015-05-13 14:16 / <a href="https://twitter.com/attakei/statuses/598492122900090880" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">どうせ「俺はJS生まれ jQuery育ち Backboneなヤツはだいたい友達」とか言いだすんでしょ</p>
+   <p class="twinker_footer">at 2015-05-13 05:56 / <a href="https://twitter.com/neo6120/statuses/598366197856342017" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">楽天銀行から「メッセージがあるよ」のメールが来て、何かと思ってどうにか質問の答えを思い出してログインしたら「JCB始めました」とか。<br />正直馬鹿じゃねーのという感想しか持てなかったんだが、このお知らせはメッセージじゃないとダメなんかな？</p>
+   <p class="twinker_footer">at 2015-05-12 10:16 / <a href="https://twitter.com/attakei/statuses/598069217460506624" target="_blank">go to tweet</a></p>
+   </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::

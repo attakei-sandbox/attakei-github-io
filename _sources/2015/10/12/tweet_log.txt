@@ -1,0 +1,533 @@
+ツイートまとめ(2015-10-05から2015-10-11)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">#pyconjp のプレゼント大会でPyCharmのライセンスをもらえて嬉しいので、社内に「闇のPython勢力」を増やすための布教用に使わせてもらおうと思ってます。<br /><br />(自分はIntelliJ IDEAを使っててバッティングしました)<br />(Python集中用に使うのはアリかも？)</p>
+   <p class="twinker_footer">at 2015-10-11 13:14 / <a href="https://twitter.com/attakei/statuses/653196893984440320" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">最近カンファレンスに出たりする頻度が上がってきてて、何か発表するもの見つけたくなってくる。 Macbook のアダプターが届く頃までに、社内向けでもいいから何か作るかな</p>
+   <p class="twinker_footer">at 2015-10-11 13:10 / <a href="https://twitter.com/attakei/statuses/653195961951326208" target="_blank">go to tweet</a></p>
+   </div>
+
+.. more::
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">素晴らしいイベントをありがとうございました！いちばん会場でトークを聞きたいであろう人たちの多くが運営のために聞けないのかと思うと感謝の気持ちでいっぱいにならずにはいられない。 http://t.co/lDY9HM4XUK</p>
+   <p class="twinker_footer">at 2015-10-11 13:03 / <a href="https://twitter.com/nobolispy/statuses/653194290584158208" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">シュラスコ中<br /><br />開始10足らずで2切れ食べた上での光景 http://t.co/jDdbzA3DyC</p>
+   <p class="twinker_footer">at 2015-10-11 10:42 / <a href="https://twitter.com/attakei/statuses/653158774702649344" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">#pyconjp 2日目終了、お疲れさまでした。<br />いろいろと実は知っていなかった知見や多くのベクトルに向いた熱意に触れることができて、充実した2日間でした。<br /><br />Thank you</p>
+   <p class="twinker_footer">at 2015-10-11 09:46 / <a href="https://twitter.com/attakei/statuses/653144526270414848" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ランチ1000円って２食分なら問題ない値段というか安いよね。美味しかったし #pyconjp #PyconJP_C</p>
+   <p class="twinker_footer">at 2015-10-11 08:20 / <a href="https://twitter.com/attakei/statuses/653123026825773056" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">チケットの４割強が食べ物に使用されていたのか #pyconjp #PyConJP_C</p>
+   <p class="twinker_footer">at 2015-10-11 08:19 / <a href="https://twitter.com/attakei/statuses/653122617797283840" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">LT終わった。とりあえず問題は解決していないけれど、思考プロセスについて知っていただいて使っていただければ嬉しいです    #pyconjp #PyConJP_C</p>
+   <p class="twinker_footer">at 2015-10-11 08:13 / <a href="https://twitter.com/todogzm/statuses/653121183475306496" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">結構な間「ぱいぱい」だと思ってた RT @be11: けっこう「ぱいぱい」って言ってから「ぱいぴーあい」って言い直してましたねw #pyconjp #PyConJP_C</p>
+   <p class="twinker_footer">at 2015-10-11 07:56 / <a href="https://twitter.com/FGtatsuro/statuses/653116986096902144" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">「えっ・・・残り・・５分・・・？」 #pyconjp #pyconjp_C</p>
+   <p class="twinker_footer">at 2015-10-11 07:41 / <a href="https://twitter.com/spacepro_be/statuses/653113059653750784" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">testpypi 初めて知った #pyconjp #PyConJP_C</p>
+   <p class="twinker_footer">at 2015-10-11 07:42 / <a href="https://twitter.com/attakei/statuses/653113381646282752" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">他セッションでもwheelの話題がちょろっと出てたので一度見てみた方が良さげ<br />  #pyconjp #PyConJP_C</p>
+   <p class="twinker_footer">at 2015-10-11 07:40 / <a href="https://twitter.com/attakei/statuses/653112854430613504" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">曹操「Python3しか対応しないのもあり」 #pyconjp #pyconjp_C</p>
+   <p class="twinker_footer">at 2015-10-11 07:31 / <a href="https://twitter.com/spacepro_be/statuses/653110676081119232" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">install_requires, requirements.txt は役割が違うので、意識して使い分ける方がいい #pyconjp #PyConJP_C</p>
+   <p class="twinker_footer">at 2015-10-11 07:28 / <a href="https://twitter.com/attakei/statuses/653109996796776448" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">改めて、きちんとした情報知りたいので来ました。 #pyconjp #PyConJP_C</p>
+   <p class="twinker_footer">at 2015-10-11 07:18 / <a href="https://twitter.com/attakei/statuses/653107331132067840" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">野球hack、俺は特別野球好きとかではないけど純粋に好きなことを技術で楽しんでる感があってすごく良かったし来年も聞きたい。 #pyconjp #PyConJP_1</p>
+   <p class="twinker_footer">at 2015-10-11 07:12 / <a href="https://twitter.com/laugh_k/statuses/653105825783746560" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">アダム・ダン率に続き、被アダム・ダン率 #pyconjp #PyconJP_1</p>
+   <p class="twinker_footer">at 2015-10-11 06:58 / <a href="https://twitter.com/attakei/statuses/653102266770034688" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">発表資料です! uWSGI/Dockerを利用したWebサービス運用事例 #pyconjp #PyConJP_M https://t.co/RBjJugJxFW</p>
+   <p class="twinker_footer">at 2015-10-11 05:19 / <a href="https://twitter.com/bungoume/statuses/653077464663482369" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">Pythonじゃなくてもインデント揃ってるだろ、実際は。<br />#pyconjp</p>
+   <p class="twinker_footer">at 2015-10-11 03:28 / <a href="https://twitter.com/everes/statuses/653049547170562048" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">#pyconjp ランチエリア、パッと見た感じでも4つぐらい変更された箇所があってスムーズにランチ受け取れたし、ごちそうさまでした</p>
+   <p class="twinker_footer">at 2015-10-11 04:07 / <a href="https://twitter.com/attakei/statuses/653059252567846912" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">しまった、定時後はタダで無限に酒が飲めるのを言うの忘れた #pyconjp #pyconjp_C</p>
+   <p class="twinker_footer">at 2015-10-11 03:34 / <a href="https://twitter.com/hagino3000/statuses/653050995610488833" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">会場WiFiが接続しにくい状態ですが、皆さんがポケットWifiを使うほど会場Wifiが接続しにくくなります。ポケットWiFiとテザリングを止めてください。みなさんもう一度確認お願いします。ご協力お願いします。　#pyconjp http://t.co/7GnECcq7KT</p>
+   <p class="twinker_footer">at 2015-10-11 02:36 / <a href="https://twitter.com/owaka05068/statuses/653036499907178496" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">#pyconjp 今日のランチ列には「最後尾です」札を用意するという、いい改善がされてる</p>
+   <p class="twinker_footer">at 2015-10-11 03:47 / <a href="https://twitter.com/attakei/statuses/653054201283670016" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">“すそ野を広げるのが大事”<br />まさにその通りなんだけど、それを実践しているPHPをみんなバカにしてるじゃん！まずは素人をバカにしたりPHPを執拗に攻撃するようなのをなくしてよ！<br />#pyconjp</p>
+   <p class="twinker_footer">at 2015-10-11 02:55 / <a href="https://twitter.com/makotokuwata/statuses/653041287101218816" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">本屋の中でPythonの本が占める割合高めるように動かすのが地味に効くと思うんですけどね。 #pyconjp #PyConJP_C</p>
+   <p class="twinker_footer">at 2015-10-11 02:59 / <a href="https://twitter.com/takuan_osho/statuses/653042096425730048" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">.@tg__dev さんの「【基調講演】人・組織・Python エンジニアのための会社を作るための取り組み  #PyConJP_C #pyconjp」をお気に入りにしました。 http://t.co/nLsR3wFqPS</p>
+   <p class="twinker_footer">at 2015-10-11 01:56 / <a href="https://twitter.com/attakei/statuses/653026305550651392" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">Q: リモートワークはクリエイティブワークには向かないのでは？<br />A: アイデア創造プロセスと製造プロセスを分割する。前者はチームで行い後者は個別に行う。行える。 #pyconjp</p>
+   <p class="twinker_footer">at 2015-10-11 01:28 / <a href="https://twitter.com/spacepro_be/statuses/653019401923330048" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">「アイデアを生み出すプロセス」と「作るプロセス」を明確に分ける。 #pyconjp</p>
+   <p class="twinker_footer">at 2015-10-11 01:28 / <a href="https://twitter.com/attakei/statuses/653019419577204736" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">リモートワークに関する実例ベースでの話聞けてる #pyconjp</p>
+   <p class="twinker_footer">at 2015-10-11 01:28 / <a href="https://twitter.com/attakei/statuses/653019290765946881" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">「役職：魔法使い」が3次元の世界に出てきた（名刺に書ける時代になったんだ） #pyconjp</p>
+   <p class="twinker_footer">at 2015-10-11 01:21 / <a href="https://twitter.com/basso414f/statuses/653017598137729024" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">@nanakenashi こちらこそ、ありがとうございました！</p>
+   <p class="twinker_footer">at 2015-10-10 12:05 / <a href="https://twitter.com/attakei/statuses/652817198004629504" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">もしそうなったら、地下鉄赤塚駅は「営団赤塚」駅ではなく「帝都赤塚」にしてほしい https://t.co/XGsjEepur9</p>
+   <p class="twinker_footer">at 2015-10-10 12:03 / <a href="https://twitter.com/attakei/statuses/652816665206370304" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">明日はちゃんと基調講演から行こう。そうしよう #pyconjp</p>
+   <p class="twinker_footer">at 2015-10-10 11:20 / <a href="https://twitter.com/attakei/statuses/652805937892315137" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">#pyconjp 1日目が終了しました。チケット代にパーティも含まれてたのでカンファレンス類で初めて懇親会までいたけど、同じ業界なのに普段接点が全く無い人と会話する機会があって楽しい。</p>
+   <p class="twinker_footer">at 2015-10-10 11:19 / <a href="https://twitter.com/attakei/statuses/652805608102600704" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">Sphinx 発表参加者の皆さん！ #sphinxjp #pyconjp http://t.co/FOFqoNd8xj</p>
+   <p class="twinker_footer">at 2015-10-10 05:40 / <a href="https://twitter.com/shimizukawa/statuses/652720346278203393" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">pythonエンジニアはインデントが狂っていると死ぬので、例えゴミ箱のインデントでも揃える。#pyconjp http://t.co/mKCrRMaHyn</p>
+   <p class="twinker_footer">at 2015-10-10 07:29 / <a href="https://twitter.com/lahalt/statuses/652747892558458881" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">「Python と型ヒント」のスライド #pyconjp http://t.co/6pE9R6nvcj</p>
+   <p class="twinker_footer">at 2015-10-10 04:02 / <a href="https://twitter.com/t2y/statuses/652695621401341952" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">#pyconjp ランチ列待機中</p>
+   <p class="twinker_footer">at 2015-10-10 03:44 / <a href="https://twitter.com/attakei/statuses/652691227356364800" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">今昼礼の教育テキスト読みで「新人社員は将棋の歩である。努力を重ねればと金になれる」と言う内容であったが、将棋を知っていると初期配置の歩は交換要因で前線で死んでいき、と金になるのは敵陣地から引き抜いた歩である事が多い事を伝えるかどうか迷う。</p>
+   <p class="twinker_footer">at 2014-05-12 04:02 / <a href="https://twitter.com/catslave23/statuses/465703659993448449" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">寝 過 ご し た</p>
+   <p class="twinker_footer">at 2015-10-09 02:54 / <a href="https://twitter.com/attakei/statuses/652316162156535809" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">前回はSlackのアプリ終了で落ち着いたっぽい。今回はChrome終了させたら収まったように見える</p>
+   <p class="twinker_footer">at 2015-10-08 14:02 / <a href="https://twitter.com/attakei/statuses/652121897015115776" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">MacBook をEL Capitanにアップグレードしてしばらくたつけど、たまに閉じてカバンの中に入れっぱなしでえらい熱くなってる事がある。がまだ回数こなせてないので再現方法がわからない</p>
+   <p class="twinker_footer">at 2015-10-08 13:52 / <a href="https://twitter.com/attakei/statuses/652119369040928768" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">メディアが考えるゲーム脳<br />「死んでも復活できるでしょ」<br />「あー、ゲームでやるみたいに誰か殺したいな」<br /><br />実際のゲーム脳<br />「ルールを守れ」 <br />「マナーを守れ」 <br />「モラルを守れ」 <br />「秩序を乱すな」</p>
+   <p class="twinker_footer">at 2015-03-02 20:42 / <a href="https://twitter.com/zelunyan/statuses/572497240016601088" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">近親新作もう１つ。終わりのクロニクルより草の獣ストラップ、500円なり。疲労回復効果は、信じればきっとあるはず(震え声)・・・。 http://t.co/CnW96Tk0Sr</p>
+   <p class="twinker_footer">at 2015-10-08 11:00 / <a href="https://twitter.com/OMkikaku/statuses/652076084217774080" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">この URL http://t.co/4QuRwPuH3O</p>
+   <p class="twinker_footer">at 2015-10-08 04:16 / <a href="https://twitter.com/mirakui/statuses/651974507243028480" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">新宿駅まで歩くはずが、ここは何故か代々木駅</p>
+   <p class="twinker_footer">at 2015-10-07 13:26 / <a href="https://twitter.com/attakei/statuses/651750367395454976" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">交通費削りと腹ごなし運動をかねて、新宿駅まで大移動中</p>
+   <p class="twinker_footer">at 2015-10-07 13:14 / <a href="https://twitter.com/attakei/statuses/651747442271121410" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">IDCFの方々、会場提供ありがとうございました。あと、ごちそうさまでした</p>
+   <p class="twinker_footer">at 2015-10-07 13:09 / <a href="https://twitter.com/attakei/statuses/651746257245966336" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">Ansible 勉強会から帰宅。各現場のいろいろな話聞けるいい機会になりました。<br />#ansiblejp</p>
+   <p class="twinker_footer">at 2015-10-07 13:08 / <a href="https://twitter.com/attakei/statuses/651745801652338688" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">Playbook化によって0.5日かかってたセットアップが15分で完了。並列で実行可能なので相当な時間が浮いたんだろうな #ansiblejp</p>
+   <p class="twinker_footer">at 2015-10-07 10:38 / <a href="https://twitter.com/attakei/statuses/651708084314746884" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">「謎の手動への安心感」なんかわかる。最近は自動化に安心感持ってきてるけど #ansiblejp</p>
+   <p class="twinker_footer">at 2015-10-07 10:15 / <a href="https://twitter.com/attakei/statuses/651702473195921408" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">Ansible勉強会に参加。 #ansiblejp</p>
+   <p class="twinker_footer">at 2015-10-07 10:00 / <a href="https://twitter.com/attakei/statuses/651698609893830656" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">全然興味なかったけどこの写真だけで歌舞伎ワンピース見に行きたくなった。 http://t.co/MNAmLRSoI9</p>
+   <p class="twinker_footer">at 2015-10-06 14:21 / <a href="https://twitter.com/SugiSho0120/statuses/651401995689967616" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ちゃんと本文読んでから画像を見たはずなのに一行目を「オレヨー!!」と空目しちゃって、もうこの時間で疲労がけっこうきているらしい自分…<br /> https://t.co/FPcm94PgX8</p>
+   <p class="twinker_footer">at 2015-10-07 05:27 / <a href="https://twitter.com/attakei/statuses/651629942837350400" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">今更ながら普段のタスクの時間計測にtogglを使っている。toggl本体は時間計測や管理に向いているのは間違いなさそうなのだけれど、todoリストと兼務できないのが不便かも？</p>
+   <p class="twinker_footer">at 2015-10-07 01:17 / <a href="https://twitter.com/attakei/statuses/651566879560101888" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">肉体的疲労はメンタルに響くし、メンタルがネガティブ要素濃いめの状況だと、普通の指摘が自分の中でハウリングしてろくなことにならないので、打ち合わせや指摘へのフィードバック等は気持ちが上向いてから対応しておきたい</p>
+   <p class="twinker_footer">at 2015-10-05 10:00 / <a href="https://twitter.com/attakei/statuses/650973812339687424" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">今週やるAnsible勉強会に出席したいのだけど、想定されるタスク終了時間的に開場時間帯に会場行けるかわからないから、申し込み躊躇してます</p>
+   <p class="twinker_footer">at 2015-10-05 09:52 / <a href="https://twitter.com/attakei/statuses/650971697156370432" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">撤退</p>
+   <p class="twinker_footer">at 2015-10-05 09:49 / <a href="https://twitter.com/attakei/statuses/650971181290516480" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">★本日開催★いよいよ本日(10/5)20時より【ゲスト：松本梨香／motsu＆ZAQ】アニソンCLUB! R＜vol.10＞開催＆生放送です！#anison_club<br />生放送視聴はこちら⇒http://t.co/CCO71n31Ky http://t.co/JZI0XrYwPP</p>
+   <p class="twinker_footer">at 2015-10-05 02:07 / <a href="https://twitter.com/animelo_LIVE/statuses/650854911593181184" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">このページはアイコンが使われる。ということはサイト依存か<br /><br />OS X El Capitan：Safari 9のページピンの使い方 | Mac OS X | Macお宝鑑定団 blog（羅針盤） http://t.co/JvjbDCAILR #Zenback @idanboさんから</p>
+   <p class="twinker_footer">at 2015-10-05 02:44 / <a href="https://twitter.com/attakei/statuses/650864174642278400" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">どこかで設定できるのか？</p>
+   <p class="twinker_footer">at 2015-10-05 02:42 / <a href="https://twitter.com/attakei/statuses/650863565491052544" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">Safari9のページピンって固定化されたタブの識別しづらいんだが、favicon使ってくれないのかな。手始めにHootsuiteとはてブを固定してみたらどっちもHでわかりづらい。</p>
+   <p class="twinker_footer">at 2015-10-05 02:42 / <a href="https://twitter.com/attakei/statuses/650863517357187072" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">「あまんちゅ！」ＴＶアニメ化決定!!＼(^o^)／　<br />原作ＨＰ　http://t.co/3NMAdTzcGp<br />アニメＨＰ　http://t.co/eLmhuWKAs7<br />上記２サイトで情報確認できます(*´∀｀*)　#あまんちゅ http://t.co/NTyG7YuqVM</p>
+   <p class="twinker_footer">at 2015-10-05 02:07 / <a href="https://twitter.com/comic_blade/statuses/650854775383199744" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">頑張ってみたので、今日はこれ以上のバージョン更新しないで寝る</p>
+   <p class="twinker_footer">at 2015-10-04 16:20 / <a href="https://twitter.com/attakei/statuses/650707176529334272" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">Ansibleのロールベストプラクティスにあえて抗ってみるプラグイン [Python] on @Qiita http://t.co/jDljl9P9l2</p>
+   <p class="twinker_footer">at 2015-10-04 16:19 / <a href="https://twitter.com/attakei/statuses/650706934388035584" target="_blank">go to tweet</a></p>
+   </div>
+
+
+.. author:: default
+.. categories:: tweetまとめ
+.. tags:: Python, PyConJP, アニメ, Ansible
+.. comments::

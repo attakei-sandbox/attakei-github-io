@@ -1,0 +1,99 @@
+ツイートまとめ(2015-11-30から2015-12-06)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">プチミレディ2ndライブ@有明コロシアム、終了しました！<br />今回は、アントニオ剛志という役どころでした。<br />アンコールの時にはしゃぎ過ぎて、左足がちょっと逝ってしまいましたが悔いはありません。<br />今日参加された皆様、おつかれさまでした！ https://t.co/HCEoz3gRpI</p>
+   <p class="twinker_footer">at 2015-12-06 12:13 / <a href="https://twitter.com/_higetter_/statuses/673475341428457472" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">本日、有明コロシアムで開催された『petit milady 2nd LlVE！キュートでポップなトィンクル級王座決定戦！〜スキ キライ 大スキ♡〜』に、ゲスト出演させていただきました💋集合写真をパシャリッ😘ありがとうございました〜👏 https://t.co/VgWMbgaEHi</p>
+   <p class="twinker_footer">at 2015-12-06 12:35 / <a href="https://twitter.com/chiaking58/statuses/673480876580147201" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">プチミレセカンドライブ、お越しいただきありがとうございました！！<br />みんなで作ったステージ。大切な思い出だよ！<br />応援してくれて本当に嬉しかったです。</p>
+   <p class="twinker_footer">at 2015-12-06 12:50 / <a href="https://twitter.com/Ayana_take/statuses/673484581639618560" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">カメラが固定設置された…</p>
+   <p class="twinker_footer">at 2015-12-06 08:07 / <a href="https://twitter.com/attakei/statuses/673413389264252928" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">目の前が花道</p>
+   <p class="twinker_footer">at 2015-12-06 07:54 / <a href="https://twitter.com/attakei/statuses/673410168361717760" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">歌い終えて楽屋でお奈々さんみてます。<br />お奈々さん可愛いなぁ〜(*^_^*)<br /><br />今日番組に呼んでもらって、<br />一緒に歌えて嬉しかった✨✨✨✨✨<br /><br />これからも応援してます！</p>
+   <p class="twinker_footer">at 2015-12-05 17:01 / <a href="https://twitter.com/LoveLoveDragon/statuses/673185479718625281" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">「自分のやるべきこと」「近未来的にやりたいこと」が噛み合うポイントを見つけた。こうなってくるとモチベーションになるな...</p>
+   <p class="twinker_footer">at 2015-12-05 05:37 / <a href="https://twitter.com/attakei/statuses/673013383436763136" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">Let's Encrypt is in Public Beta!</p>
+   <p class="twinker_footer">at 2015-12-03 18:14 / <a href="https://twitter.com/letsencrypt/statuses/672479056957313027" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">俺氏、再びライブとリ脱のダブルブッキングをやらかす（6ヶ月ぶり2回目）</p>
+   <p class="twinker_footer">at 2015-12-02 09:59 / <a href="https://twitter.com/attakei/statuses/671992151052390400" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">・なんでも自分でやろうとするのは普通<br />・なんでも自分でやり遂げるのは一流<br />・なんでも自分でやり遂げるのは経済的合理性がないから専門家にカネ払ってサッサとお願いして自らの得意分野にリソース投入するのが超一流</p>
+   <p class="twinker_footer">at 2015-12-01 03:35 / <a href="https://twitter.com/kan_yokota/statuses/671533174392930305" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">【ご予約受付締切12/11】七面鳥の丸焼きぬいぐるみ　M　茶（https://t.co/pmy6xKBHkG）<br />発送は12/18以降になります。 https://t.co/DrsX8eH7t1</p>
+   <p class="twinker_footer">at 2015-11-30 02:07 / <a href="https://twitter.com/komine_gangu/statuses/671148475241865216" target="_blank">go to tweet</a></p>
+   </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::

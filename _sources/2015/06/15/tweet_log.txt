@@ -1,0 +1,158 @@
+ツイートまとめ(2015-06-08から2015-06-14)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+おもに、Kickstarterと向き合っていた週。
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">1万RT来たら購入する http://t.co/2Juai5xniA</p>
+   <p class="twinker_footer">at 2015-05-30 14:20 / <a href="https://twitter.com/srumoooooon/statuses/604653612896116736" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">どうにか空きができたアダプタ2個分に滑り込めたぽい</p>
+   <p class="twinker_footer">at 2015-06-12 16:19 / <a href="https://twitter.com/attakei/statuses/609394500604002305" target="_blank">go to tweet</a></p>
+   </div>
+
+.. more::
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">I just backed Hub+ for USB-C: Get your MacBook ports back. on @Kickstarter http://t.co/hTMvGzPRq5</p>
+   <p class="twinker_footer">at 2015-06-12 16:17 / <a href="https://twitter.com/attakei/statuses/609394209942941697" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">この『ゴミ箱をからにする』で職場で盛大に吹いてしまいましたww<br />ーーーーー<br />Windows95のごみ箱を実際に作ってみたら何かよくわからないものが出来た｜http://t.co/F3DG3xCD2Z http://t.co/oTQqcaigJ4</p>
+   <p class="twinker_footer">at 2015-06-12 02:15 / <a href="https://twitter.com/chomado/statuses/609182199183601664" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">これマジ？<br />上半身に対して下半身が強靭すぎるだろ･･･ http://t.co/d20gN4WjqR</p>
+   <p class="twinker_footer">at 2015-06-12 04:32 / <a href="https://twitter.com/Zakopong/statuses/609216653109243905" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">東京アメッシュの最近のお知らせが自分の中でじんわりと面白い。<br />更新作業による一時サービス停止の連絡なのだけれど、「荒天の場合は作業を延期します。」の表記が自分の中でじんわり面白い。<br /><br />確かに雨天荒天時に一番需要があるサービスだものな。<br />http://t.co/lHnr9PliPY</p>
+   <p class="twinker_footer">at 2015-06-12 03:25 / <a href="https://twitter.com/attakei/statuses/609199704220381184" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">39歳 こんにちは。<br />http://t.co/gWSjW0N9cL</p>
+   <p class="twinker_footer">at 2015-06-11 16:33 / <a href="https://twitter.com/minami_kuri/statuses/609035784113430528" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">というか、Mac OS対応と書いておきながら、ブラウザがIEしか推奨してないのか。なんだこれ</p>
+   <p class="twinker_footer">at 2015-06-11 15:11 / <a href="https://twitter.com/attakei/statuses/609015102897913856" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">mixiで始まった #BDPB 、やってみたけどOPのテキストが途切れすぎてるのかわけがわからない。巫女4人の紹介が全部名前でないあたりでやる気がゼロになった。</p>
+   <p class="twinker_footer">at 2015-06-11 15:10 / <a href="https://twitter.com/attakei/statuses/609014778606960640" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">頭痛が痛い</p>
+   <p class="twinker_footer">at 2015-06-08 13:07 / <a href="https://twitter.com/attakei/statuses/607896608621993985" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">そして唐突ですが、ブルーシンデレラオープン2015のエントリーを開始いたします。下記のリンクからエントリーフォームに移動できますので、参加を希望される方はフォーム内の必要事項を記入してください。<br /><br />http://t.co/hyNfZGABAQ</p>
+   <p class="twinker_footer">at 2015-06-07 16:39 / <a href="https://twitter.com/blue_cind_open/statuses/607587653303672832" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">中国人：日本人は鬼のようだ！　日本鬼子だ！！<br />日本人：鬼とかかっこいい、擬人化してひのもとおにこ（#日本鬼子）ちゃんにしてみた。<br />自衛隊：ひのもとおにこちゃんかわいい、痛ヘリつくるよ。　←　今ここ<br /><br />意図せず精神攻撃までする自衛隊 http://t.co/tICyu7XoiG</p>
+   <p class="twinker_footer">at 2015-05-14 14:27 / <a href="https://twitter.com/dish_2525/statuses/598857255346274304" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">今度コミットログ見ながら一人反省会しよ</p>
+   <p class="twinker_footer">at 2015-06-07 16:14 / <a href="https://twitter.com/attakei/statuses/607581494299623425" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">rbenv で環境作る→gem omniauth-backlog sinatra → 自前のサンプルrbにIDとか書いて実行→ちゃんと認可認証してくれる。は確認できなかな</p>
+   <p class="twinker_footer">at 2015-06-07 16:12 / <a href="https://twitter.com/attakei/statuses/607580951573463040" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">あー、依存gemの記述がやっぱりおかしかったorz<br /><br />0.1.1にして修正しました。</p>
+   <p class="twinker_footer">at 2015-06-07 16:09 / <a href="https://twitter.com/attakei/statuses/607580211320778753" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">さて、ちゃんと依存分もインストールできるのか試してない</p>
+   <p class="twinker_footer">at 2015-06-07 15:55 / <a href="https://twitter.com/attakei/statuses/607576515203571712" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">すこぶる俺得感があるけど作ってみた。後で社内で拡張して組み込めそうな場所に心あたりがあるので https://t.co/j9taO7kOs0</p>
+   <p class="twinker_footer">at 2015-06-07 15:54 / <a href="https://twitter.com/attakei/statuses/607576251734188033" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ずっと広告に出てくるhub+ for usb-c、興味があるけどどうするかな。多分今後ディスプレイつなぐ機会がありそうだから、アダプタ自体は多分必要になりそうなんだけども</p>
+   <p class="twinker_footer">at 2015-06-07 15:00 / <a href="https://twitter.com/attakei/statuses/607562876899856384" target="_blank">go to tweet</a></p>
+   </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: none
+.. comments::

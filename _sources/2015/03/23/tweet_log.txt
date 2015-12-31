@@ -1,0 +1,229 @@
+ツイートまとめ(2015-03-16から2015-03-22)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">reactの話聞けてる #rebuildfm</p>
+   <p class="twinker_footer">at 2015-03-22 00:38 / <a href="https://twitter.com/attakei/statuses/579441944025153537" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">#wadafm 2歩下がって技術を見る、の回良かった。エンジニアは新しい技術にすぐ飛びつきやすいけど、ちょっと枯れた技術の方が安定してるし、ドキュメントなども豊富、という話。最終的に使うのは「ユーザー」だもんね</p>
+   <p class="twinker_footer">at 2015-03-20 02:38 / <a href="https://twitter.com/koogawa/statuses/578747513521373186" target="_blank">go to tweet</a></p>
+   </div>
+
+.. more::
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">↓どちらかと言うと、ドラゴン退治というよりもバイオハザードのラクーンシティ脱出感のほうが http://t.co/qvJZiEoMjk</p>
+   <p class="twinker_footer">at 2015-03-19 04:11 / <a href="https://twitter.com/attakei/statuses/578408344039247872" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">.@Seacolor さんの「とある科学の龍退治伝説」をお気に入りにしました。 http://t.co/qvJZiEoMjk</p>
+   <p class="twinker_footer">at 2015-03-19 04:09 / <a href="https://twitter.com/attakei/statuses/578407987632455680" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">あらあら。 / 他13コメント http://t.co/Y2jzQ9gY2s “OpenSSLにまた重度の欠陥、修正アップデートは3月19日にリリース：CodeZine” http://t.co/d7Jsi0B6WA</p>
+   <p class="twinker_footer">at 2015-03-18 14:37 / <a href="https://twitter.com/tkak/statuses/578203538603384832" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">このコラ画像作ったひとなかなかに病んでると思う http://t.co/PgU1BfaQ9a</p>
+   <p class="twinker_footer">at 2015-03-18 14:34 / <a href="https://twitter.com/kors_n/statuses/578202827530498048" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">要するに<br />お金＝お札<br />お札＝ティッシュ<br />だから<br />ティッシュ＝お金　　#agqr #ojikan</p>
+   <p class="twinker_footer">at 2015-03-18 14:27 / <a href="https://twitter.com/Tigers23Yoshiki/statuses/578200984217747456" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">曲をのためにいろいろと何かを売りまくってるぞwwww #agqr #ojikan</p>
+   <p class="twinker_footer">at 2015-03-18 14:25 / <a href="https://twitter.com/attakei/statuses/578200572559409152" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">リスナー「ちょろいのおかげで彼女ができました」→お通夜状態 #agqr #ojikan http://t.co/3ufHySO7f9</p>
+   <p class="twinker_footer">at 2015-03-18 14:19 / <a href="https://twitter.com/demono/statuses/578198956057882624" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">サクラアディクション。コーナー1回めから全力な攻撃だなwww #agqr</p>
+   <p class="twinker_footer">at 2015-03-18 14:22 / <a href="https://twitter.com/attakei/statuses/578199802929790976" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">妥協点が「パイセンは美しい」なのか… #agqr #ojikan</p>
+   <p class="twinker_footer">at 2015-03-18 14:18 / <a href="https://twitter.com/attakei/statuses/578198857042907137" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">リスナー「ちょろいのおかげで彼女が出来ました」… #agqr</p>
+   <p class="twinker_footer">at 2015-03-18 14:18 / <a href="https://twitter.com/attakei/statuses/578198706182189056" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">「歯を食いしばれ」から胸に頭突きをかますパイセン #agqr #ojikan</p>
+   <p class="twinker_footer">at 2015-03-18 14:13 / <a href="https://twitter.com/attakei/statuses/578197466417250304" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">無事家でちょろい #ojikan #agqr</p>
+   <p class="twinker_footer">at 2015-03-18 13:59 / <a href="https://twitter.com/attakei/statuses/578193942367207424" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">エラー内容を見る限り、CoreOSだからなのか？/tmpにダウンロードした後に __pychache__ を生成できていない感じがする。</p>
+   <p class="twinker_footer">at 2015-03-17 11:44 / <a href="https://twitter.com/attakei/statuses/577797573991268352" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">「北斗七星」「春のダイヤモンド」を「デビルサバイバー2　ブレイクレコード」で覚える（実は今までちゃんと覚えてなかった）系プレーヤー</p>
+   <p class="twinker_footer">at 2015-03-17 11:42 / <a href="https://twitter.com/diedie_16/statuses/577797088416649216" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">CoreOS上のDockerで、ビルド用Dockerfileでsudo pip install [url]をやると上手くいかないが、git clone [url] &amp;&amp; sudo python setup.py install をやるとうまくいく模様。</p>
+   <p class="twinker_footer">at 2015-03-17 11:42 / <a href="https://twitter.com/attakei/statuses/577797263210065921" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ここ最近「八紘一宇」という単語をちょくちょくTLで見るようになったけど、どうしてもコレデヨイの人しか思い浮かばない自分</p>
+   <p class="twinker_footer">at 2015-03-17 11:40 / <a href="https://twitter.com/attakei/statuses/577796581560164353" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">少し前に作っていたDockerfileを昨日試したら旧に動かなくなった。と思ったらfeedparserをGoogle Code経由でアップデートしないといけなかったからか。<br />……どうしよう</p>
+   <p class="twinker_footer">at 2015-03-16 15:23 / <a href="https://twitter.com/attakei/statuses/577490253600034816" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">今週もおもしろかったね。実況勢の皆様お疲れ様でした。小倉唯ちゃんファンの皆様、井口裕香をよろしくお願いします。「唯ちゃんのアルバム買ってねっ」　#agqr #yukachi #muuun http://t.co/LMJdwWDN0S</p>
+   <p class="twinker_footer">at 2015-03-16 14:00 / <a href="https://twitter.com/nao__/statuses/577469605909692417" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">普通のラジオ……だったと…？ #muuun #agqr</p>
+   <p class="twinker_footer">at 2015-03-16 13:57 / <a href="https://twitter.com/attakei/statuses/577468688594403328" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">枝豆がマイブームが19歳 #muuun #agqr</p>
+   <p class="twinker_footer">at 2015-03-16 13:56 / <a href="https://twitter.com/attakei/statuses/577468430774743040" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">Get overは昼聞いてたー #agqr</p>
+   <p class="twinker_footer">at 2015-03-16 13:29 / <a href="https://twitter.com/attakei/statuses/577461800368640000" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">後半でジングルが台無しだよww #muun #agqr</p>
+   <p class="twinker_footer">at 2015-03-16 13:20 / <a href="https://twitter.com/attakei/statuses/577459432717619200" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">さて、フリートークで15分経過… #muuun #agqr</p>
+   <p class="twinker_footer">at 2015-03-16 13:18 / <a href="https://twitter.com/attakei/statuses/577458841429770240" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">全力で自己紹介するイラスト #muuun #agqr</p>
+   <p class="twinker_footer">at 2015-03-16 13:07 / <a href="https://twitter.com/attakei/statuses/577456048325271552" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ここ最近は放送前にお茶入れる余裕も #agqr</p>
+   <p class="twinker_footer">at 2015-03-16 13:00 / <a href="https://twitter.com/attakei/statuses/577454327347830784" target="_blank">go to tweet</a></p>
+   </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: ラジオ
+.. comments::

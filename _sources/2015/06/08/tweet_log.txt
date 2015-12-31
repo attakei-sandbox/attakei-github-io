@@ -1,0 +1,254 @@
+ツイートまとめ(2015-06-01から2015-06-07)
+==============================================================
+
+.. include:: /_include/raw_html.rst
+
+主に土日にドタバタしてるログ
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">他のomniauthストラテジを見つつ、郷に従う系の修正をしてみる</p>
+   <p class="twinker_footer">at 2015-06-07 14:02 / <a href="https://twitter.com/attakei/statuses/607548172970258433" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">生天目仁美「舞台役者してて気付いたら声優になってた」←わかる<br />　<br />小野大輔「ラジオのスタッフしてて気付いたら声優になってた」←まあわかる<br />　<br />中井和哉「公務員してて気付いたら声優になってた」←？<br />　<br />稲田徹「プロレスラー目指してて気付いたら声優になってた」←！？？？！！？</p>
+   <p class="twinker_footer">at 2015-06-06 04:26 / <a href="https://twitter.com/nasakekakegohan/statuses/607040916881178624" target="_blank">go to tweet</a></p>
+   </div>
+
+.. more::
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">マウンテン…険しい山だったぜ…<br /><br /> http://t.co/ICZeXPmUTE</p>
+   <p class="twinker_footer">at 2015-06-07 12:29 / <a href="https://twitter.com/yuiyui_makino/statuses/607524799422693378" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">omniauthのストラテジー系のgemのコードを眺める時間。<br />主に外部サービスの存在が前提になっているものがどういうテストコードを書いているかを参考にするため</p>
+   <p class="twinker_footer">at 2015-06-07 12:28 / <a href="https://twitter.com/attakei/statuses/607524621957537792" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">スタッフさんたちと一緒に登頂中！<br />甘口抹茶小倉スパ…トゥルゥンってしてるトゥルゥンって…生クリームは溶けかかって。</p>
+   <p class="twinker_footer">at 2015-06-07 11:53 / <a href="https://twitter.com/yuiyui_makino/statuses/607515702451277826" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">通勤中聞いた会話<br />「声優の三森すずこはオタクが嫌いらしい」<br />「マジかよオタクに食わせてもらってるって自覚あんのかな」<br />「豚肉が好きだからって生きた豚まで愛でる奴は少ないだろ」<br /><br />心に刻んだ。</p>
+   <p class="twinker_footer">at 2015-06-04 03:28 / <a href="https://twitter.com/i_kaseki/statuses/606301440097714176" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">プチミレのイベントって釣りクイズ予定日と同日だったのか</p>
+   <p class="twinker_footer">at 2015-06-06 15:58 / <a href="https://twitter.com/attakei/statuses/607214914785046528" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">秘文かよ…いい加減にしてくれ / “添付ファイルの拡張子が「.ex_」の場合の復号手順｜Ｓｋｙ株式会社” http://t.co/bZrUFaAukQ</p>
+   <p class="twinker_footer">at 2015-06-06 12:57 / <a href="https://twitter.com/hamakko_ryokai/statuses/607169458960859136" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">1030ぐらいには目黒に着くかな…</p>
+   <p class="twinker_footer">at 2015-06-06 00:39 / <a href="https://twitter.com/attakei/statuses/606983736366911488" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">色々忙しくて今頃になったが、Windows 10 Insider Preview版で『同級生2』(Win8.1対応ダウンロード版)の起動を確認した。これでまだ10年戦える http://t.co/VmNG9Upaso</p>
+   <p class="twinker_footer">at 2015-06-04 19:22 / <a href="https://twitter.com/tana_p/statuses/606541570377027585" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">役所「ちょっくら各課のＩＴ担当職員160人に抜き打ちで偽メール送ってみるべ」 → 60人余りがメール開いてリンクをクリックしてし http://t.co/fi0CZpTlz7</p>
+   <p class="twinker_footer">at 2015-06-04 11:59 / <a href="https://twitter.com/sasata299/statuses/606430006323998722" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">半個人的な目的でgemを1個作ったけど、テストもある程度の情報があるREADMEも無いからrubygemsに登録までどれくらいかかるのやら</p>
+   <p class="twinker_footer">at 2015-06-04 11:35 / <a href="https://twitter.com/attakei/statuses/606424008783888384" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">みんな勘違いしてるが、６／１から変わったのは「３年間で対象の違反を２回したら講習を受ける義務が発生する」という点だけで、自転車の乗り方とかは以前と変わってない。<br />つまり、今までが大目に見られていただけ。<br />にもかかわらず調子に乗っていた人が多すぎたから教える機会を設けただけ。</p>
+   <p class="twinker_footer">at 2015-06-04 04:59 / <a href="https://twitter.com/_Kuroten/statuses/606324401953345536" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">“「GitHub」日本法人設立　東京・港区に日本オフィスオープン - ねとらぼ” http://t.co/UOCGkHkc9O</p>
+   <p class="twinker_footer">at 2015-06-04 05:28 / <a href="https://twitter.com/__gfx__/statuses/606331733257027584" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">本日より、平成２７年度富士総合火力演習（そうかえん）の応募受付を開始しました。<br />応募要領・細部注意事項等をご確認の上、陸自ホームページまたは、往復ハガキよりご応募下さい。<br />http://t.co/sFX7ECvXef http://t.co/yKmyuZthl6</p>
+   <p class="twinker_footer">at 2015-06-01 03:25 / <a href="https://twitter.com/JGSDF_pr/statuses/605213636290674688" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">README ではなくgistfile1 とすればgistのページ上で見出しから除外してくれることを初めて知った</p>
+   <p class="twinker_footer">at 2015-06-02 14:16 / <a href="https://twitter.com/attakei/statuses/605739656626479105" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">ほんの少し前にPyramidのpserveコマンドをansibleで取り扱いたくなったけどすっと見つからなかったのでやっつけモジュール作ってみた。<br /><br />なんか役に立つと面白いので晒しとく（READMEの英語化勉強を兼ねる）<br />https://t.co/GSjPjOLXed</p>
+   <p class="twinker_footer">at 2015-06-02 14:14 / <a href="https://twitter.com/attakei/statuses/605739211833131008" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">過去に入力済みの追加情報保持してたりして、ダメだったらこっちに通知…はさすがにしてないか。ログイン制限食らうし</p>
+   <p class="twinker_footer">at 2015-06-02 03:50 / <a href="https://twitter.com/attakei/statuses/605582149396201472" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">rebuildfmきっかけでaimを使い始めてみたけれど、楽天銀行の連携がデータ更新のたびに「追加情報」の入力をもとめられる。とはいっても、これzaim側が悪いわけでは無いと思うし、どうしようっかな</p>
+   <p class="twinker_footer">at 2015-06-02 03:48 / <a href="https://twitter.com/attakei/statuses/605581779961978881" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">生活リズムのズレが一向に戻らない</p>
+   <p class="twinker_footer">at 2015-06-02 02:16 / <a href="https://twitter.com/attakei/statuses/605558697587277824" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">電車内で見ることにした #muuun #agqr</p>
+   <p class="twinker_footer">at 2015-06-01 13:00 / <a href="https://twitter.com/attakei/statuses/605358231729225730" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">「確認のため」と思いT-SITEにアクセスしたところなんとログイン可能、氏名も表示されてる。「登録情報の変更」から「氏名・住所・電話番号の入力」に入ったところすべて表示されてた。T-カードサポートセンターへメール、返信待ち。 http://t.co/4WVx2rLa2U</p>
+   <p class="twinker_footer">at 2015-06-01 10:42 / <a href="https://twitter.com/Chujirorx/statuses/605323555811639297" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">CCCからTカード退会及び個人情報消去の対応完了の連絡が来た。<br />これで手続き終了と思っていたが、事態は思わぬ展開へ　＜続く＞ http://t.co/d1ohh44uyQ</p>
+   <p class="twinker_footer">at 2015-06-01 10:35 / <a href="https://twitter.com/Chujirorx/statuses/605321824742694913" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">昨日カルディで目について思わず買った揚げパスタ（梅味）が、想像してた梅の味となんか違う</p>
+   <p class="twinker_footer">at 2015-06-01 09:57 / <a href="https://twitter.com/attakei/statuses/605312247498285056" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">【ニュース】オープニングイベントにKOTOKOさん、川田まみさん、藍井エイルさんが出演！　アニメイト札幌に「アニメイトホール 札幌」が誕生！　 http://t.co/Rj58w3RJmM http://t.co/k5oOduczYR</p>
+   <p class="twinker_footer">at 2015-06-01 09:45 / <a href="https://twitter.com/animate_tv/statuses/605309067523821568" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">@ondskmc 注釈を加えますとイヤホンはマナーや危険性を抜きにして法律だけで言うと片耳はオッケーです、もちろん危ないしやめた方が良いのですが片耳イヤホンは合法です、他人に注意する際にはちょっと気をつけると良いかも知れません</p>
+   <p class="twinker_footer">at 2015-05-31 14:41 / <a href="https://twitter.com/ondskmc/statuses/605021178546126848" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">ReTweet:</p>
+   <p class="twinker_body">明日から自転車の違法行為に対して罰金や講習などの罰則等自転車の規制が厳しくなりますが何てことはありません<br /><br />左側の車道を走り歩道を走る場合徐行し一時停止や信号を守りケータイやイヤホンや傘を使わず自転車にはブレーキをつけて飲酒運転をしない<br /><br />たったこれだけです、至って簡単ですね？</p>
+   <p class="twinker_footer">at 2015-05-31 11:25 / <a href="https://twitter.com/ondskmc/statuses/604971915279605760" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">さて、最後の1日分はどこで発券してみようか</p>
+   <p class="twinker_footer">at 2015-06-01 05:35 / <a href="https://twitter.com/attakei/statuses/605246170294812673" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">アニサマのチケットを2日分発券してみた。<br />家の近く: 200レベル最上段、ステージ寄り<br />会社の近く: アリーナDブロック前列</p>
+   <p class="twinker_footer">at 2015-06-01 05:34 / <a href="https://twitter.com/attakei/statuses/605245932091883520" target="_blank">go to tweet</a></p>
+   </div>
+
+.. raw:: html
+
+   <div class="twinker">
+   <p class="twinker_header">Tweet:</p>
+   <p class="twinker_body">全月iijmioを使ってみたけど、予想通り繰越分が結構な量余ってる。<br />これは今のwimaxはまずいらないな。</p>
+   <p class="twinker_footer">at 2015-06-01 02:09 / <a href="https://twitter.com/attakei/statuses/605194551939219456" target="_blank">go to tweet</a></p>
+   </div>
+
+
+.. author:: default
+.. categories:: none
+.. tags:: クイズ, イントロ, ruby, python
+.. comments::
