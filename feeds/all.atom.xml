@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>attakei pages</title><link href="attakei.net/" rel="alternate"></link><link href="attakei.net/feeds/all.atom.xml" rel="self"></link><id>attakei.net/</id><updated>2015-12-31T00:00:00+09:00</updated><entry><title>2015年Tech系振り返り</title><link href="attakei.net/2015/12/31/review_tech_2015.html" rel="alternate"></link><updated>2015-12-31T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:,2015-12-31:attakei.net/2015/12/31/review_tech_2015.html</id><summary type="html">&lt;div class="section" id="github"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>attakei pages</title><link href="http://attakei.net/" rel="alternate"></link><link href="http://attakei.net/feeds/all.atom.xml" rel="self"></link><id>http://attakei.net/</id><updated>2015-12-31T00:00:00+09:00</updated><entry><title>2015年Tech系振り返り</title><link href="http://attakei.net/2015/12/31/review_tech_2015.html" rel="alternate"></link><updated>2015-12-31T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-12-31:2015/12/31/review_tech_2015.html</id><summary type="html">&lt;div class="section" id="github"&gt;
 &lt;h2&gt;github振り返り&lt;/h2&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="https://github.com/attakei/omniauth-backlog"&gt;https://github.com/attakei/omniauth-backlog&lt;/a&gt;&lt;/li&gt;
@@ -25,9 +25,9 @@
 &lt;li&gt;Akamai Customer Day&lt;/li&gt;
 &lt;li&gt;CodeIQ忘年会&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;こんなに行ってたのか。 &lt;a class="reference external" href="attakei.net/2015/12/30/review_live_2015.html"&gt;ライブ振り返り&lt;/a&gt; も考えると、結構な外出してたんだなぁ。&lt;/p&gt;
+&lt;p&gt;こんなに行ってたのか。 &lt;a class="reference external" href="http://attakei.net/2015/12/30/review_live_2015.html"&gt;ライブ振り返り&lt;/a&gt; も考えると、結構な外出してたんだなぁ。&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="振り返り"></category></entry><entry><title>2015年アニソン系ライブ振り返り</title><link href="attakei.net/2015/12/30/review_live_2015.html" rel="alternate"></link><updated>2015-12-30T23:50:00+09:00</updated><author><name>attakei</name></author><id>tag:,2015-12-30:attakei.net/2015/12/30/review_live_2015.html</id><summary type="html">&lt;div class="section" id="id2"&gt;
+</summary><category term="振り返り"></category></entry><entry><title>2015年アニソン系ライブ振り返り</title><link href="http://attakei.net/2015/12/30/review_live_2015.html" rel="alternate"></link><updated>2015-12-30T23:50:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-12-30:2015/12/30/review_live_2015.html</id><summary type="html">&lt;div class="section" id="id2"&gt;
 &lt;h2&gt;まとめ&lt;/h2&gt;
 &lt;p&gt;(後で、別ページにし直す)&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -101,7 +101,7 @@
 &lt;p&gt;今年になって、アニソンCLUBが本放送化したので公開収録にほぼ毎回行っているのが大きい。あとはフェス系も多め。
 あとは、去年全く行きもしなかったアーティストがちょこちょこ。ZAQとかプチミレとか。&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="アニソン"></category><category term="ライブ"></category><category term="振り返り"></category></entry><entry><title>オールスター集結！ CodeIQ大忘年会</title><link href="attakei.net/2015/12/23/codeiq39.html" rel="alternate"></link><updated>2015-12-23T23:50:00+09:00</updated><author><name>attakei</name></author><id>tag:,2015-12-23:attakei.net/2015/12/23/codeiq39.html</id><summary type="html">&lt;p&gt;滑り込みで行ってきた。「ブログ記事を書くまでが(ry)」&lt;/p&gt;
+</summary><category term="アニソン"></category><category term="ライブ"></category><category term="振り返り"></category></entry><entry><title>オールスター集結！ CodeIQ大忘年会</title><link href="http://attakei.net/2015/12/23/codeiq39.html" rel="alternate"></link><updated>2015-12-23T23:50:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-12-23:2015/12/23/codeiq39.html</id><summary type="html">&lt;p&gt;滑り込みで行ってきた。「ブログ記事を書くまでが(ry)」&lt;/p&gt;
 &lt;p&gt;基本細々とした感想を書くのが苦手なので、イベント内でちょこちょこ挙がってたキーワードを主軸に書いてみる。&lt;/p&gt;
 &lt;div class="section" id="tensorflow"&gt;
 &lt;h2&gt;TensorFlow などなど&lt;/h2&gt;
@@ -128,7 +128,7 @@ Cloud Vision APIあたりは利用開始の敷居が低くなれば、一気に�
 &lt;h2&gt;その他&lt;/h2&gt;
 &lt;blockquote class="twitter-tweet" lang="ja"&gt;&lt;p lang="ja" dir="ltr"&gt;CodeIQ忘年会の帰り中。自分視点だとスクリーンやストリームの奥でしか見ることができない人の話を聞いたり顔を見られたりする機会はやっぱり大切 &lt;a href="https://twitter.com/hashtag/codeiq39?src=hash"&gt;#codeiq39&lt;/a&gt;&lt;/p&gt;&amp;mdash; attakei (@attakei) &lt;a href="https://twitter.com/attakei/status/679605875233828865"&gt;2015, 12月 23&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src="//platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/div&gt;
-</summary><category term="Techイベント"></category><category term="CodeIQ"></category></entry><entry><title>Thank you PyCon JP</title><link href="attakei.net/2015/10/12/thank_you_pycon_jp.html" rel="alternate"></link><updated>2015-10-12T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:,2015-10-12:attakei.net/2015/10/12/thank_you_pycon_jp.html</id><summary type="html">&lt;p&gt;ブログとかに感想エントリーとかを書くまでがカンファレンスって誰かが言ってた。&lt;/p&gt;
+</summary><category term="Techイベント"></category><category term="CodeIQ"></category></entry><entry><title>Thank you PyCon JP</title><link href="http://attakei.net/2015/10/12/thank_you_pycon_jp.html" rel="alternate"></link><updated>2015-10-12T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-10-12:2015/10/12/thank_you_pycon_jp.html</id><summary type="html">&lt;p&gt;ブログとかに感想エントリーとかを書くまでがカンファレンスって誰かが言ってた。&lt;/p&gt;
 &lt;p&gt;10/10,11に PyCon JP 2015 に行ってきました。去年はランティス祭りと完全に被ってたので、日程が発表と同時に不参加だったので、今年が初参加。&lt;/p&gt;
 &lt;div class="section" id="id1"&gt;
 &lt;h2&gt;セッションもろもろ&lt;/h2&gt;
@@ -197,7 +197,7 @@ Cloud Vision APIあたりは利用開始の敷居が低くなれば、一気に�
 &lt;p&gt;&lt;strong&gt;Thank you PyCon JP!!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;また来年も行きたいし、セッションやらLTやらできたりできるようになっていたいな、と思える2日でした。&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="Techイベント"></category><category term="Python"></category></entry><entry><title>YAPC::Asia Tokyo 2015</title><link href="attakei.net/2015/08/22/yapcasia_tokyo_2015.html" rel="alternate"></link><updated>2015-08-22T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:,2015-08-22:attakei.net/2015/08/22/yapcasia_tokyo_2015.html</id><summary type="html">&lt;p&gt;刺激を貰いたくて、前夜祭込で3日とも参加してきた。&lt;/p&gt;
+</summary><category term="Techイベント"></category><category term="Python"></category></entry><entry><title>YAPC::Asia Tokyo 2015</title><link href="http://attakei.net/2015/08/22/yapcasia_tokyo_2015.html" rel="alternate"></link><updated>2015-08-22T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-08-22:2015/08/22/yapcasia_tokyo_2015.html</id><summary type="html">&lt;p&gt;刺激を貰いたくて、前夜祭込で3日とも参加してきた。&lt;/p&gt;
 &lt;p&gt;印象に残ったり、現時点で自分に大きな影響があった部分だけ振り返ってみる。&lt;/p&gt;
 &lt;p&gt;（以下、話題が思い切り散発的になります）&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -218,13 +218,13 @@ Cloud Vision APIあたりは利用開始の敷居が低くなれば、一気に�
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;以上、最近「定期的に外部刺激をもらわないと停滞しがち病」にかかっているエンジニアの感想でした。&lt;/p&gt;
-</summary><category term="Techイベント"></category><category term="Perl"></category></entry><entry><title>Developer Summit 2015 Summer</title><link href="attakei.net/2015/07/29/developer_summit_2015_summer.html" rel="alternate"></link><updated>2015-07-29T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:,2015-07-29:attakei.net/2015/07/29/developer_summit_2015_summer.html</id><summary type="html">&lt;p&gt;今回のデブサミはテーマが「SPEED for Enterprise」と完全にエンプラ寄りの話が主体なのは承知のうえで、DevOps周りの話につられて全日参加してきた。&lt;/p&gt;
+</summary><category term="Techイベント"></category><category term="Perl"></category></entry><entry><title>Developer Summit 2015 Summer</title><link href="http://attakei.net/2015/07/29/developer_summit_2015_summer.html" rel="alternate"></link><updated>2015-07-29T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-07-29:2015/07/29/developer_summit_2015_summer.html</id><summary type="html">&lt;p&gt;今回のデブサミはテーマが「SPEED for Enterprise」と完全にエンプラ寄りの話が主体なのは承知のうえで、DevOps周りの話につられて全日参加してきた。&lt;/p&gt;
 &lt;p&gt;あれなんだよ。やっぱうちの会社ってテストが存在しないんだよ&lt;/p&gt;
-</summary><category term="Techイベント"></category></entry><entry><title>July Tech Festa 2015行ってきた</title><link href="attakei.net/2015/07/26/july_tech_festa_2015.html" rel="alternate"></link><updated>2015-07-26T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:,2015-07-26:attakei.net/2015/07/26/july_tech_festa_2015.html</id><summary type="html">&lt;p&gt;インフラ系エンジニアのカンファレンス。rebuild.fmで存在聞いてその場で参加決めて行ってきた。&lt;/p&gt;
+</summary><category term="Techイベント"></category></entry><entry><title>July Tech Festa 2015行ってきた</title><link href="http://attakei.net/2015/07/26/july_tech_festa_2015.html" rel="alternate"></link><updated>2015-07-26T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-07-26:2015/07/26/july_tech_festa_2015.html</id><summary type="html">&lt;p&gt;インフラ系エンジニアのカンファレンス。rebuild.fmで存在聞いてその場で参加決めて行ってきた。&lt;/p&gt;
 &lt;p&gt;ここ最近Docker周りの情報をピックアップしにいくタイミングを取れなかったので、新しめの情報を得るいい機会にはなったと思う。&lt;/p&gt;
 &lt;p&gt;そろそろ時間を作ってswarm,
 composeやkubernatesあたりの調査しないとダメなんだと思う。&lt;/p&gt;
-</summary><category term="Techイベント"></category></entry><entry><title>Masami Okui Birth Live 2015 -NEO-</title><link href="attakei.net/2015/03/13/masami_okui_birth_live_2015-.html" rel="alternate"></link><updated>2015-03-13T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:,2015-03-13:attakei.net/2015/03/13/masami_okui_birth_live_2015-.html</id><summary type="html">&lt;p&gt;アニメロLIVEの先行抽選はスルーしてたが、アニソンCLUBの抽選落ちたのとゲストに鈴木このみが来ると聞いて勢いで購入。
+</summary><category term="Techイベント"></category></entry><entry><title>Masami Okui Birth Live 2015 -NEO-</title><link href="http://attakei.net/2015/03/13/masami_okui_birth_live_2015-.html" rel="alternate"></link><updated>2015-03-13T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-03-13:2015/03/13/masami_okui_birth_live_2015-.html</id><summary type="html">&lt;p&gt;アニメロLIVEの先行抽選はスルーしてたが、アニソンCLUBの抽選落ちたのとゲストに鈴木このみが来ると聞いて勢いで購入。
 会社を早退して行ってきた。&lt;/p&gt;
 &lt;p&gt;アルバムツアーとかではないので、懐かしめの曲も聴けるかと思っていたが衣装チェンジからの古い曲感がすごい。
 「IN THIS ARM」とか「key」とか「Dragonfly」やら聴けると思ってなかった。&lt;/p&gt;
@@ -251,7 +251,7 @@ composeやkubernatesあたりの調査しないとダメなんだと思う。&lt
 &lt;li&gt;Absolute Sould -Shield-&lt;/li&gt;
 &lt;li&gt;This game&lt;/li&gt;
 &lt;/ul&gt;
-</summary><category term="ライブ"></category></entry><entry><title>電波諜報局</title><link href="attakei.net/2015/02/05/denpanews_2015_02.html" rel="alternate"></link><updated>2015-02-05T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:,2015-02-05:attakei.net/2015/02/05/denpanews_2015_02.html</id><summary type="html">&lt;p&gt;なんとなく目について応募してみたら当選したので行ってみた。&lt;/p&gt;
+</summary><category term="ライブ"></category></entry><entry><title>電波諜報局</title><link href="http://attakei.net/2015/02/05/denpanews_2015_02.html" rel="alternate"></link><updated>2015-02-05T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-02-05:2015/02/05/denpanews_2015_02.html</id><summary type="html">&lt;p&gt;なんとなく目について応募してみたら当選したので行ってみた。&lt;/p&gt;
 &lt;p&gt;ゲストはFo'xTailsとJO☆STARS&lt;/p&gt;
 &lt;p&gt;Fo'xTails は、今期デビューなんだけど流れてたコメントみてWikipedia確認すると2人Reyにいたのね。
 しかも見覚えある人がいて「さかもっちゃん」と呼ばれてたのでよく見なくても現CMBのさかもっちゃんだった。
