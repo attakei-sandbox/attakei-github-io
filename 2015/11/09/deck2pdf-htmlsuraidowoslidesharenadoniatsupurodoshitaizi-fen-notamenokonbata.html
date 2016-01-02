@@ -4,7 +4,7 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>July Tech Festa 2015行ってきた &mdash; attakei page</title>
+  <title>deck2pdf: HTMLスライドをSlideShareなどにアップロードしたい自分のためのコンバーター &mdash; attakei page</title>
   <meta name="author" content="attakei">
 
 
@@ -51,15 +51,45 @@
 <div>
   <article class="hentry" role="article">
 <header>
-      <h1 class="entry-title">July Tech Festa 2015行ってきた</h1>
+      <h1 class="entry-title">deck2pdf: HTMLスライドをSlideShareなどにアップロードしたい自分のためのコンバーター</h1>
     <p class="meta">
-<time datetime="2015-07-26T00:00:00+09:00" pubdate>Sun 26 July 2015</time>    </p>
+<time datetime="2015-11-09T00:00:00+09:00" pubdate>Mon 09 November 2015</time>    </p>
 </header>
 
-  <div class="entry-content"><p>インフラ系エンジニアのカンファレンス。rebuild.fmで存在聞いてその場で参加決めて行ってきた。</p>
-<p>ここ最近Docker周りの情報をピックアップしにいくタイミングを取れなかったので、新しめの情報を得るいい機会にはなったと思う。</p>
-<p>そろそろ時間を作ってswarm,
-composeやkubernatesあたりの調査しないとダメなんだと思う。</p>
+  <div class="entry-content"><p>初回の開発開始から1ヶ月ぐらいかけてひっそりと作っていたのですが、このたび最低限の普段使いはできるレベルまでは進んだつもりなので、ブログの記事にしました。</p>
+<p>PyPI に <a class="reference external" href="https://pypi.python.org/pypi/deck2pdf/">deck2pdf</a> というパッケージをリリースしました。現時点でのバージョンは0.2.0です。</p>
+<div class="section" id="id1">
+<h2>何をするものか</h2>
+<p>端的に言えば、 <strong>Google HTML5 slides</strong> や <strong>Google I/O 2012 slides</strong> などのHTMLフォーマットのスライドを、可能な限りレイアウトを崩さずに1コマンドでPDF変換するものです。</p>
+<p>現状ではPySide経由でQtを使う以外は、ほぼすべてPythonで実装されています。</p>
+</div>
+<div class="section" id="id2">
+<h2>どうして作ったのか</h2>
+<p>自分が簡単なスライドを用意するときは、  <a class="reference external" href="http://sphinx-doc.org">Sphinx</a> 拡張の <a class="reference external" href="https://github.com/nyergler/hieroglyph/blob/master/docs/index.rst">Hieroglyph</a> から生成したスライドを用いています。
+ですが、HTMLスライドはSlideShareやSpeakerDeckにはアップロードできません。（SlideShareはpptxやpdf, SpeakerDeckはpdfのみ）</p>
+<p>となると、どうにかPDF形式のものを用意する必要があるのですが、先人の知恵を見て回った感じだと概ね次のパターンに分かれていました。</p>
+<ul class="simple">
+<li>ブラウザでPDF保存する（print用cssを用意するケースあり）</li>
+<li>PhantomJSなどで各ページのキャプチャを取得して、convert等でつなげる</li>
+</ul>
+<p>これらの方法を整理するのも問題ないのはわかっていたのですが、 半ば <strong>「せっかくだから」</strong> という理由で</p>
+<ul class="simple">
+<li>Pythonでページをキャプチャして</li>
+<li>PythonでPDFを生成する</li>
+<li>というのをまとめて動かす</li>
+</ul>
+<p>というのに挑戦してみました。</p>
+<div class="section" id="id3">
+<h3>現状どこまで出来るか</h3>
+<p>今回アップロードしたver 0.2.0の時点で、以下のことまではできるようになっています。</p>
+<ul class="simple">
+<li>Google HTML5 slides もしくは Google I/O 2012 slides のスライドをPNGでキャプチャして</li>
+<li>そのままレイアウトをほぼ崩さずにPDF化する</li>
+</ul>
+<p>このままだと、テキスト部分をSlideShareが読み取れないのでなんとかできないかを検討している段階です。
+それでも、この時点でもPDFとして見苦しくない形式では変換できているので、社内向け社外向け問わず機会を見つけてはスライドを作っていけたらなぁと思っています。</p>
+</div>
+</div>
 </div>
     <footer>
 <p class="meta">
@@ -68,11 +98,11 @@ composeやkubernatesあたりの調査しないとダメなんだと思う。</p
         attakei
     </span>
   </span>
-<time datetime="2015-07-26T00:00:00+09:00" pubdate>Sun 26 July 2015</time>  <span class="categories">
+<time datetime="2015-11-09T00:00:00+09:00" pubdate>Mon 09 November 2015</time>  <span class="categories">
     <a class='category' href='http://attakei.net/category/tech.html'>Tech</a>
   </span>
   <span class="categories">
-    <a class="category" href="http://attakei.net/tag/techibento.html">Techイベント</a>  </span>
+    <a class="category" href="http://attakei.net/tag/python.html">Python</a>,    <a class="category" href="http://attakei.net/tag/pdf.html">pdf</a>  </span>
 </p><div class="sharing">
 </div>    </footer>
   </article>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>attakei pages</title><link href="http://attakei.net/" rel="alternate"></link><link href="http://attakei.net/feeds/tech.atom.xml" rel="self"></link><id>http://attakei.net/</id><updated>2015-12-31T00:00:00+09:00</updated><entry><title>2015年Tech系振り返り</title><link href="http://attakei.net/2015/12/31/review_tech_2015.html" rel="alternate"></link><updated>2015-12-31T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-12-31:2015/12/31/review_tech_2015.html</id><summary type="html">&lt;div class="section" id="github"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>attakei page</title><link href="http://attakei.net/" rel="alternate"></link><link href="http://attakei.net/feeds/tech.atom.xml" rel="self"></link><id>http://attakei.net/</id><updated>2015-12-31T00:00:00+09:00</updated><entry><title>2015年Tech系振り返り</title><link href="http://attakei.net/2015/12/31/review_tech_2015.html" rel="alternate"></link><updated>2015-12-31T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-12-31:2015/12/31/review_tech_2015.html</id><summary type="html">&lt;div class="section" id="github"&gt;
 &lt;h2&gt;github振り返り&lt;/h2&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="https://github.com/attakei/omniauth-backlog"&gt;https://github.com/attakei/omniauth-backlog&lt;/a&gt;&lt;/li&gt;
@@ -54,7 +54,41 @@ Cloud Vision APIあたりは利用開始の敷居が低くなれば、一気に�
 &lt;h2&gt;その他&lt;/h2&gt;
 &lt;blockquote class="twitter-tweet" lang="ja"&gt;&lt;p lang="ja" dir="ltr"&gt;CodeIQ忘年会の帰り中。自分視点だとスクリーンやストリームの奥でしか見ることができない人の話を聞いたり顔を見られたりする機会はやっぱり大切 &lt;a href="https://twitter.com/hashtag/codeiq39?src=hash"&gt;#codeiq39&lt;/a&gt;&lt;/p&gt;&amp;mdash; attakei (@attakei) &lt;a href="https://twitter.com/attakei/status/679605875233828865"&gt;2015, 12月 23&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src="//platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/div&gt;
-</summary><category term="Techイベント"></category><category term="CodeIQ"></category></entry><entry><title>Thank you PyCon JP</title><link href="http://attakei.net/2015/10/12/thank_you_pycon_jp.html" rel="alternate"></link><updated>2015-10-12T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-10-12:2015/10/12/thank_you_pycon_jp.html</id><summary type="html">&lt;p&gt;ブログとかに感想エントリーとかを書くまでがカンファレンスって誰かが言ってた。&lt;/p&gt;
+</summary><category term="Techイベント"></category><category term="CodeIQ"></category></entry><entry><title>deck2pdf: HTMLスライドをSlideShareなどにアップロードしたい自分のためのコンバーター</title><link href="http://attakei.net/2015/11/09/deck2pdf-htmlsuraidowoslidesharenadoniatsupurodoshitaizi-fen-notamenokonbata.html" rel="alternate"></link><updated>2015-11-09T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-11-09:2015/11/09/deck2pdf-htmlsuraidowoslidesharenadoniatsupurodoshitaizi-fen-notamenokonbata.html</id><summary type="html">&lt;p&gt;初回の開発開始から1ヶ月ぐらいかけてひっそりと作っていたのですが、このたび最低限の普段使いはできるレベルまでは進んだつもりなので、ブログの記事にしました。&lt;/p&gt;
+&lt;p&gt;PyPI に &lt;a class="reference external" href="https://pypi.python.org/pypi/deck2pdf/"&gt;deck2pdf&lt;/a&gt; というパッケージをリリースしました。現時点でのバージョンは0.2.0です。&lt;/p&gt;
+&lt;div class="section" id="id1"&gt;
+&lt;h2&gt;何をするものか&lt;/h2&gt;
+&lt;p&gt;端的に言えば、 &lt;strong&gt;Google HTML5 slides&lt;/strong&gt; や &lt;strong&gt;Google I/O 2012 slides&lt;/strong&gt; などのHTMLフォーマットのスライドを、可能な限りレイアウトを崩さずに1コマンドでPDF変換するものです。&lt;/p&gt;
+&lt;p&gt;現状ではPySide経由でQtを使う以外は、ほぼすべてPythonで実装されています。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id2"&gt;
+&lt;h2&gt;どうして作ったのか&lt;/h2&gt;
+&lt;p&gt;自分が簡単なスライドを用意するときは、  &lt;a class="reference external" href="http://sphinx-doc.org"&gt;Sphinx&lt;/a&gt; 拡張の &lt;a class="reference external" href="https://github.com/nyergler/hieroglyph/blob/master/docs/index.rst"&gt;Hieroglyph&lt;/a&gt; から生成したスライドを用いています。
+ですが、HTMLスライドはSlideShareやSpeakerDeckにはアップロードできません。（SlideShareはpptxやpdf, SpeakerDeckはpdfのみ）&lt;/p&gt;
+&lt;p&gt;となると、どうにかPDF形式のものを用意する必要があるのですが、先人の知恵を見て回った感じだと概ね次のパターンに分かれていました。&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;ブラウザでPDF保存する（print用cssを用意するケースあり）&lt;/li&gt;
+&lt;li&gt;PhantomJSなどで各ページのキャプチャを取得して、convert等でつなげる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;これらの方法を整理するのも問題ないのはわかっていたのですが、 半ば &lt;strong&gt;「せっかくだから」&lt;/strong&gt; という理由で&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Pythonでページをキャプチャして&lt;/li&gt;
+&lt;li&gt;PythonでPDFを生成する&lt;/li&gt;
+&lt;li&gt;というのをまとめて動かす&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;というのに挑戦してみました。&lt;/p&gt;
+&lt;div class="section" id="id3"&gt;
+&lt;h3&gt;現状どこまで出来るか&lt;/h3&gt;
+&lt;p&gt;今回アップロードしたver 0.2.0の時点で、以下のことまではできるようになっています。&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Google HTML5 slides もしくは Google I/O 2012 slides のスライドをPNGでキャプチャして&lt;/li&gt;
+&lt;li&gt;そのままレイアウトをほぼ崩さずにPDF化する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;このままだと、テキスト部分をSlideShareが読み取れないのでなんとかできないかを検討している段階です。
+それでも、この時点でもPDFとして見苦しくない形式では変換できているので、社内向け社外向け問わず機会を見つけてはスライドを作っていけたらなぁと思っています。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary><category term="Python"></category><category term="pdf"></category></entry><entry><title>Thank you PyCon JP</title><link href="http://attakei.net/2015/10/12/thank_you_pycon_jp.html" rel="alternate"></link><updated>2015-10-12T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-10-12:2015/10/12/thank_you_pycon_jp.html</id><summary type="html">&lt;p&gt;ブログとかに感想エントリーとかを書くまでがカンファレンスって誰かが言ってた。&lt;/p&gt;
 &lt;p&gt;10/10,11に PyCon JP 2015 に行ってきました。去年はランティス祭りと完全に被ってたので、日程が発表と同時に不参加だったので、今年が初参加。&lt;/p&gt;
 &lt;div class="section" id="id1"&gt;
 &lt;h2&gt;セッションもろもろ&lt;/h2&gt;
