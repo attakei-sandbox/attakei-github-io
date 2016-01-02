@@ -157,7 +157,29 @@ Cloud Vision APIあたりは利用開始の敷居が低くなれば、一気に�
 &lt;p&gt;&lt;strong&gt;Thank you PyCon JP!!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;また来年も行きたいし、セッションやらLTやらできたりできるようになっていたいな、と思える2日でした。&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="Techイベント"></category><category term="Python"></category></entry><entry><title>YAPC::Asia Tokyo 2015</title><link href="http://attakei.net/2015/08/22/yapcasia_tokyo_2015.html" rel="alternate"></link><updated>2015-08-22T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-08-22:2015/08/22/yapcasia_tokyo_2015.html</id><summary type="html">&lt;p&gt;刺激を貰いたくて、前夜祭込で3日とも参加してきた。&lt;/p&gt;
+</summary><category term="Techイベント"></category><category term="Python"></category></entry><entry><title>ホスティング場所を移動した際のメモ</title><link href="http://attakei.net/2015/09/05/hosuteinguchang-suo-woyi-dong-shitaji-nomemo.html" rel="alternate"></link><updated>2015-09-05T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-09-05:2015/09/05/hosuteinguchang-suo-woyi-dong-shitaji-nomemo.html</id><summary type="html">&lt;p&gt;借りてるVPSやドメイン管理場所などの整理の一環として、スタードメイン利用時の付属サーバーからgithub-pagesに移行させてみた際のメモ。&lt;/p&gt;
+&lt;div class="section" id="id2"&gt;
+&lt;h2&gt;おおまかに流れ&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;将来的にきちんとお金をかけるかはおいておいて、ひとまず無料で完結する枠で再構築&lt;/li&gt;
+&lt;li&gt;下書きとかを割りと手軽に放り込みたいため、プライベートリポジトリでrstソースを管理するのは変わらず&lt;ul&gt;
+&lt;li&gt;個人環境にgitリポジトリを持つのを一旦辞める予定なので、bitbucketに移行&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;bitbucketにもページ公開機能はあるが、ドメインは維持しておきたい。そしてbitbucketはCNAMEが使えないっぽい&lt;ul&gt;
+&lt;li&gt;aerobaticもあるがちょっと使い勝手が微妙な印象を受けたので、一旦使わない&lt;/li&gt;
+&lt;li&gt;しょうがないので(?)、ビルドしたHTMLはgithubに配置&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tinkererのビルドも、個人環境のjenkinsからwerckerに移行&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- werckerとの戦い:使いたいユーザーstepが動かない
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+werckerを選んだのはbitbucketのプライベートリポジトリをビルドできてかつ無料である程度知名度がありそうなのがここだったから。
+1回のビルドにおける25分以内の制約もここではあまり関係なさそうだし。 --&gt;
+&lt;/div&gt;
+</summary><category term="github"></category><category term="bitbucket"></category></entry><entry><title>YAPC::Asia Tokyo 2015</title><link href="http://attakei.net/2015/08/22/yapcasia_tokyo_2015.html" rel="alternate"></link><updated>2015-08-22T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-08-22:2015/08/22/yapcasia_tokyo_2015.html</id><summary type="html">&lt;p&gt;刺激を貰いたくて、前夜祭込で3日とも参加してきた。&lt;/p&gt;
 &lt;p&gt;印象に残ったり、現時点で自分に大きな影響があった部分だけ振り返ってみる。&lt;/p&gt;
 &lt;p&gt;（以下、話題が思い切り散発的になります）&lt;/p&gt;
 &lt;ul class="simple"&gt;
