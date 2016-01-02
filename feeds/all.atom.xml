@@ -305,13 +305,67 @@ werckerを選んだのはbitbucketのプライベートリポジトリをビル�
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;以上、最近「定期的に外部刺激をもらわないと停滞しがち病」にかかっているエンジニアの感想でした。&lt;/p&gt;
-</summary><category term="Techイベント"></category><category term="Perl"></category></entry><entry><title>Developer Summit 2015 Summer</title><link href="http://attakei.net/2015/07/29/developer_summit_2015_summer.html" rel="alternate"></link><updated>2015-07-29T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-07-29:2015/07/29/developer_summit_2015_summer.html</id><summary type="html">&lt;p&gt;今回のデブサミはテーマが「SPEED for Enterprise」と完全にエンプラ寄りの話が主体なのは承知のうえで、DevOps周りの話につられて全日参加してきた。&lt;/p&gt;
+</summary><category term="Techイベント"></category><category term="Perl"></category></entry><entry><title>ブラウザでn◯m✕, +n/-m の成績表示を作ってみてた</title><link href="http://attakei.net/2015/08/11/burauzadenom-n-m-nocheng-ji-biao-shi-wozuo-tsutemiteta.html" rel="alternate"></link><updated>2015-08-11T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-08-11:2015/08/11/burauzadenom-n-m-nocheng-ji-biao-shi-wozuo-tsutemiteta.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://attakei.net/2015/07/30/burauzade7o3xnocheng-ji-biao-shi-wozuo-tsutemiteta.html"&gt;これ&lt;/a&gt; の続き。&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://attakei.github.io/QuizDisplay"&gt;実際に動いているところ&lt;/a&gt; と &lt;a class="reference external" href="https://github.com/attakei/QuizDisplay"&gt;ソース&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;React+Ardaである程度整理ができた気がする。&lt;/p&gt;
+&lt;p&gt;前回から&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;順位表記できるようにして&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;が残ったのだが、&lt;strong&gt;a, b, c, display!&lt;/strong&gt; というネタを思いついでどう進めようか検証中。&lt;/p&gt;
+</summary><category term="クイズ"></category><category term="nodejs"></category></entry><entry><title>Minori Chihara Live 2015 SUMMER DREAM 3</title><link href="http://attakei.net/2015/08/02/minori-chihara-live-2015-summer-dream-3.html" rel="alternate"></link><updated>2015-08-02T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-08-02:2015/08/02/minori-chihara-live-2015-summer-dream-3.html</id><summary type="html">&lt;p&gt;夏初恒例のイベント。&lt;/p&gt;
+&lt;p&gt;ここ数年はFC先行通販で必要なグッズ類の確保してたのだが、買いそこねたのでタイミングの良い電車に乗ってちょっと早めに移動。&lt;/p&gt;
+&lt;p&gt;最終的にシャツはなかったが何とかなったし、フラッグは余裕で確保できたので全く問題なかった。
+会場ついた段階で、いつもの公開リハーサルをやってたので聞きながら物販に並ぶ。
+パラロスあたりをのっけから流して騒がしい会場外。いつものことだけど&lt;/p&gt;
+&lt;p&gt;直前のライブが10周年の武道館で、今回はその間にアルバムなし・シングル2枚というリリーススケジュールだったので、本当に新曲が多い。
+全部で7曲あった。&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;オープニングで「危ないくらいに熱くなれ」から熱い曲が並ぶ。&lt;/li&gt;
+&lt;li&gt;まさかの地元民が（バスでも電車でも来てない人で1人登場）&lt;/li&gt;
+&lt;li&gt;今回の企画コーナーのテーマは「ロック」。God knows...とLost my musicを聞けるタイミングはもうないんじゃないか？&lt;/li&gt;
+&lt;li&gt;サンバをロックアレンジした上に、今までにないヘドバンをする大先生。バイオリンの方ですよね？&lt;/li&gt;
+&lt;li&gt;間のMCコーナーでサマドリが出たのだけれど、この気候できぐるみを出すもんじゃない。熱中症でダウンするぞ&lt;/li&gt;
+&lt;li&gt;旗曲はLush march、エアギターが絶好調の大先生。バイオリンの方ですよね？&lt;/li&gt;
+&lt;li&gt;最終盤はいつもの曲集。だからいい&lt;/li&gt;
+&lt;li&gt;花火で締め。今年は1日目がアリーナ実質最前列だったのでよく見えた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;書き足りないけど、際限なく成りそうなのでここで書き終えとく&lt;/p&gt;
+</summary><category term="アニソン"></category><category term="茅原実里"></category></entry><entry><title>ブラウザで7◯3×の成績表示を作ってみてた</title><link href="http://attakei.net/2015/07/30/burauzade7o3xnocheng-ji-biao-shi-wozuo-tsutemiteta.html" rel="alternate"></link><updated>2015-07-30T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-07-30:2015/07/30/burauzade7o3xnocheng-ji-biao-shi-wozuo-tsutemiteta.html</id><summary type="html">&lt;p&gt;フロントエンドの勉強と、MasterQEE 2015のリストにAngularJSでの早押し表示を見て、思わず手を出してみた。&lt;/p&gt;
+&lt;p&gt;今の形になるのに、だいたい2週間弱ぐらい。&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://attakei.github.io/QuizDisplay"&gt;実際に動いているところ&lt;/a&gt; と &lt;a class="reference external" href="https://github.com/attakei/QuizDisplay"&gt;ソース&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;React使っているのだけれど、若干コードが迷走しているのでこれから整理。&lt;/p&gt;
+&lt;p&gt;整理が終わったら、&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;n○n✕ にできるようにして&lt;/li&gt;
+&lt;li&gt;順位表記できるようにして&lt;/li&gt;
+&lt;li&gt;誤答ペナルティ選択できるようにして&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;あたりをやれば第一段階クリアかな？&lt;/p&gt;
+</summary><category term="クイズ"></category><category term="nodejs"></category></entry><entry><title>Developer Summit 2015 Summer</title><link href="http://attakei.net/2015/07/29/developer_summit_2015_summer.html" rel="alternate"></link><updated>2015-07-29T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-07-29:2015/07/29/developer_summit_2015_summer.html</id><summary type="html">&lt;p&gt;今回のデブサミはテーマが「SPEED for Enterprise」と完全にエンプラ寄りの話が主体なのは承知のうえで、DevOps周りの話につられて全日参加してきた。&lt;/p&gt;
 &lt;p&gt;あれなんだよ。やっぱうちの会社ってテストが存在しないんだよ&lt;/p&gt;
 </summary><category term="Techイベント"></category></entry><entry><title>July Tech Festa 2015行ってきた</title><link href="http://attakei.net/2015/07/26/july_tech_festa_2015.html" rel="alternate"></link><updated>2015-07-26T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-07-26:2015/07/26/july_tech_festa_2015.html</id><summary type="html">&lt;p&gt;インフラ系エンジニアのカンファレンス。rebuild.fmで存在聞いてその場で参加決めて行ってきた。&lt;/p&gt;
 &lt;p&gt;ここ最近Docker周りの情報をピックアップしにいくタイミングを取れなかったので、新しめの情報を得るいい機会にはなったと思う。&lt;/p&gt;
 &lt;p&gt;そろそろ時間を作ってswarm,
 composeやkubernatesあたりの調査しないとダメなんだと思う。&lt;/p&gt;
-</summary><category term="Techイベント"></category></entry><entry><title>Masami Okui Birth Live 2015 -NEO-</title><link href="http://attakei.net/2015/03/13/masami_okui_birth_live_2015-.html" rel="alternate"></link><updated>2015-03-13T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-03-13:2015/03/13/masami_okui_birth_live_2015-.html</id><summary type="html">&lt;p&gt;アニメロLIVEの先行抽選はスルーしてたが、アニソンCLUBの抽選落ちたのとゲストに鈴木このみが来ると聞いて勢いで購入。
+</summary><category term="Techイベント"></category></entry><entry><title>ブルーシンデレラオープン 2015</title><link href="http://attakei.net/2015/07/18/burushindereraopun-2015.html" rel="alternate"></link><updated>2015-07-18T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-07-18:2015/07/18/burushindereraopun-2015.html</id><summary type="html">&lt;p&gt;毛色の違う青問系オープン。何故かエントリー1だった。&lt;/p&gt;
+&lt;p&gt;ペーパーの成績は相変わらずグダグダ。2Rで1問日和って順位点を逃す。といういつもの感じ&lt;/p&gt;
+&lt;p&gt;3Rのコース別でビジュアル系が大ハマリして2位には慣れたものの総合では全然届かずに終了&lt;/p&gt;
+&lt;div class="section" id="id2"&gt;
+&lt;h2&gt;早押し正解リスト&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;スレイヤーズ&lt;/li&gt;
+&lt;li&gt;一撃必殺技の曲&lt;/li&gt;
+&lt;li&gt;聖戦士ダンバイン&lt;/li&gt;
+&lt;li&gt;聖闘士星矢&lt;/li&gt;
+&lt;li&gt;(他に数問あった気がする)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary><category term="クイズ"></category><category term="イントロ"></category><category term="青問"></category></entry><entry><title>Sinker x Thinker The3rdPitch</title><link href="http://attakei.net/2015/07/11/sinker-x-thinker-the3rdpitch.html" rel="alternate"></link><updated>2015-07-11T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-07-11:2015/07/11/sinker-x-thinker-the3rdpitch.html</id><summary type="html">&lt;p&gt;存在に気づけなかった1st、気づいたのにタイミングの問題で出られなかった2nd。&lt;/p&gt;
+&lt;p&gt;なくなったと思ったら、復活したので無事参加。&lt;/p&gt;
+&lt;p&gt;こういう方向性は非常に好きではあるものの、いかんせんペーパーのハードルが高くて、早押しにすら到達できなかった。&lt;/p&gt;
+&lt;p&gt;よくよく考えると、この傾向で普通にペーパー足切り作れるほど参加者いるのはやっぱりすごいな。&lt;/p&gt;
+</summary><category term="大会参加"></category></entry><entry><title>Masami Okui Birth Live 2015 -NEO-</title><link href="http://attakei.net/2015/03/13/masami_okui_birth_live_2015-.html" rel="alternate"></link><updated>2015-03-13T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-03-13:2015/03/13/masami_okui_birth_live_2015-.html</id><summary type="html">&lt;p&gt;アニメロLIVEの先行抽選はスルーしてたが、アニソンCLUBの抽選落ちたのとゲストに鈴木このみが来ると聞いて勢いで購入。
 会社を早退して行ってきた。&lt;/p&gt;
 &lt;p&gt;アルバムツアーとかではないので、懐かしめの曲も聴けるかと思っていたが衣装チェンジからの古い曲感がすごい。
 「IN THIS ARM」とか「key」とか「Dragonfly」やら聴けると思ってなかった。&lt;/p&gt;
