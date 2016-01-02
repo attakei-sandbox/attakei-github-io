@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>attakei page</title><link href="http://attakei.net/" rel="alternate"></link><link href="http://attakei.net/feeds/all.atom.xml" rel="self"></link><id>http://attakei.net/</id><updated>2015-12-31T00:00:00+09:00</updated><entry><title>2015年Tech系振り返り</title><link href="http://attakei.net/2015/12/31/review_tech_2015.html" rel="alternate"></link><updated>2015-12-31T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-12-31:2015/12/31/review_tech_2015.html</id><summary type="html">&lt;div class="section" id="github"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>attakei page</title><link href="http://attakei.net/" rel="alternate"></link><link href="http://attakei.net/feeds/all.atom.xml" rel="self"></link><id>http://attakei.net/</id><updated>2016-01-02T00:00:00+09:00</updated><entry><title>大晦日ハッカソン2015 &amp; 正月ハッカソン2016 結果メモ</title><link href="http://attakei.net/2016/01/02/da-hui-ri-hatsukason2015-zheng-yue-hatsukason2016-jie-guo-memo.html" rel="alternate"></link><updated>2016-01-02T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2016-01-02:2016/01/02/da-hui-ri-hatsukason2015-zheng-yue-hatsukason2016-jie-guo-memo.html</id><summary type="html">&lt;p&gt;とりあえず、表立って表明したテーマ2個は延長戦の正月ハッカソンまでに完了できたので、前回よりだいぶ進歩したと思う。&lt;/p&gt;
+&lt;div class="section" id="id2"&gt;
+&lt;h2&gt;結果&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;このブログをTinkererからPelicanへ移行する&lt;ul&gt;
+&lt;li&gt;移行しました（ただし、現時点で2014年代以前の記事や、固定ページ系の移行が未完了）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;deck2pdfのバージョンアップ&lt;ul&gt;
+&lt;li&gt;簡単に書くと、「リストを順番に表示するアニメーションを使用していた場合に、アニメーション単位でページを作成できるように」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id3"&gt;
+&lt;h2&gt;感想&lt;/h2&gt;
+&lt;div class="section" id="tinkerer-pelican"&gt;
+&lt;h3&gt;Tinkerer-&amp;gt;Pelican&lt;/h3&gt;
+&lt;p&gt;どちらもPython&amp;amp;reSTベースのブログツールなので、記事移行にかかるコストの見積もりはだいぶ簡単だった。
+ネックとなったのは、&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;雑な設定だとpermalinkの維持が難しい&lt;/li&gt;
+&lt;li&gt;カテゴリやタグ設定の差異を移行時に編集しないといけない&lt;/li&gt;
+&lt;li&gt;Tinkerのレイアウトはそのまま使えず、サードパーティのテーマを探すのが面倒&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;特に最後の箇所がいろいろ面倒。一応pelicanthemes.com見ながら現在の形を選んだが、割とあっさり変わるかも。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="deck2pdf"&gt;
+&lt;h3&gt;deck2pdf&lt;/h3&gt;
+&lt;p&gt;片手間にやろうと思えば大晦日ハッカソン前にできた気もするので、もうちょっと計画的に開発しないとダメですね。&lt;/p&gt;
+&lt;p&gt;開発自体はMacbookで進めていたのですが、たまにネットワーク通信がおかしくなって、
+テスト用に外部ページを変換しようとするたびにタイムアウトになったりしてたのが一番しんどかった。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>2015年Tech系振り返り</title><link href="http://attakei.net/2015/12/31/review_tech_2015.html" rel="alternate"></link><updated>2015-12-31T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-12-31:2015/12/31/review_tech_2015.html</id><summary type="html">&lt;div class="section" id="github"&gt;
 &lt;h2&gt;github振り返り&lt;/h2&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="https://github.com/attakei/omniauth-backlog"&gt;https://github.com/attakei/omniauth-backlog&lt;/a&gt;&lt;/li&gt;
