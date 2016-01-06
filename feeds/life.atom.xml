@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>attakei page</title><link href="http://attakei.net/" rel="alternate"></link><link href="http://attakei.net/feeds/life.atom.xml" rel="self"></link><id>http://attakei.net/</id><updated>2015-10-28T00:00:00+09:00</updated><entry><title>nonda mini adapter だけが来た</title><link href="http://attakei.net/2015/10/28/nonda-mini-adapter-dakegalai-ta.html" rel="alternate"></link><updated>2015-10-28T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-10-28:2015/10/28/nonda-mini-adapter-dakegalai-ta.html</id><summary type="html">&lt;p&gt;Kickstarter に出ていて国内でもニュースになってたサードパーティ製のMacBook向けハブの &lt;a class="reference external" href="http://www.nonda.co/products/usb-c-hub-for-apple-new-macbook-12-plus"&gt;Hub+ USB-C Hub for the New MacBook 12&amp;quot;&lt;/a&gt;  に出資してだいぶ前に資金集めに成功していました。
+<feed xmlns="http://www.w3.org/2005/Atom"><title>attakei page</title><link href="http://attakei.net/" rel="alternate"></link><link href="http://attakei.net/feeds/life.atom.xml" rel="self"></link><id>http://attakei.net/</id><updated>2016-01-06T00:00:00+09:00</updated><entry><title>iPhoneの画面が壊れたので…</title><link href="http://attakei.net/2016/01/06/iphonenohua-mian-gahuai-retanode.html" rel="alternate"></link><updated>2016-01-06T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2016-01-06:2016/01/06/iphonenohua-mian-gahuai-retanode.html</id><summary type="html">&lt;p&gt;ロックが甘くてiPhoneを落とした。落としたまではいいのだが、悪夢のようなタイミングで画面を下にして踏む形になってしまったのでメチャクチャにorz&lt;/p&gt;
+&lt;p&gt;iPhone自体の機能は普通に動くのだが、前回のiPhone4s以上に画面がやばいので修理に出すことに。&lt;/p&gt;
+&lt;div class="section" id="id1"&gt;
+&lt;h2&gt;事前に作業&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;自宅のiTunesでローカルバックアップ実施&lt;/li&gt;
+&lt;li&gt;ゲーム系の引き継ぎ方法確認&lt;ul&gt;
+&lt;li&gt;アプリごとのコード&amp;amp;パスワード：チェンクロ、ゴ魔乙、FGO、ウィズ&lt;/li&gt;
+&lt;li&gt;外部サイト式：ブレイブリーアーカイブ（Twitter）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(ここまでやった)&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>nonda mini adapter だけが来た</title><link href="http://attakei.net/2015/10/28/nonda-mini-adapter-dakegalai-ta.html" rel="alternate"></link><updated>2015-10-28T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-10-28:2015/10/28/nonda-mini-adapter-dakegalai-ta.html</id><summary type="html">&lt;p&gt;Kickstarter に出ていて国内でもニュースになってたサードパーティ製のMacBook向けハブの &lt;a class="reference external" href="http://www.nonda.co/products/usb-c-hub-for-apple-new-macbook-12-plus"&gt;Hub+ USB-C Hub for the New MacBook 12&amp;quot;&lt;/a&gt;  に出資してだいぶ前に資金集めに成功していました。
 が、このたびおまけのmini adapterだけが届きました。&lt;/p&gt;
 &lt;div class="figure"&gt;
 &lt;img alt="" src="/static/images/201509/adapter_only.jpg" /&gt;

@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>attakei page</title><link href="http://attakei.net/" rel="alternate"></link><link href="http://attakei.net/feeds/all.atom.xml" rel="self"></link><id>http://attakei.net/</id><updated>2016-01-02T00:00:00+09:00</updated><entry><title>大晦日ハッカソン2015 &amp; 正月ハッカソン2016 結果メモ</title><link href="http://attakei.net/2016/01/02/da-hui-ri-hatsukason2015-zheng-yue-hatsukason2016-jie-guo-memo.html" rel="alternate"></link><updated>2016-01-02T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2016-01-02:2016/01/02/da-hui-ri-hatsukason2015-zheng-yue-hatsukason2016-jie-guo-memo.html</id><summary type="html">&lt;p&gt;とりあえず、表立って表明したテーマ2個は延長戦の正月ハッカソンまでに完了できたので、前回よりだいぶ進歩したと思う。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>attakei page</title><link href="http://attakei.net/" rel="alternate"></link><link href="http://attakei.net/feeds/all.atom.xml" rel="self"></link><id>http://attakei.net/</id><updated>2016-01-06T00:00:00+09:00</updated><entry><title>iPhoneの画面が壊れたので…</title><link href="http://attakei.net/2016/01/06/iphonenohua-mian-gahuai-retanode.html" rel="alternate"></link><updated>2016-01-06T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2016-01-06:2016/01/06/iphonenohua-mian-gahuai-retanode.html</id><summary type="html">&lt;p&gt;ロックが甘くてiPhoneを落とした。落としたまではいいのだが、悪夢のようなタイミングで画面を下にして踏む形になってしまったのでメチャクチャにorz&lt;/p&gt;
+&lt;p&gt;iPhone自体の機能は普通に動くのだが、前回のiPhone4s以上に画面がやばいので修理に出すことに。&lt;/p&gt;
+&lt;div class="section" id="id1"&gt;
+&lt;h2&gt;事前に作業&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;自宅のiTunesでローカルバックアップ実施&lt;/li&gt;
+&lt;li&gt;ゲーム系の引き継ぎ方法確認&lt;ul&gt;
+&lt;li&gt;アプリごとのコード&amp;amp;パスワード：チェンクロ、ゴ魔乙、FGO、ウィズ&lt;/li&gt;
+&lt;li&gt;外部サイト式：ブレイブリーアーカイブ（Twitter）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(ここまでやった)&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>大晦日ハッカソン2015 &amp; 正月ハッカソン2016 結果メモ</title><link href="http://attakei.net/2016/01/02/da-hui-ri-hatsukason2015-zheng-yue-hatsukason2016-jie-guo-memo.html" rel="alternate"></link><updated>2016-01-02T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2016-01-02:2016/01/02/da-hui-ri-hatsukason2015-zheng-yue-hatsukason2016-jie-guo-memo.html</id><summary type="html">&lt;p&gt;とりあえず、表立って表明したテーマ2個は延長戦の正月ハッカソンまでに完了できたので、前回よりだいぶ進歩したと思う。&lt;/p&gt;
 &lt;div class="section" id="id2"&gt;
 &lt;h2&gt;結果&lt;/h2&gt;
 &lt;ul class="simple"&gt;
