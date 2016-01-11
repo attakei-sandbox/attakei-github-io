@@ -33,7 +33,7 @@
 テスト用に外部ページを変換しようとするたびにタイムアウトになったりしてたのが一番しんどかった。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>2015年Tech系振り返り</title><link href="http://attakei.net/2015/12/31/review_tech_2015.html" rel="alternate"></link><updated>2015-12-31T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-12-31:2015/12/31/review_tech_2015.html</id><summary type="html">&lt;div class="section" id="github"&gt;
+</summary><category term="ブログ"></category><category term="Pelican"></category><category term="deck2pdf"></category><category term="Python"></category></entry><entry><title>2015年Tech系振り返り</title><link href="http://attakei.net/2015/12/31/review_tech_2015.html" rel="alternate"></link><updated>2015-12-31T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-12-31:2015/12/31/review_tech_2015.html</id><summary type="html">&lt;div class="section" id="github"&gt;
 &lt;h2&gt;github振り返り&lt;/h2&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="https://github.com/attakei/omniauth-backlog"&gt;https://github.com/attakei/omniauth-backlog&lt;/a&gt;&lt;/li&gt;
