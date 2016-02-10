@@ -364,4 +364,364 @@ MacBookがMBAと分離気味に出たのに加え、MBA,MBPがスペックチェ
 &lt;li&gt;Core M 1.3Ghzのレビュー内容&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary><category term="Mac"></category><category term="ノートPC"></category></entry></feed>
+</summary><category term="Mac"></category><category term="ノートPC"></category></entry><entry><title>Android SDK Licenseとjavaのファイルエンコーディング</title><link href="http://attakei.net/2014/11/22/android_sdk_license.html" rel="alternate"></link><updated>2014-11-22T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2014-11-22:2014/11/22/android_sdk_license.html</id><summary type="html">&lt;p&gt;限定条件下でははるものの、日本語環境がまるまるを満たしている気配がするので、ちゃんとエントリーにしてみる。&lt;/p&gt;
+&lt;p&gt;元々は、&lt;a class="reference external" href="http://kivy.org/"&gt;Kivy&lt;/a&gt; の自分用テンプレートを作っていた際に、
+&lt;a class="reference external" href="https://github.com/kivy/buildozer"&gt;buildozer&lt;/a&gt; を使っていた時にビルドが途中で止まってしまった事象を解消する際に見つけたもの。&lt;/p&gt;
+&lt;div class="section" id="id1"&gt;
+&lt;h2&gt;限定条件下って&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;java実行時のファイルエンコーディングを全く指定していない。もしくは指定しているがUTF-8ではない。&lt;/li&gt;
+&lt;li&gt;作ったプログラムの処理過程で、Android SDKのライセンス内容を取り扱う&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id2"&gt;
+&lt;h2&gt;発生した事象&lt;/h2&gt;
+&lt;div class="section" id="id3"&gt;
+&lt;h3&gt;何が起きた&lt;/h3&gt;
+&lt;p&gt;buildozerはkivyアプリのAndroid/iOSビルドを手早く行えるようにするためのツールで、
+Androidビルド時には自動的にant,SDK,NDKをダウンロードセットアップする仕組みがある。&lt;/p&gt;
+&lt;p&gt;で、SDKのインストール後にビルドツールなどをダウンロードしようとするのだが、これが確実にコケる。
+( &lt;a class="reference external" href="https://groups.google.com/forum/#!topic/kivy-users/F34ZYtjgLKU"&gt;参照&lt;/a&gt; )&lt;/p&gt;
+&lt;p&gt;↓こんな感じ&lt;/p&gt;
+&lt;pre class="code python literal-block"&gt;
+&lt;span class="err"&gt;$&lt;/span&gt; &lt;span class="n"&gt;buildozer&lt;/span&gt; &lt;span class="n"&gt;android&lt;/span&gt; &lt;span class="n"&gt;debug&lt;/span&gt;
+&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="err"&gt;中略&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="err"&gt;ライセンス&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="err"&gt;中略&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="ne"&gt;UnicodeDecodeError&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="s1"&gt;'utf8'&lt;/span&gt; &lt;span class="n"&gt;codec&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt;&lt;span class="s1"&gt;'t decode byte 0x81 in position 760: invalid continuation byte&lt;/span&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id5"&gt;
+&lt;h3&gt;どうしてこうなった&lt;/h3&gt;
+&lt;p&gt;上の通り、Android SDK License Agreementの表示途中で止まってる。そして、出てきた例外がUnicodeDecodeError。&lt;/p&gt;
+&lt;p&gt;ということで、Unicode表現でない何かを表示しようとしてコケたと推測。&lt;/p&gt;
+&lt;p&gt;改めて表示されていると思われる &lt;a class="reference external" href="http://dl-ssl.google.com/android/repository/addon.xml"&gt;Licenseの大元&lt;/a&gt; にたどってみると、
+なんか全角アポストロフィが1個混ざってる。&lt;/p&gt;
+&lt;p&gt;そして、&lt;a class="reference external" href="http://blog.lidalia.org.uk/2011/04/setting-default-java-file-encoding-to.html"&gt;この辺り&lt;/a&gt; を見ていくとわかるが、
+デフォルトではjava実行時のファイルエンコーディングがUTF-8とは限らない。&lt;/p&gt;
+&lt;p&gt;さらに、pythonはUnicodeでデコードしようとする。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id7"&gt;
+&lt;h3&gt;結論&lt;/h3&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;buildozerが内部で &lt;strong&gt;android debug&lt;/strong&gt; を実行しようとしたが&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;javaのファイルエンコーディングを指定していなかった&lt;/strong&gt; ために、デフォルトの値が採用され&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;デフォルトエンコーディングがUTF-8ではない&lt;/strong&gt; ことから、別の文字コードで出力されてしまい&lt;/li&gt;
+&lt;li&gt;buildozer自体はunicode文字列として処理しようとするが、&lt;em&gt;UTF-8でないので当然ながら処理に失敗し&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;UnicodeDecodeErrorが飛ぶ&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;ということらしい。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id8"&gt;
+&lt;h2&gt;しかたがないのでプルリク作った&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://github.com/kivy/buildozer/pull/155"&gt;https://github.com/kivy/buildozer/pull/155&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;「修正は可能な限りシンプルに」を心がけて、android update 周りのみにファイルエンコーディングをセットする対応。
+一応、挙動を簡単に調べてJAVA_TOOL_OPTIONSはちゃんと継承＆上書きするように。&lt;/p&gt;
+&lt;p&gt;ちなみに、修正コードを書くのに2時間強、コミットログの手直しに1時間、プルリクの文章に4時間かかった（印象）&lt;/p&gt;
+&lt;p&gt;プルリクは日本語の概要を書いてからGoogle翻訳に相談しつつ書いたのだけれど、日本語の原文がこちら&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;
+現在のバージョンのbulldozerでは、”buildozer android build”のコマンドがパッケージ更新の段階で失敗します。
+出力された例外を調べると、次のことがわかりました。
+・現在のAndroid-SDKのライセンスの内容に、非ASCIIな文字が含まれていること
+・java実行時に、ファイルエンコーディングがUTF-8ではないことが有ること
+・エンコーディングがUTF-8ではない環境下で、ライセンスを表示しようとすると、非ASCII文字のデコードに失敗して例外が発生すること
+
+上記の現象を解消するために、改修を行いました。
+&lt;/pre&gt;
+&lt;p&gt;エンジニアとして、初めてgithub上でプルリクエストを投げて、割と素早くマージしてもらえたので記念にエントリー化。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id9"&gt;
+&lt;h2&gt;おまけ&lt;/h2&gt;
+&lt;p&gt;なお、その過程で「Android build-toolの新規インストールができない上に、更新分のインストールもできない」という結構な不備があったので、
+&lt;a class="reference external" href="https://github.com/kivy/buildozer/pull/156"&gt;別途プルリク&lt;/a&gt; を出している。まだマージされていない。&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="プルリク振り返り"></category><category term="android"></category><category term="encoding"></category><category term="kivy"></category><category term="python"></category></entry><entry><title>Open棟梁</title><link href="http://attakei.net/2014/11/22/opendong-liang.html" rel="alternate"></link><updated>2014-11-22T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2014-11-22:2014/11/22/opendong-liang.html</id><summary type="html">&lt;p&gt;先週に日立グループの中から &lt;a class="reference external" href="https://github.com/OpenTouryoProject/OpenTouryo"&gt;Open棟梁&lt;/a&gt; という、.NET向けのアプリケーションフレームワークが公開されていた。
+自分のブログネタにするにはだいぶ鮮度が落ちているけれど、気にしない。&lt;/p&gt;
+&lt;p&gt;日立系のプロジェクトにほんの少しだけ関与していた感覚からすると、色んな意味で「よくまぁ公開できたなぁ」というのが感想。&lt;/p&gt;
+&lt;p&gt;あと、好意的なプルリクエストが結構行っているので、ゆっくり進化していくといいかなぁ。コードに対するプルリクエストがどうなるかが気になる。&lt;/p&gt;
+</summary><category term="OSS"></category><category term="github"></category></entry><entry><title>redmine + gitlab + jenkins = 重い</title><link href="http://attakei.net/2014/10/24/redmine-gitlab-jenkins-zhong-i.html" rel="alternate"></link><updated>2014-10-24T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2014-10-24:2014/10/24/redmine-gitlab-jenkins-zhong-i.html</id><summary type="html">&lt;p&gt;ほとんどタイトルで言いたいことをいい尽くした。&lt;/p&gt;
+&lt;p&gt;MSDNについてくるクレジットを利用して、redmine, gitlab, jenkinsをWindowsAzureの1台のVMにのせているのだが、
+クレジット上限を考慮してA1にしていると、やっぱりメモリが不足気味な模様。&lt;/p&gt;
+&lt;p&gt;で、調べると最近のクラウドサーバの類でよくあるイメージでAzureのVMにもスワップが初期で割り当てられていない。&lt;/p&gt;
+&lt;p&gt;普通の手段でスワップ出すのもありなのだが調べた際に便利だったページが有ったので、URLだけ貼り付けておく。&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://blogs.technet.com/b/ksasaki/archive/2013/06/21/linux.aspx"&gt;http://blogs.technet.com/b/ksasaki/archive/2013/06/21/linux.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;感謝感謝&lt;/p&gt;
+</summary><category term="ruby"></category><category term="gitlab"></category><category term="jenkins"></category></entry><entry><title>Redmine + gitlab 連携で躓いた(その2)</title><link href="http://attakei.net/2014/10/23/redmine-gitlab-lian-xi-dezhi-itasono2.html" rel="alternate"></link><updated>2014-10-23T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2014-10-23:2014/10/23/redmine-gitlab-lian-xi-dezhi-itasono2.html</id><summary type="html">&lt;p&gt;前回の続き。&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;redmine,gitlabを相乗りさせて、nginxをフロントに置く&lt;/li&gt;
+&lt;li&gt;redmine-oauth-providerでredmineユーザで認証を出来る仕組みを準備&lt;/li&gt;
+&lt;li&gt;gitlab側はomniauth-redmineをインストールして、認証先にredmineを増やす&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ここまで進めると、gitlabのログイン画面にredmine認証ボタンが出るようになり、
+redmineでの利用許可後はgitlabに戻ってログインとユーザ作成が行われる……はずだった。&lt;/p&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="" src="/static/images/2014/gitlab_422.png" /&gt;
+&lt;/div&gt;
+&lt;p&gt;さて、ユーザ作成が行われない。&lt;/p&gt;
+&lt;p&gt;いろいろ調べた結果、影響元がだいたいこの辺にあった&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;gitlabはユーザ作成後、gitリポジトリ作成などにはusernameを用いる&lt;/li&gt;
+&lt;li&gt;username のフォーマットが「半角英数, '-', '_', '.'」で最後が.gitでないこと &lt;a class="reference external" href="https://github.com/gitlabhq/gitlabhq/blob/master/app/models/user.rb#L118"&gt;[gitlabソース1]&lt;/a&gt; &lt;a class="reference external" href="https://github.com/gitlabhq/gitlabhq/blob/master/lib/gitlab/regex.rb#L74"&gt;[gitlabソース2]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;OmniAuth経由でユーザを作成する場合、oauthで取得したnicknameかメールアドレスのユーザ名が用いられる &lt;a class="reference external" href="https://github.com/gitlabhq/gitlabhq/blob/master/lib/gitlab/oauth/user.rb#L87"&gt;[gitlabソース3]&lt;/a&gt; &lt;a class="reference external" href="https://github.com/gitlabhq/gitlabhq/blob/master/lib/gitlab/oauth/auth_hash.rb#L31"&gt;[gitlabソース4]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;omniauth-redmineはnicknameにredmineユーザのメールアドレスを使う &lt;a class="reference external" href="https://github.com/suer/omniauth-redmine/blob/master/lib/omniauth/strategies/redmine.rb#L20"&gt;[omniauth-redmineソース]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;プラグインを修正して対応。&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://github.com/attakei/omniauth-redmine"&gt;https://github.com/attakei/omniauth-redmine&lt;/a&gt; ( &lt;a class="reference external" href="https://github.com/attakei/omniauth-redmine/compare/suer:master...master"&gt;差分&lt;/a&gt; )&lt;/p&gt;
+&lt;p&gt;多分プラグイン側に若干の柔軟性をもたせる形で修正すれば、やっていけるはず。
+ただし、READMEの修正をまだしていないのでプルリクエストを出していない。
+※というか、出すのにビビって躊躇しているだけ&lt;/p&gt;
+</summary><category term="gitlab"></category><category term="redmine"></category><category term="omniauth"></category><category term="ruby"></category></entry><entry><title>Redmine + gitlab 連携で躓いた(その1)</title><link href="http://attakei.net/2014/10/20/redmine-gitlab-lian-xi-dezhi-itasono1.html" rel="alternate"></link><updated>2014-10-20T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2014-10-20:2014/10/20/redmine-gitlab-lian-xi-dezhi-itasono1.html</id><summary type="html">&lt;p&gt;ちょっと、ALMiniumによるredmine+gitではなく、redmineプロジェクトに同期しないリポジトリも置きたくなった。&lt;/p&gt;
+&lt;p&gt;そこで一旦ALMiniumから離れて、redmine, gitlab, jenkinsなどをnginxをフロントにして個別インストールすることに。&lt;/p&gt;
+&lt;p&gt;で、こんな感じ盛大に躓いて半日以上潰したのでメモっとく&lt;/p&gt;
+&lt;div class="section" id="redmine-gitlab"&gt;
+&lt;h2&gt;redmine, gitlabのインストール&lt;/h2&gt;
+&lt;p&gt;単純にインストールしてアクセス確認するまでは、ほとんど躓かなかった。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="nginx"&gt;
+&lt;h2&gt;nginxをフロントに据える&lt;/h2&gt;
+&lt;p&gt;最初に少々躓いたところ。&lt;/p&gt;
+&lt;p&gt;redmineのインストール先を、わりと一般的な &lt;strong&gt;/var/lib/redmine&lt;/strong&gt; ではなくしたのが過ち。&lt;/p&gt;
+&lt;div class="section" id="id1"&gt;
+&lt;h3&gt;やりたかったこと&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;redmineユーザを作成して、/home/redmine/redmine にcloneして動かす&lt;/li&gt;
+&lt;li&gt;unicornでredmineを動かし、nginx向けにはポートリッスンではなくsokectを使う&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id2"&gt;
+&lt;h3&gt;起きたこと&lt;/h3&gt;
+&lt;p&gt;nginxが403しか返さない。error.logにはPermission deniedと出るが、socketのパーミッションだと思い込んで、
+777にしたものの変化なし。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id3"&gt;
+&lt;h3&gt;原因&lt;/h3&gt;
+&lt;p&gt;/home/redmine 自体にnginxユーザがアクセスできてない...
+nginx,redmineを同じgroupにしたうえで、/home/redmineをgroupも実行可にしてどうにか通った... &lt;a class="footnote-reference" href="#id6" id="id4"&gt;[1]&lt;/a&gt;&lt;/p&gt;
+&lt;pre class="code bash literal-block"&gt;
+&lt;span class="c1"&gt;# groupadd service
+# usermod -G service,nginx nginx
+# usermod -G service,redmine redmine
+# chmod 775 /home/redmine&lt;/span&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id5"&gt;
+&lt;h2&gt;redmine + gitlab のユーザ認証を連携させようとしたが...&lt;/h2&gt;
+&lt;p&gt;gitlabを入れても認証がバラけるのが面倒だったので、ユーザ管理は基本的にredmineに任せることにした。&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;どちらも、unicornで動かして、nginxがproxy_passでアクセス&lt;/li&gt;
+&lt;li&gt;/redmine, /gitlabという形式でサブディレクトリ構成にする&lt;/li&gt;
+&lt;li&gt;redmineに redmine-oath-provider をインストールして認証元へ&lt;/li&gt;
+&lt;li&gt;gitlabに omniauth-redmine をインストールして認証先をredmineへ&lt;/li&gt;
+&lt;li&gt;下がnginxのconfの一部(必要そうなところ)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class="code literal-block"&gt;
+server {
+    server_name myserver;
+
+    location ~ /redmine {
+        access_log /var/log/nginx/redmine_access.log;
+        proxy_pass http://redmine;
+    }
+
+    location ~ /gitlab {
+        access_log /var/log/nginx/gitlab_access.log;
+        proxy_pass http://gitlab;
+    }
+
+}
+&lt;/pre&gt;
+&lt;p&gt;この設定で、gitlabのredmine認証ページ(/gitlab/users/auth/redmine)へ進もうとしても、Not Foundとしか出ず。
+gitlab側のログ類をチェックしても、ログレベルを下げても何も出てこない。&lt;/p&gt;
+&lt;p&gt;しばらく他のログを見回してみると、Not Foundのログがredmine側に出ているのに気づいたのが一旦諦めて日付が変わった後。&lt;/p&gt;
+&lt;p&gt;gitlab側のURLなのに &lt;strong&gt;/redmine&lt;/strong&gt; が含まれているので、redmine側で処理されてしまったらしい。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;^&lt;/strong&gt; を追加することでどうにか解消できた。&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;
+server {
+    server_name myserver;
+
+    location ~ ^/redmine {
+        access_log /var/log/nginx/redmine_access.log;
+        proxy_pass http://redmine;
+    }
+
+    location ~ ^/gitlab {
+        access_log /var/log/nginx/gitlab_access.log;
+        proxy_pass http://gitlab;
+    }
+
+}
+&lt;/pre&gt;
+&lt;p&gt;これでOauth認証のフローは進むようになったのだが、別のトラブルが発生。
+直した分は別記事にまとめる途中。&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;table class="docutils footnote" frame="void" id="id6" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id4"&gt;[1]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;gitlabのインストールをトライした時にも同じ目にあったはずなのに…&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</summary><category term="nginx"></category><category term="ruby"></category><category term="redmine"></category><category term="gitlab"></category></entry><entry><title>LL Diver 見学してきた</title><link href="http://attakei.net/2014/08/23/ll-diver-jian-xue-shitekita.html" rel="alternate"></link><updated>2014-08-23T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2014-08-23:2014/08/23/ll-diver-jian-xue-shitekita.html</id><summary type="html">&lt;p&gt;いろいろ理由はあるけど、エンジニア的刺激が欲しくて手っ取り早く直近でやっていたイベントだったので参加してきた。
+午前中ドタバタしていたので、現地についたのは14時ぐらいから。&lt;/p&gt;
+&lt;p&gt;この手のイベントは初参加だったりする。&lt;/p&gt;
+&lt;div class="section" id="pythonweb"&gt;
+&lt;h2&gt;PythonによるWebスクレイピング入門&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;ちょうど社内の作業でスクレイピング寄りの何かをしようと思っていたので、うってつけかなと思って見学。&lt;/li&gt;
+&lt;li&gt;標準ライブラリ以外のパターンも知ることができたのが大きな収穫。なんだかんだで、そんなにアンテナが高くないので。&lt;/li&gt;
+&lt;li&gt;個人的にはコンポーネントしてるscrapyを後で触ってみようとお思う。&lt;/li&gt;
+&lt;li&gt;※社内作業には、スクレイピング対象の関係でちょっと素の情報では使いにくそう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id1"&gt;
+&lt;h2&gt;エディタ対決(仮)&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;atomをメイン気味で使ってはいるものの、ファーストインプレッションの時の感覚のままで使っていたので、突っ込んだ話を聞けて満足。&lt;/li&gt;
+&lt;li&gt;そういえばsublimeはパッケージがpythonベースだったことを思い出したけど、なんとなくお金を払う気にならずにいるせいで若干遠目。&lt;ul&gt;
+&lt;li&gt;ver2は一応無料で使えるけど、たまに出るポップアップ的なのが邪魔で使ってない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="lt"&gt;
+&lt;h2&gt;LT&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;LTって初めて見る。すごい勢い（小並感）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary><category term="LL"></category></entry><entry><title>twinkerer製作中</title><link href="http://attakei.net/2014/08/14/twinkererzhi-zuo-zhong.html" rel="alternate"></link><updated>2014-08-14T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2014-08-14:2014/08/14/twinkererzhi-zuo-zhong.html</id><summary type="html">&lt;p&gt;なるべく週ベースでtwitterのアクティビティをまとめてこっちのエントリーにしようとしているけど、
+能動的にするのがキツイので、改めて自動でまとめを作るのを意識的に実装中。&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;毎週月曜夜に先週月曜〜日曜のネット上のアクティビティをまとめてみたい&lt;/li&gt;
+&lt;li&gt;手始めにtwitterから&lt;/li&gt;
+&lt;li&gt;Qiita, githubとかもまとめようか検討中&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://github.com/attakei/twinkerer"&gt;https://github.com/attakei/twinkerer&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Python"></category><category term="blog"></category></entry><entry><title>ALMiniumのインストールで気をつけたことetc</title><link href="http://attakei.net/2014/05/15/alminiumnoinsutorudeqi-wotsuketakotoetc.html" rel="alternate"></link><updated>2014-05-15T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2014-05-15:2014/05/15/alminiumnoinsutorudeqi-wotsuketakotoetc.html</id><summary type="html">&lt;p&gt;ちょっと大して重要ではない細々とした理由で、今とは別の環境でALMiniumをインストールしてしてみた。
+で、実際に作業した際になんとなく引っかかったりしたことをメモっていく。&lt;/p&gt;
+&lt;div class="section" id="id1"&gt;
+&lt;h2&gt;前提&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;インストールは2014/05/13に実施&lt;/li&gt;
+&lt;li&gt;httpsを有効化&lt;/li&gt;
+&lt;li&gt;jenkinsを同時にインストール&lt;/li&gt;
+&lt;li&gt;個人的な嗜好により、reStructuredText formatterを追加でインストール&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id2"&gt;
+&lt;h2&gt;インストールするまで&lt;/h2&gt;
+&lt;p&gt;前回インストールしてみた時と変わらずに簡単にできる印象。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="https"&gt;
+&lt;h2&gt;httpsを有効化してみたら……&lt;/h2&gt;
+&lt;p&gt;redmine側は特に問題らしい問題は無かったのだけれど、そのままjenkinsへ移動すると、毎回リンクでの遷移が引っかかる。&lt;/p&gt;
+&lt;p&gt;今回も前回同様にサーバ自体はhttpsのみを受け付けるようにしたため、jenkinsのデフォルトでhttpで遷移しようとしていた模様。
+設定を切り替えていってどうにかできた。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="restructuredtext-formatter"&gt;
+&lt;h2&gt;reStructuredText formatter&lt;/h2&gt;
+&lt;p&gt;RbST/docutils versionに基いてインストールし用とした際に躓いた点と対応をメモ&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;&amp;quot;script/plugin install&amp;quot;に失敗。script/pluginが見つからない&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;A:いつからなのかはわからないけど、&amp;quot;script/rails plugin&amp;quot;に変わったっぽい？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;上に気づいても、何故かcloneに失敗？&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;で結局、次の手順でインストール&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="c1"&gt;# cd /path/to/redmine&lt;/span&gt;
+&lt;span class="c1"&gt;# cd ./plugins&lt;/span&gt;
+&lt;span class="c1"&gt;# hg clone https://bitbucket.org/ebrahim/redmine_restructuredtext_formatter&lt;/span&gt;
+&lt;span class="c1"&gt;# chown -R apache:apache redmine_restructuredtext_formatter&lt;/span&gt;
+&lt;span class="c1"&gt;# cd ..&lt;/span&gt;
+&lt;span class="c1"&gt;# bundle install&lt;/span&gt;
+&lt;span class="c1"&gt;# service httpd restart&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;動いているのでOKとしておく。&lt;/p&gt;
+&lt;p&gt;あとは、WindowsAzure上に置いているので、これがMSDNでもらえているクレジットを越えないことを祈るのみ。&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="ALMinium"></category></entry><entry><title>atomを試してみる</title><link href="http://attakei.net/2014/05/08/atomwoshi-shitemiru.html" rel="alternate"></link><updated>2014-05-08T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2014-05-08:2014/05/08/atomwoshi-shitemiru.html</id><summary type="html">&lt;p&gt;githubが少し前に発表していたテキストエディタ &lt;a class="reference external" href="https://atom.io/"&gt;atom&lt;/a&gt; がオープンソース化されていたので、ちょっと試してみる。
+実際に触りながらこの記事書いてます。&lt;/p&gt;
+&lt;div class="section" id="id2"&gt;
+&lt;h2&gt;軽くいじってみる&lt;/h2&gt;
+&lt;p&gt;パッとした見た目は少し前に触ってたsublime textにだいぶ似てる。ので、仮に移行するとしてもそんなに違和感なさそう。&lt;/p&gt;
+&lt;p&gt;で、調べた後にDeveloper Toolsを開いてみると本当にHTMLで書かれてるっぽい。
+スタイルがコロコロ変わるためエディタ部分のブロック選択していると忙しいなこれwww&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id3"&gt;
+&lt;h2&gt;見た目とか&lt;/h2&gt;
+&lt;p&gt;起動直後のテーマがDarkだったのでLight系に直す。
+UI全体テーマとエディタ部分のテーマが分けているっぽい？&lt;/p&gt;
+&lt;p&gt;他の高機能エディタと同様、フォルダを放り込むとプロジェクト扱いになるし、gitのクローンだと状態表示はされそう。
+ただ、subversionのワークコピーをまるごと放り込んで見たら.svnがそのままだったところを見ると、多分git限定？テーマかパッケージで対応できるのかな？&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id4"&gt;
+&lt;h2&gt;パッケージを追加してみる&lt;/h2&gt;
+&lt;p&gt;当たり前かもしれないけど、初期状態だとreStructuredTextのパッケージが入っていなかったので入れる。&lt;/p&gt;
+&lt;p&gt;ちなみにこの記事を編集している隣で試した見たのだけれど、
+&lt;strong&gt;探す→入れる&lt;/strong&gt; がダウンロード込みで1分程度。編集に戻ってみると既に反映されていて素敵&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id5"&gt;
+&lt;h2&gt;仮結論&lt;/h2&gt;
+&lt;p&gt;しばらく使ってみよう&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="atom"></category><category term="github"></category></entry><entry><title>kivy-chips: 自分の中でのボタンのイメージ通りのUIX</title><link href="http://attakei.net/2014/04/18/kivy-chips-zi-fen-nozhong-denobotannoimezitong-rinouix.html" rel="alternate"></link><updated>2014-04-18T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2014-04-18:2014/04/18/kivy-chips-zi-fen-nozhong-denobotannoimezitong-rinouix.html</id><summary type="html">&lt;p&gt;Kivyを少しだけいじってしばらく経つけど、なんかButtonオブジェクト &lt;a class="footnote-reference" href="#f1" id="id1"&gt;[1]&lt;/a&gt;  のreleaseイベントが、
+ボタンを押してから放した場所がボタンの上でなくてもディスパッチされている模様。&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://github.com/kivy/kivy/blob/master/kivy/uix/behaviors.py#L108"&gt;https://github.com/kivy/kivy/blob/master/kivy/uix/behaviors.py#L108&lt;/a&gt;&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;
+def on_touch_up(self, touch):
+    if touch.grab_current is not self:
+        return super(ButtonBehavior, self).on_touch_up(touch)
+    assert(self in touch.ud)
+    touch.ungrab(self)
+    self.last_touch = touch
+    self._do_release()
+    self.dispatch('on_release')
+    return True
+&lt;/pre&gt;
+&lt;p&gt;ここで、touch(最後にポインタが持っていた座標)を特に検証していないのが理由っぽいので、
+ちゃんとボタンの範囲内で放したかを判定してdispatchに行くような挙動に変えてみた。&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://github.com/attakei/kivy-chips/blob/master/strict_uix/strict/behaviors.py"&gt;https://github.com/attakei/kivy-chips/blob/master/strict_uix/strict/behaviors.py&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;こんな感じ。&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;
+from kivy.uix.behaviors import ButtonBehavior
+
+def is_released_on(released_pos, widget):
+    touched_area_x = (widget.pos[0], widget.pos[0] + widget.size[0])
+    touched_area_y = (widget.pos[1], widget.pos[1] + widget.size[1])
+    if touched_area_x[0] &amp;lt; released_pos[0] &amp;lt; touched_area_x[1] and \
+            touched_area_y[0] &amp;lt; released_pos[1] &amp;lt; touched_area_y[1]:
+        return True
+    return False
+
+class StrictButtonBehavior(ButtonBehavior):
+    def on_touch_up(self, touch):
+        if touch.grab_current is not self:
+            return super(ButtonBehavior, self).on_touch_up(touch)
+        assert(self in touch.ud)
+        touch.ungrab(self)
+        self.last_touch = touch
+        self._do_release()
+        if is_released_on(touch.pos, self):
+            self.dispatch('on_release')
+        return True
+&lt;/pre&gt;
+&lt;p&gt;以下、サンプルのキャプチャ&lt;/p&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="" src="/sstatic/images/2014/kivy_chips_strict_uix.png" style="width: 320px;" /&gt;
+&lt;/div&gt;
+&lt;p class="rubric"&gt;※補足&lt;/p&gt;
+&lt;table class="docutils footnote" frame="void" id="f1" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id1"&gt;[1]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;正確には、大本の振る舞いを定義したButtonBehavior&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</summary><category term="Python"></category><category term="KIvy"></category></entry></feed>
