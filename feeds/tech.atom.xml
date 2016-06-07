@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>attakei page</title><link href="http://attakei.net/" rel="alternate"></link><link href="http://attakei.net/feeds/tech.atom.xml" rel="self"></link><id>http://attakei.net/</id><updated>2016-01-02T00:00:00+09:00</updated><entry><title>大晦日ハッカソン2015 &amp; 正月ハッカソン2016 結果メモ</title><link href="http://attakei.net/2016/01/02/da-hui-ri-hatsukason2015-zheng-yue-hatsukason2016-jie-guo-memo.html" rel="alternate"></link><updated>2016-01-02T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2016-01-02:2016/01/02/da-hui-ri-hatsukason2015-zheng-yue-hatsukason2016-jie-guo-memo.html</id><summary type="html">&lt;p&gt;とりあえず、表立って表明したテーマ2個は延長戦の正月ハッカソンまでに完了できたので、前回よりだいぶ進歩したと思う。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>attakei page</title><link href="http://attakei.net/" rel="alternate"></link><link href="http://attakei.net/feeds/tech.atom.xml" rel="self"></link><id>http://attakei.net/</id><updated>2016-01-02T00:00:00+09:00</updated><entry><title>大晦日ハッカソン2015 &amp; 正月ハッカソン2016 結果メモ</title><link href="http://attakei.net/2016/01/02/da-hui-ri-hatsukason2015-zheng-yue-hatsukason2016-jie-guo-memo.html" rel="alternate"></link><published>2016-01-02T00:00:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2016-01-02:2016/01/02/da-hui-ri-hatsukason2015-zheng-yue-hatsukason2016-jie-guo-memo.html</id><summary type="html">&lt;p&gt;とりあえず、表立って表明したテーマ2個は延長戦の正月ハッカソンまでに完了できたので、前回よりだいぶ進歩したと思う。&lt;/p&gt;
 &lt;div class="section" id="id2"&gt;
 &lt;h2&gt;結果&lt;/h2&gt;
 &lt;ul class="simple"&gt;
@@ -33,7 +33,7 @@
 テスト用に外部ページを変換しようとするたびにタイムアウトになったりしてたのが一番しんどかった。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</summary><category term="ブログ"></category><category term="Pelican"></category><category term="deck2pdf"></category><category term="Python"></category></entry><entry><title>2015年Tech系振り返り</title><link href="http://attakei.net/2015/12/31/review_tech_2015.html" rel="alternate"></link><updated>2015-12-31T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-12-31:2015/12/31/review_tech_2015.html</id><summary type="html">&lt;div class="section" id="github"&gt;
+</summary><category term="ブログ"></category><category term="Pelican"></category><category term="deck2pdf"></category><category term="Python"></category></entry><entry><title>2015年Tech系振り返り</title><link href="http://attakei.net/2015/12/31/review_tech_2015.html" rel="alternate"></link><published>2015-12-31T00:00:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2015-12-31:2015/12/31/review_tech_2015.html</id><summary type="html">&lt;div class="section" id="github"&gt;
 &lt;h2&gt;github振り返り&lt;/h2&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="https://github.com/attakei/omniauth-backlog"&gt;https://github.com/attakei/omniauth-backlog&lt;/a&gt;&lt;/li&gt;
@@ -61,7 +61,7 @@
 &lt;/ul&gt;
 &lt;p&gt;こんなに行ってたのか。 &lt;a class="reference external" href="http://attakei.net/2015/12/30/review_live_2015.html"&gt;ライブ振り返り&lt;/a&gt; も考えると、結構な外出してたんだなぁ。&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="振り返り"></category></entry><entry><title>オールスター集結！ CodeIQ大忘年会</title><link href="http://attakei.net/2015/12/23/codeiq39.html" rel="alternate"></link><updated>2015-12-23T23:50:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-12-23:2015/12/23/codeiq39.html</id><summary type="html">&lt;p&gt;滑り込みで行ってきた。「ブログ記事を書くまでが(ry)」&lt;/p&gt;
+</summary><category term="振り返り"></category></entry><entry><title>オールスター集結！ CodeIQ大忘年会</title><link href="http://attakei.net/2015/12/23/codeiq39.html" rel="alternate"></link><published>2015-12-23T23:50:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2015-12-23:2015/12/23/codeiq39.html</id><summary type="html">&lt;p&gt;滑り込みで行ってきた。「ブログ記事を書くまでが(ry)」&lt;/p&gt;
 &lt;p&gt;基本細々とした感想を書くのが苦手なので、イベント内でちょこちょこ挙がってたキーワードを主軸に書いてみる。&lt;/p&gt;
 &lt;div class="section" id="tensorflow"&gt;
 &lt;h2&gt;TensorFlow などなど&lt;/h2&gt;
@@ -88,7 +88,7 @@ Cloud Vision APIあたりは利用開始の敷居が低くなれば、一気に�
 &lt;h2&gt;その他&lt;/h2&gt;
 &lt;blockquote class="twitter-tweet" lang="ja"&gt;&lt;p lang="ja" dir="ltr"&gt;CodeIQ忘年会の帰り中。自分視点だとスクリーンやストリームの奥でしか見ることができない人の話を聞いたり顔を見られたりする機会はやっぱり大切 &lt;a href="https://twitter.com/hashtag/codeiq39?src=hash"&gt;#codeiq39&lt;/a&gt;&lt;/p&gt;&amp;mdash; attakei (@attakei) &lt;a href="https://twitter.com/attakei/status/679605875233828865"&gt;2015, 12月 23&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src="//platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/div&gt;
-</summary><category term="Techイベント"></category><category term="CodeIQ"></category></entry><entry><title>deck2pdf: HTMLスライドをSlideShareなどにアップロードしたい自分のためのコンバーター</title><link href="http://attakei.net/2015/11/09/deck2pdf-htmlsuraidowoslidesharenadoniatsupurodoshitaizi-fen-notamenokonbata.html" rel="alternate"></link><updated>2015-11-09T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-11-09:2015/11/09/deck2pdf-htmlsuraidowoslidesharenadoniatsupurodoshitaizi-fen-notamenokonbata.html</id><summary type="html">&lt;p&gt;初回の開発開始から1ヶ月ぐらいかけてひっそりと作っていたのですが、このたび最低限の普段使いはできるレベルまでは進んだつもりなので、ブログの記事にしました。&lt;/p&gt;
+</summary><category term="Techイベント"></category><category term="CodeIQ"></category></entry><entry><title>deck2pdf: HTMLスライドをSlideShareなどにアップロードしたい自分のためのコンバーター</title><link href="http://attakei.net/2015/11/09/deck2pdf-htmlsuraidowoslidesharenadoniatsupurodoshitaizi-fen-notamenokonbata.html" rel="alternate"></link><published>2015-11-09T00:00:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2015-11-09:2015/11/09/deck2pdf-htmlsuraidowoslidesharenadoniatsupurodoshitaizi-fen-notamenokonbata.html</id><summary type="html">&lt;p&gt;初回の開発開始から1ヶ月ぐらいかけてひっそりと作っていたのですが、このたび最低限の普段使いはできるレベルまでは進んだつもりなので、ブログの記事にしました。&lt;/p&gt;
 &lt;p&gt;PyPI に &lt;a class="reference external" href="https://pypi.python.org/pypi/deck2pdf/"&gt;deck2pdf&lt;/a&gt; というパッケージをリリースしました。現時点でのバージョンは0.2.0です。&lt;/p&gt;
 &lt;div class="section" id="id1"&gt;
 &lt;h2&gt;何をするものか&lt;/h2&gt;
@@ -122,7 +122,7 @@ Cloud Vision APIあたりは利用開始の敷居が低くなれば、一気に�
 それでも、この時点でもPDFとして見苦しくない形式では変換できているので、社内向け社外向け問わず機会を見つけてはスライドを作っていけたらなぁと思っています。&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</summary><category term="Python"></category><category term="pdf"></category></entry><entry><title>Thank you PyCon JP</title><link href="http://attakei.net/2015/10/12/thank_you_pycon_jp.html" rel="alternate"></link><updated>2015-10-12T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-10-12:2015/10/12/thank_you_pycon_jp.html</id><summary type="html">&lt;p&gt;ブログとかに感想エントリーとかを書くまでがカンファレンスって誰かが言ってた。&lt;/p&gt;
+</summary><category term="Python"></category><category term="pdf"></category></entry><entry><title>Thank you PyCon JP</title><link href="http://attakei.net/2015/10/12/thank_you_pycon_jp.html" rel="alternate"></link><published>2015-10-12T00:00:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2015-10-12:2015/10/12/thank_you_pycon_jp.html</id><summary type="html">&lt;p&gt;ブログとかに感想エントリーとかを書くまでがカンファレンスって誰かが言ってた。&lt;/p&gt;
 &lt;p&gt;10/10,11に PyCon JP 2015 に行ってきました。去年はランティス祭りと完全に被ってたので、日程が発表と同時に不参加だったので、今年が初参加。&lt;/p&gt;
 &lt;div class="section" id="id1"&gt;
 &lt;h2&gt;セッションもろもろ&lt;/h2&gt;
@@ -191,7 +191,7 @@ Cloud Vision APIあたりは利用開始の敷居が低くなれば、一気に�
 &lt;p&gt;&lt;strong&gt;Thank you PyCon JP!!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;また来年も行きたいし、セッションやらLTやらできたりできるようになっていたいな、と思える2日でした。&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="Techイベント"></category><category term="Python"></category></entry><entry><title>ホスティング場所を移動した際のメモ</title><link href="http://attakei.net/2015/09/05/hosuteinguchang-suo-woyi-dong-shitaji-nomemo.html" rel="alternate"></link><updated>2015-09-05T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-09-05:2015/09/05/hosuteinguchang-suo-woyi-dong-shitaji-nomemo.html</id><summary type="html">&lt;p&gt;借りてるVPSやドメイン管理場所などの整理の一環として、スタードメイン利用時の付属サーバーからgithub-pagesに移行させてみた際のメモ。&lt;/p&gt;
+</summary><category term="Techイベント"></category><category term="Python"></category></entry><entry><title>ホスティング場所を移動した際のメモ</title><link href="http://attakei.net/2015/09/05/hosuteinguchang-suo-woyi-dong-shitaji-nomemo.html" rel="alternate"></link><published>2015-09-05T00:00:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2015-09-05:2015/09/05/hosuteinguchang-suo-woyi-dong-shitaji-nomemo.html</id><summary type="html">&lt;p&gt;借りてるVPSやドメイン管理場所などの整理の一環として、スタードメイン利用時の付属サーバーからgithub-pagesに移行させてみた際のメモ。&lt;/p&gt;
 &lt;div class="section" id="id2"&gt;
 &lt;h2&gt;おおまかに流れ&lt;/h2&gt;
 &lt;ul class="simple"&gt;
@@ -213,7 +213,7 @@ Cloud Vision APIあたりは利用開始の敷居が低くなれば、一気に�
 werckerを選んだのはbitbucketのプライベートリポジトリをビルドできてかつ無料である程度知名度がありそうなのがここだったから。
 1回のビルドにおける25分以内の制約もここではあまり関係なさそうだし。 --&gt;
 &lt;/div&gt;
-</summary><category term="github"></category><category term="bitbucket"></category></entry><entry><title>YAPC::Asia Tokyo 2015</title><link href="http://attakei.net/2015/08/22/yapcasia_tokyo_2015.html" rel="alternate"></link><updated>2015-08-22T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-08-22:2015/08/22/yapcasia_tokyo_2015.html</id><summary type="html">&lt;p&gt;刺激を貰いたくて、前夜祭込で3日とも参加してきた。&lt;/p&gt;
+</summary><category term="github"></category><category term="bitbucket"></category></entry><entry><title>YAPC::Asia Tokyo 2015</title><link href="http://attakei.net/2015/08/22/yapcasia_tokyo_2015.html" rel="alternate"></link><published>2015-08-22T00:00:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2015-08-22:2015/08/22/yapcasia_tokyo_2015.html</id><summary type="html">&lt;p&gt;刺激を貰いたくて、前夜祭込で3日とも参加してきた。&lt;/p&gt;
 &lt;p&gt;印象に残ったり、現時点で自分に大きな影響があった部分だけ振り返ってみる。&lt;/p&gt;
 &lt;p&gt;（以下、話題が思い切り散発的になります）&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -234,7 +234,7 @@ werckerを選んだのはbitbucketのプライベートリポジトリをビル�
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;以上、最近「定期的に外部刺激をもらわないと停滞しがち病」にかかっているエンジニアの感想でした。&lt;/p&gt;
-</summary><category term="Techイベント"></category><category term="Perl"></category></entry><entry><title>ブラウザでn◯m✕, +n/-m の成績表示を作ってみてた</title><link href="http://attakei.net/2015/08/11/burauzadenom-n-m-nocheng-ji-biao-shi-wozuo-tsutemiteta.html" rel="alternate"></link><updated>2015-08-11T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-08-11:2015/08/11/burauzadenom-n-m-nocheng-ji-biao-shi-wozuo-tsutemiteta.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://attakei.net/2015/07/30/burauzade7o3xnocheng-ji-biao-shi-wozuo-tsutemiteta.html"&gt;これ&lt;/a&gt; の続き。&lt;/p&gt;
+</summary><category term="Techイベント"></category><category term="Perl"></category></entry><entry><title>ブラウザでn◯m✕, +n/-m の成績表示を作ってみてた</title><link href="http://attakei.net/2015/08/11/burauzadenom-n-m-nocheng-ji-biao-shi-wozuo-tsutemiteta.html" rel="alternate"></link><published>2015-08-11T00:00:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2015-08-11:2015/08/11/burauzadenom-n-m-nocheng-ji-biao-shi-wozuo-tsutemiteta.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://attakei.net/2015/07/30/burauzade7o3xnocheng-ji-biao-shi-wozuo-tsutemiteta.html"&gt;これ&lt;/a&gt; の続き。&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://attakei.github.io/QuizDisplay"&gt;実際に動いているところ&lt;/a&gt; と &lt;a class="reference external" href="https://github.com/attakei/QuizDisplay"&gt;ソース&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;React+Ardaである程度整理ができた気がする。&lt;/p&gt;
 &lt;p&gt;前回から&lt;/p&gt;
@@ -242,7 +242,7 @@ werckerを選んだのはbitbucketのプライベートリポジトリをビル�
 &lt;li&gt;順位表記できるようにして&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;が残ったのだが、&lt;strong&gt;a, b, c, display!&lt;/strong&gt; というネタを思いついでどう進めようか検証中。&lt;/p&gt;
-</summary><category term="クイズ"></category><category term="nodejs"></category></entry><entry><title>ブラウザで7◯3×の成績表示を作ってみてた</title><link href="http://attakei.net/2015/07/30/burauzade7o3xnocheng-ji-biao-shi-wozuo-tsutemiteta.html" rel="alternate"></link><updated>2015-07-30T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-07-30:2015/07/30/burauzade7o3xnocheng-ji-biao-shi-wozuo-tsutemiteta.html</id><summary type="html">&lt;p&gt;フロントエンドの勉強と、MasterQEE 2015のリストにAngularJSでの早押し表示を見て、思わず手を出してみた。&lt;/p&gt;
+</summary><category term="クイズ"></category><category term="nodejs"></category></entry><entry><title>ブラウザで7◯3×の成績表示を作ってみてた</title><link href="http://attakei.net/2015/07/30/burauzade7o3xnocheng-ji-biao-shi-wozuo-tsutemiteta.html" rel="alternate"></link><published>2015-07-30T00:00:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2015-07-30:2015/07/30/burauzade7o3xnocheng-ji-biao-shi-wozuo-tsutemiteta.html</id><summary type="html">&lt;p&gt;フロントエンドの勉強と、MasterQEE 2015のリストにAngularJSでの早押し表示を見て、思わず手を出してみた。&lt;/p&gt;
 &lt;p&gt;今の形になるのに、だいたい2週間弱ぐらい。&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://attakei.github.io/QuizDisplay"&gt;実際に動いているところ&lt;/a&gt; と &lt;a class="reference external" href="https://github.com/attakei/QuizDisplay"&gt;ソース&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;React使っているのだけれど、若干コードが迷走しているのでこれから整理。&lt;/p&gt;
@@ -253,13 +253,13 @@ werckerを選んだのはbitbucketのプライベートリポジトリをビル�
 &lt;li&gt;誤答ペナルティ選択できるようにして&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;あたりをやれば第一段階クリアかな？&lt;/p&gt;
-</summary><category term="クイズ"></category><category term="nodejs"></category></entry><entry><title>Developer Summit 2015 Summer</title><link href="http://attakei.net/2015/07/29/developer_summit_2015_summer.html" rel="alternate"></link><updated>2015-07-29T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-07-29:2015/07/29/developer_summit_2015_summer.html</id><summary type="html">&lt;p&gt;今回のデブサミはテーマが「SPEED for Enterprise」と完全にエンプラ寄りの話が主体なのは承知のうえで、DevOps周りの話につられて全日参加してきた。&lt;/p&gt;
+</summary><category term="クイズ"></category><category term="nodejs"></category></entry><entry><title>Developer Summit 2015 Summer</title><link href="http://attakei.net/2015/07/29/developer_summit_2015_summer.html" rel="alternate"></link><published>2015-07-29T00:00:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2015-07-29:2015/07/29/developer_summit_2015_summer.html</id><summary type="html">&lt;p&gt;今回のデブサミはテーマが「SPEED for Enterprise」と完全にエンプラ寄りの話が主体なのは承知のうえで、DevOps周りの話につられて全日参加してきた。&lt;/p&gt;
 &lt;p&gt;あれなんだよ。やっぱうちの会社ってテストが存在しないんだよ&lt;/p&gt;
-</summary><category term="Techイベント"></category></entry><entry><title>July Tech Festa 2015行ってきた</title><link href="http://attakei.net/2015/07/26/july_tech_festa_2015.html" rel="alternate"></link><updated>2015-07-26T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-07-26:2015/07/26/july_tech_festa_2015.html</id><summary type="html">&lt;p&gt;インフラ系エンジニアのカンファレンス。rebuild.fmで存在聞いてその場で参加決めて行ってきた。&lt;/p&gt;
+</summary><category term="Techイベント"></category></entry><entry><title>July Tech Festa 2015行ってきた</title><link href="http://attakei.net/2015/07/26/july_tech_festa_2015.html" rel="alternate"></link><published>2015-07-26T00:00:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2015-07-26:2015/07/26/july_tech_festa_2015.html</id><summary type="html">&lt;p&gt;インフラ系エンジニアのカンファレンス。rebuild.fmで存在聞いてその場で参加決めて行ってきた。&lt;/p&gt;
 &lt;p&gt;ここ最近Docker周りの情報をピックアップしにいくタイミングを取れなかったので、新しめの情報を得るいい機会にはなったと思う。&lt;/p&gt;
 &lt;p&gt;そろそろ時間を作ってswarm,
 composeやkubernatesあたりの調査しないとダメなんだと思う。&lt;/p&gt;
-</summary><category term="Techイベント"></category></entry><entry><title>今のMBAからの更新を考える</title><link href="http://attakei.net/2015/03/11/jin-nombakaranogeng-xin-wokao-eru.html" rel="alternate"></link><updated>2015-03-11T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2015-03-11:2015/03/11/jin-nombakaranogeng-xin-wokao-eru.html</id><summary type="html">&lt;p&gt;今まで「次のMBA系の発表で現行MBAから新規を買おう」と考えてはいたものの、
+</summary><category term="Techイベント"></category></entry><entry><title>今のMBAからの更新を考える</title><link href="http://attakei.net/2015/03/11/jin-nombakaranogeng-xin-wokao-eru.html" rel="alternate"></link><published>2015-03-11T00:00:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2015-03-11:2015/03/11/jin-nombakaranogeng-xin-wokao-eru.html</id><summary type="html">&lt;p&gt;今まで「次のMBA系の発表で現行MBAから新規を買おう」と考えてはいたものの、
 MacBookがMBAと分離気味に出たのに加え、MBA,MBPがスペックチェンジしたので、きちんと考えてみようとしてみる。&lt;/p&gt;
 &lt;div class="section" id="id1"&gt;
 &lt;h2&gt;今やってること振り返り&lt;/h2&gt;
@@ -364,7 +364,7 @@ MacBookがMBAと分離気味に出たのに加え、MBA,MBPがスペックチェ
 &lt;li&gt;Core M 1.3Ghzのレビュー内容&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary><category term="Mac"></category><category term="ノートPC"></category></entry><entry><title>Android SDK Licenseとjavaのファイルエンコーディング</title><link href="http://attakei.net/2014/11/22/android_sdk_license.html" rel="alternate"></link><updated>2014-11-22T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2014-11-22:2014/11/22/android_sdk_license.html</id><summary type="html">&lt;p&gt;限定条件下でははるものの、日本語環境がまるまるを満たしている気配がするので、ちゃんとエントリーにしてみる。&lt;/p&gt;
+</summary><category term="Mac"></category><category term="ノートPC"></category></entry><entry><title>Android SDK Licenseとjavaのファイルエンコーディング</title><link href="http://attakei.net/2014/11/22/android_sdk_license.html" rel="alternate"></link><published>2014-11-22T00:00:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2014-11-22:2014/11/22/android_sdk_license.html</id><summary type="html">&lt;p&gt;限定条件下でははるものの、日本語環境がまるまるを満たしている気配がするので、ちゃんとエントリーにしてみる。&lt;/p&gt;
 &lt;p&gt;元々は、&lt;a class="reference external" href="http://kivy.org/"&gt;Kivy&lt;/a&gt; の自分用テンプレートを作っていた際に、
 &lt;a class="reference external" href="https://github.com/kivy/buildozer"&gt;buildozer&lt;/a&gt; を使っていた時にビルドが途中で止まってしまった事象を解消する際に見つけたもの。&lt;/p&gt;
 &lt;div class="section" id="id1"&gt;
@@ -436,18 +436,18 @@ Androidビルド時には自動的にant,SDK,NDKをダウンロードセット�
 &lt;p&gt;なお、その過程で「Android build-toolの新規インストールができない上に、更新分のインストールもできない」という結構な不備があったので、
 &lt;a class="reference external" href="https://github.com/kivy/buildozer/pull/156"&gt;別途プルリク&lt;/a&gt; を出している。まだマージされていない。&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="プルリク振り返り"></category><category term="android"></category><category term="encoding"></category><category term="kivy"></category><category term="python"></category></entry><entry><title>Open棟梁</title><link href="http://attakei.net/2014/11/22/opendong-liang.html" rel="alternate"></link><updated>2014-11-22T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2014-11-22:2014/11/22/opendong-liang.html</id><summary type="html">&lt;p&gt;先週に日立グループの中から &lt;a class="reference external" href="https://github.com/OpenTouryoProject/OpenTouryo"&gt;Open棟梁&lt;/a&gt; という、.NET向けのアプリケーションフレームワークが公開されていた。
+</summary><category term="プルリク振り返り"></category><category term="android"></category><category term="encoding"></category><category term="kivy"></category><category term="python"></category></entry><entry><title>Open棟梁</title><link href="http://attakei.net/2014/11/22/opendong-liang.html" rel="alternate"></link><published>2014-11-22T00:00:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2014-11-22:2014/11/22/opendong-liang.html</id><summary type="html">&lt;p&gt;先週に日立グループの中から &lt;a class="reference external" href="https://github.com/OpenTouryoProject/OpenTouryo"&gt;Open棟梁&lt;/a&gt; という、.NET向けのアプリケーションフレームワークが公開されていた。
 自分のブログネタにするにはだいぶ鮮度が落ちているけれど、気にしない。&lt;/p&gt;
 &lt;p&gt;日立系のプロジェクトにほんの少しだけ関与していた感覚からすると、色んな意味で「よくまぁ公開できたなぁ」というのが感想。&lt;/p&gt;
 &lt;p&gt;あと、好意的なプルリクエストが結構行っているので、ゆっくり進化していくといいかなぁ。コードに対するプルリクエストがどうなるかが気になる。&lt;/p&gt;
-</summary><category term="OSS"></category><category term="github"></category></entry><entry><title>redmine + gitlab + jenkins = 重い</title><link href="http://attakei.net/2014/10/24/redmine-gitlab-jenkins-zhong-i.html" rel="alternate"></link><updated>2014-10-24T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2014-10-24:2014/10/24/redmine-gitlab-jenkins-zhong-i.html</id><summary type="html">&lt;p&gt;ほとんどタイトルで言いたいことをいい尽くした。&lt;/p&gt;
+</summary><category term="OSS"></category><category term="github"></category></entry><entry><title>redmine + gitlab + jenkins = 重い</title><link href="http://attakei.net/2014/10/24/redmine-gitlab-jenkins-zhong-i.html" rel="alternate"></link><published>2014-10-24T00:00:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2014-10-24:2014/10/24/redmine-gitlab-jenkins-zhong-i.html</id><summary type="html">&lt;p&gt;ほとんどタイトルで言いたいことをいい尽くした。&lt;/p&gt;
 &lt;p&gt;MSDNについてくるクレジットを利用して、redmine, gitlab, jenkinsをWindowsAzureの1台のVMにのせているのだが、
 クレジット上限を考慮してA1にしていると、やっぱりメモリが不足気味な模様。&lt;/p&gt;
 &lt;p&gt;で、調べると最近のクラウドサーバの類でよくあるイメージでAzureのVMにもスワップが初期で割り当てられていない。&lt;/p&gt;
 &lt;p&gt;普通の手段でスワップ出すのもありなのだが調べた際に便利だったページが有ったので、URLだけ貼り付けておく。&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://blogs.technet.com/b/ksasaki/archive/2013/06/21/linux.aspx"&gt;http://blogs.technet.com/b/ksasaki/archive/2013/06/21/linux.aspx&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;感謝感謝&lt;/p&gt;
-</summary><category term="ruby"></category><category term="gitlab"></category><category term="jenkins"></category></entry><entry><title>Redmine + gitlab 連携で躓いた(その2)</title><link href="http://attakei.net/2014/10/23/redmine-gitlab-lian-xi-dezhi-itasono2.html" rel="alternate"></link><updated>2014-10-23T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2014-10-23:2014/10/23/redmine-gitlab-lian-xi-dezhi-itasono2.html</id><summary type="html">&lt;p&gt;前回の続き。&lt;/p&gt;
+</summary><category term="ruby"></category><category term="gitlab"></category><category term="jenkins"></category></entry><entry><title>Redmine + gitlab 連携で躓いた(その2)</title><link href="http://attakei.net/2014/10/23/redmine-gitlab-lian-xi-dezhi-itasono2.html" rel="alternate"></link><published>2014-10-23T00:00:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2014-10-23:2014/10/23/redmine-gitlab-lian-xi-dezhi-itasono2.html</id><summary type="html">&lt;p&gt;前回の続き。&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;redmine,gitlabを相乗りさせて、nginxをフロントに置く&lt;/li&gt;
 &lt;li&gt;redmine-oauth-providerでredmineユーザで認証を出来る仕組みを準備&lt;/li&gt;
@@ -471,7 +471,7 @@ redmineでの利用許可後はgitlabに戻ってログインとユーザ作成�
 &lt;p&gt;多分プラグイン側に若干の柔軟性をもたせる形で修正すれば、やっていけるはず。
 ただし、READMEの修正をまだしていないのでプルリクエストを出していない。
 ※というか、出すのにビビって躊躇しているだけ&lt;/p&gt;
-</summary><category term="gitlab"></category><category term="redmine"></category><category term="omniauth"></category><category term="ruby"></category></entry><entry><title>Redmine + gitlab 連携で躓いた(その1)</title><link href="http://attakei.net/2014/10/20/redmine-gitlab-lian-xi-dezhi-itasono1.html" rel="alternate"></link><updated>2014-10-20T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2014-10-20:2014/10/20/redmine-gitlab-lian-xi-dezhi-itasono1.html</id><summary type="html">&lt;p&gt;ちょっと、ALMiniumによるredmine+gitではなく、redmineプロジェクトに同期しないリポジトリも置きたくなった。&lt;/p&gt;
+</summary><category term="gitlab"></category><category term="redmine"></category><category term="omniauth"></category><category term="ruby"></category></entry><entry><title>Redmine + gitlab 連携で躓いた(その1)</title><link href="http://attakei.net/2014/10/20/redmine-gitlab-lian-xi-dezhi-itasono1.html" rel="alternate"></link><published>2014-10-20T00:00:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2014-10-20:2014/10/20/redmine-gitlab-lian-xi-dezhi-itasono1.html</id><summary type="html">&lt;p&gt;ちょっと、ALMiniumによるredmine+gitではなく、redmineプロジェクトに同期しないリポジトリも置きたくなった。&lt;/p&gt;
 &lt;p&gt;そこで一旦ALMiniumから離れて、redmine, gitlab, jenkinsなどをnginxをフロントにして個別インストールすることに。&lt;/p&gt;
 &lt;p&gt;で、こんな感じ盛大に躓いて半日以上潰したのでメモっとく&lt;/p&gt;
 &lt;div class="section" id="redmine-gitlab"&gt;
@@ -563,7 +563,7 @@ server {
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</summary><category term="nginx"></category><category term="ruby"></category><category term="redmine"></category><category term="gitlab"></category></entry><entry><title>LL Diver 見学してきた</title><link href="http://attakei.net/2014/08/23/ll-diver-jian-xue-shitekita.html" rel="alternate"></link><updated>2014-08-23T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2014-08-23:2014/08/23/ll-diver-jian-xue-shitekita.html</id><summary type="html">&lt;p&gt;いろいろ理由はあるけど、エンジニア的刺激が欲しくて手っ取り早く直近でやっていたイベントだったので参加してきた。
+</summary><category term="nginx"></category><category term="ruby"></category><category term="redmine"></category><category term="gitlab"></category></entry><entry><title>LL Diver 見学してきた</title><link href="http://attakei.net/2014/08/23/ll-diver-jian-xue-shitekita.html" rel="alternate"></link><published>2014-08-23T00:00:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2014-08-23:2014/08/23/ll-diver-jian-xue-shitekita.html</id><summary type="html">&lt;p&gt;いろいろ理由はあるけど、エンジニア的刺激が欲しくて手っ取り早く直近でやっていたイベントだったので参加してきた。
 午前中ドタバタしていたので、現地についたのは14時ぐらいから。&lt;/p&gt;
 &lt;p&gt;この手のイベントは初参加だったりする。&lt;/p&gt;
 &lt;div class="section" id="pythonweb"&gt;
@@ -591,7 +591,7 @@ server {
 &lt;li&gt;LTって初めて見る。すごい勢い（小並感）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary><category term="LL"></category></entry><entry><title>twinkerer製作中</title><link href="http://attakei.net/2014/08/14/twinkererzhi-zuo-zhong.html" rel="alternate"></link><updated>2014-08-14T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2014-08-14:2014/08/14/twinkererzhi-zuo-zhong.html</id><summary type="html">&lt;p&gt;なるべく週ベースでtwitterのアクティビティをまとめてこっちのエントリーにしようとしているけど、
+</summary><category term="LL"></category></entry><entry><title>twinkerer製作中</title><link href="http://attakei.net/2014/08/14/twinkererzhi-zuo-zhong.html" rel="alternate"></link><published>2014-08-14T00:00:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2014-08-14:2014/08/14/twinkererzhi-zuo-zhong.html</id><summary type="html">&lt;p&gt;なるべく週ベースでtwitterのアクティビティをまとめてこっちのエントリーにしようとしているけど、
 能動的にするのがキツイので、改めて自動でまとめを作るのを意識的に実装中。&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;毎週月曜夜に先週月曜〜日曜のネット上のアクティビティをまとめてみたい&lt;/li&gt;
@@ -599,7 +599,7 @@ server {
 &lt;li&gt;Qiita, githubとかもまとめようか検討中&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://github.com/attakei/twinkerer"&gt;https://github.com/attakei/twinkerer&lt;/a&gt;&lt;/p&gt;
-</summary><category term="Python"></category><category term="blog"></category></entry><entry><title>ALMiniumのインストールで気をつけたことetc</title><link href="http://attakei.net/2014/05/15/alminiumnoinsutorudeqi-wotsuketakotoetc.html" rel="alternate"></link><updated>2014-05-15T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2014-05-15:2014/05/15/alminiumnoinsutorudeqi-wotsuketakotoetc.html</id><summary type="html">&lt;p&gt;ちょっと大して重要ではない細々とした理由で、今とは別の環境でALMiniumをインストールしてしてみた。
+</summary><category term="Python"></category><category term="blog"></category></entry><entry><title>ALMiniumのインストールで気をつけたことetc</title><link href="http://attakei.net/2014/05/15/alminiumnoinsutorudeqi-wotsuketakotoetc.html" rel="alternate"></link><published>2014-05-15T00:00:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2014-05-15:2014/05/15/alminiumnoinsutorudeqi-wotsuketakotoetc.html</id><summary type="html">&lt;p&gt;ちょっと大して重要ではない細々とした理由で、今とは別の環境でALMiniumをインストールしてしてみた。
 で、実際に作業した際になんとなく引っかかったりしたことをメモっていく。&lt;/p&gt;
 &lt;div class="section" id="id1"&gt;
 &lt;h2&gt;前提&lt;/h2&gt;
@@ -636,7 +636,7 @@ server {
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;で結局、次の手順でインストール&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="c1"&gt;# cd /path/to/redmine&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c1"&gt;# cd /path/to/redmine&lt;/span&gt;
 &lt;span class="c1"&gt;# cd ./plugins&lt;/span&gt;
 &lt;span class="c1"&gt;# hg clone https://bitbucket.org/ebrahim/redmine_restructuredtext_formatter&lt;/span&gt;
 &lt;span class="c1"&gt;# chown -R apache:apache redmine_restructuredtext_formatter&lt;/span&gt;
@@ -647,7 +647,7 @@ server {
 &lt;p&gt;動いているのでOKとしておく。&lt;/p&gt;
 &lt;p&gt;あとは、WindowsAzure上に置いているので、これがMSDNでもらえているクレジットを越えないことを祈るのみ。&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="ALMinium"></category></entry><entry><title>atomを試してみる</title><link href="http://attakei.net/2014/05/08/atomwoshi-shitemiru.html" rel="alternate"></link><updated>2014-05-08T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2014-05-08:2014/05/08/atomwoshi-shitemiru.html</id><summary type="html">&lt;p&gt;githubが少し前に発表していたテキストエディタ &lt;a class="reference external" href="https://atom.io/"&gt;atom&lt;/a&gt; がオープンソース化されていたので、ちょっと試してみる。
+</summary><category term="ALMinium"></category></entry><entry><title>atomを試してみる</title><link href="http://attakei.net/2014/05/08/atomwoshi-shitemiru.html" rel="alternate"></link><published>2014-05-08T00:00:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2014-05-08:2014/05/08/atomwoshi-shitemiru.html</id><summary type="html">&lt;p&gt;githubが少し前に発表していたテキストエディタ &lt;a class="reference external" href="https://atom.io/"&gt;atom&lt;/a&gt; がオープンソース化されていたので、ちょっと試してみる。
 実際に触りながらこの記事書いてます。&lt;/p&gt;
 &lt;div class="section" id="id2"&gt;
 &lt;h2&gt;軽くいじってみる&lt;/h2&gt;
@@ -672,7 +672,7 @@ UI全体テーマとエディタ部分のテーマが分けているっぽい？
 &lt;h2&gt;仮結論&lt;/h2&gt;
 &lt;p&gt;しばらく使ってみよう&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="atom"></category><category term="github"></category></entry><entry><title>kivy-chips: 自分の中でのボタンのイメージ通りのUIX</title><link href="http://attakei.net/2014/04/18/kivy-chips-zi-fen-nozhong-denobotannoimezitong-rinouix.html" rel="alternate"></link><updated>2014-04-18T00:00:00+09:00</updated><author><name>attakei</name></author><id>tag:attakei.net,2014-04-18:2014/04/18/kivy-chips-zi-fen-nozhong-denobotannoimezitong-rinouix.html</id><summary type="html">&lt;p&gt;Kivyを少しだけいじってしばらく経つけど、なんかButtonオブジェクト &lt;a class="footnote-reference" href="#f1" id="id1"&gt;[1]&lt;/a&gt;  のreleaseイベントが、
+</summary><category term="atom"></category><category term="github"></category></entry><entry><title>kivy-chips: 自分の中でのボタンのイメージ通りのUIX</title><link href="http://attakei.net/2014/04/18/kivy-chips-zi-fen-nozhong-denobotannoimezitong-rinouix.html" rel="alternate"></link><published>2014-04-18T00:00:00+09:00</published><author><name>attakei</name></author><id>tag:attakei.net,2014-04-18:2014/04/18/kivy-chips-zi-fen-nozhong-denobotannoimezitong-rinouix.html</id><summary type="html">&lt;p&gt;Kivyを少しだけいじってしばらく経つけど、なんかButtonオブジェクト &lt;a class="footnote-reference" href="#f1" id="id1"&gt;[1]&lt;/a&gt;  のreleaseイベントが、
 ボタンを押してから放した場所がボタンの上でなくてもディスパッチされている模様。&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://github.com/kivy/kivy/blob/master/kivy/uix/behaviors.py#L108"&gt;https://github.com/kivy/kivy/blob/master/kivy/uix/behaviors.py#L108&lt;/a&gt;&lt;/p&gt;
 &lt;pre class="code literal-block"&gt;
